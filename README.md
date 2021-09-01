@@ -17,6 +17,8 @@
 
 #### ⭐ Recent Stars
 
+- [symfony/ux-twig-component](https://github.com/symfony/ux-twig-component) -  (today)
+- [symfony/ux-live-component](https://github.com/symfony/ux-live-component) -  (today)
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust (1 day ago)
 - [butschster/CronExpressionGenerator](https://github.com/butschster/CronExpressionGenerator) - Cron expression generator built on php8 (1 day ago)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes (1 day ago)
@@ -25,8 +27,6 @@
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub. (3 days ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (3 days ago)
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more). (4 days ago)
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot (5 days ago)
-- [ZwerOxotnik/factorio-example-mod](https://github.com/ZwerOxotnik/factorio-example-mod) - Lightweight modular example mod with various features and compatibilities (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
