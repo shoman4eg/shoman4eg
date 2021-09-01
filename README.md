@@ -17,6 +17,7 @@
 
 #### ⭐ Recent Stars
 
+- [TomasVotruba/awesome-php-migrations](https://github.com/TomasVotruba/awesome-php-migrations) - Awesome sources for PHP projects migrations - legacy, pattern refactoring, framework switches, temlates and configs... (today)
 - [symfony/ux-twig-component](https://github.com/symfony/ux-twig-component) -  (today)
 - [symfony/ux-live-component](https://github.com/symfony/ux-live-component) -  (today)
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust (1 day ago)
@@ -26,7 +27,6 @@
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile (3 days ago)
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub. (3 days ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (3 days ago)
-- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more). (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
