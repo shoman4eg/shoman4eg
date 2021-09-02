@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (today)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (3 days ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (6 days ago)
 - [shoman4eg/g5-test](https://github.com/shoman4eg/g5-test) -  (9 months ago)
