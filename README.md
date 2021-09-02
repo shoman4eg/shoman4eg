@@ -17,6 +17,8 @@
 
 #### ⭐ Recent Stars
 
+- [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites. (today)
+- [shaj13/go-guardian](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication. (today)
 - [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital (today)
 - [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (today)
 - [liip/RMT](https://github.com/liip/RMT) - RMT is a handy tool to help releasing new version of your software (1 day ago)
@@ -25,8 +27,6 @@
 - [symfony/ux-live-component](https://github.com/symfony/ux-live-component) -  (1 day ago)
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust (2 days ago)
 - [butschster/CronExpressionGenerator](https://github.com/butschster/CronExpressionGenerator) - Cron expression generator built on php8 (2 days ago)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes (2 days ago)
-- [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000&#43; Hand-Crafted Go Examples, Exercises, and Quizzes (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
