@@ -17,6 +17,8 @@
 
 #### ⭐ Recent Stars
 
+- [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital (today)
+- [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (today)
 - [liip/RMT](https://github.com/liip/RMT) - RMT is a handy tool to help releasing new version of your software (1 day ago)
 - [TomasVotruba/awesome-php-migrations](https://github.com/TomasVotruba/awesome-php-migrations) - Awesome sources for PHP projects migrations - legacy, pattern refactoring, framework switches, temlates and configs... (1 day ago)
 - [symfony/ux-twig-component](https://github.com/symfony/ux-twig-component) -  (1 day ago)
@@ -25,8 +27,6 @@
 - [butschster/CronExpressionGenerator](https://github.com/butschster/CronExpressionGenerator) - Cron expression generator built on php8 (2 days ago)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes (2 days ago)
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000&#43; Hand-Crafted Go Examples, Exercises, and Quizzes (4 days ago)
-- [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile (4 days ago)
-- [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
