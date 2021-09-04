@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (1 day ago)
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (4 days ago)
+- [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (2 days ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (5 days ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (1 week ago)
 - [shoman4eg/g5-test](https://github.com/shoman4eg/g5-test) -  (9 months ago)
 - [shoman4eg/shoman4eg.github.io](https://github.com/shoman4eg/shoman4eg.github.io) -  (10 months ago)
@@ -18,16 +18,16 @@
 
 #### ⭐ Recent Stars
 
-- [opencardev/crankshaft](https://github.com/opencardev/crankshaft) - Crankshaft: A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit. (1 day ago)
-- [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer (1 day ago)
-- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (1 day ago)
-- [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites. (1 day ago)
-- [shaj13/go-guardian](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication. (1 day ago)
-- [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital (1 day ago)
-- [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (1 day ago)
-- [liip/RMT](https://github.com/liip/RMT) - RMT is a handy tool to help releasing new version of your software (2 days ago)
-- [TomasVotruba/awesome-php-migrations](https://github.com/TomasVotruba/awesome-php-migrations) - Awesome sources for PHP projects migrations - legacy, pattern refactoring, framework switches, temlates and configs... (2 days ago)
-- [symfony/ux-twig-component](https://github.com/symfony/ux-twig-component) -  (2 days ago)
+- [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices. (1 day ago)
+- [streetturtle/awesome-buttons](https://github.com/streetturtle/awesome-buttons) - Button widget library for Awesome Window Manager (1 day ago)
+- [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (1 day ago)
+- [opencardev/crankshaft](https://github.com/opencardev/crankshaft) - Crankshaft: A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit. (2 days ago)
+- [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer (2 days ago)
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager (2 days ago)
+- [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites. (2 days ago)
+- [shaj13/go-guardian](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication. (2 days ago)
+- [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital (2 days ago)
+- [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
