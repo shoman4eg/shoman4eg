@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (6 days ago)
+- [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (1 week ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 week ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (1 week ago)
 - [shoman4eg/g5-test](https://github.com/shoman4eg/g5-test) -  (10 months ago)
@@ -18,16 +18,16 @@
 
 #### ⭐ Recent Stars
 
-- [Barbarossa93/Genome](https://github.com/Barbarossa93/Genome) - Dotfiles for the Genome setup (today)
-- [undefinedDarkness/ewwxml](https://github.com/undefinedDarkness/ewwxml) - A eww -&gt; yuck configuration converter, written in Typescript (1 day ago)
-- [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly. (1 day ago)
-- [betterlockscreen/betterlockscreen](https://github.com/betterlockscreen/betterlockscreen) - 🍀 sweet looking lockscreen for linux system (1 day ago)
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀 (2 days ago)
-- [tizonia/tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices. (5 days ago)
-- [streetturtle/awesome-buttons](https://github.com/streetturtle/awesome-buttons) - Button widget library for Awesome Window Manager (5 days ago)
-- [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (5 days ago)
-- [opencardev/crankshaft](https://github.com/opencardev/crankshaft) - Crankshaft: A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit. (6 days ago)
-- [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer (6 days ago)
+- [shdown/luastatus](https://github.com/shdown/luastatus) - universal status bar content generator (1 day ago)
+- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. (1 day ago)
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins. (1 day ago)
+- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin  (1 day ago)
+- [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim! (1 day ago)
+- [MarshalX/yandex-music-api](https://github.com/MarshalX/yandex-music-api) - Неофициальная Python библиотека для работы с API сервиса Яндекс.Музыка (1 day ago)
+- [Barbarossa93/Genome](https://github.com/Barbarossa93/Genome) - Dotfiles for the Genome setup (1 day ago)
+- [undefinedDarkness/ewwxml](https://github.com/undefinedDarkness/ewwxml) - A eww -&gt; yuck configuration converter, written in Typescript (2 days ago)
+- [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly. (2 days ago)
+- [betterlockscreen/betterlockscreen](https://github.com/betterlockscreen/betterlockscreen) - 🍀 sweet looking lockscreen for linux system (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
