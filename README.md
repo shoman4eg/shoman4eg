@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (1 week ago)
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 week ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 weeks ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (2 weeks ago)
 - [shoman4eg/g5-test](https://github.com/shoman4eg/g5-test) -  (10 months ago)
 - [shoman4eg/shoman4eg.github.io](https://github.com/shoman4eg/shoman4eg.github.io) -  (10 months ago)
@@ -18,16 +18,16 @@
 
 #### ⭐ Recent Stars
 
-- [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers (2 days ago)
-- [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes (3 days ago)
-- [shdown/luastatus](https://github.com/shdown/luastatus) - universal status bar content generator (4 days ago)
-- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. (4 days ago)
-- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins. (4 days ago)
-- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin  (4 days ago)
-- [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim! (4 days ago)
-- [MarshalX/yandex-music-api](https://github.com/MarshalX/yandex-music-api) - Неофициальная Python библиотека для работы с API сервиса Яндекс.Музыка (4 days ago)
-- [Barbarossa93/Genome](https://github.com/Barbarossa93/Genome) - Dotfiles for the Genome setup (4 days ago)
-- [undefinedDarkness/ewwxml](https://github.com/undefinedDarkness/ewwxml) - A eww -&gt; yuck configuration converter, written in Typescript (5 days ago)
+- [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers (3 days ago)
+- [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes (4 days ago)
+- [shdown/luastatus](https://github.com/shdown/luastatus) - universal status bar content generator (5 days ago)
+- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. (5 days ago)
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins. (5 days ago)
+- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin  (5 days ago)
+- [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim! (5 days ago)
+- [MarshalX/yandex-music-api](https://github.com/MarshalX/yandex-music-api) - Неофициальная Python библиотека для работы с API сервиса Яндекс.Музыка (5 days ago)
+- [Barbarossa93/Genome](https://github.com/Barbarossa93/Genome) - Dotfiles for the Genome setup (5 days ago)
+- [undefinedDarkness/ewwxml](https://github.com/undefinedDarkness/ewwxml) - A eww -&gt; yuck configuration converter, written in Typescript (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
