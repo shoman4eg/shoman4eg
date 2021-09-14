@@ -18,16 +18,16 @@
 
 #### ⭐ Recent Stars
 
-- [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers (3 days ago)
-- [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes (4 days ago)
-- [shdown/luastatus](https://github.com/shdown/luastatus) - universal status bar content generator (5 days ago)
-- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. (5 days ago)
-- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins. (5 days ago)
-- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin  (5 days ago)
-- [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim! (5 days ago)
-- [MarshalX/yandex-music-api](https://github.com/MarshalX/yandex-music-api) - Неофициальная Python библиотека для работы с API сервиса Яндекс.Музыка (5 days ago)
-- [Barbarossa93/Genome](https://github.com/Barbarossa93/Genome) - Dotfiles for the Genome setup (5 days ago)
-- [undefinedDarkness/ewwxml](https://github.com/undefinedDarkness/ewwxml) - A eww -&gt; yuck configuration converter, written in Typescript (6 days ago)
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (1 day ago)
+- [ds-voix/xswitcher](https://github.com/ds-voix/xswitcher) - X switcher: fully customizable low-level keyboard helper for X.Org-based linux desktop (1 day ago)
+- [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers (4 days ago)
+- [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes (5 days ago)
+- [shdown/luastatus](https://github.com/shdown/luastatus) - universal status bar content generator (6 days ago)
+- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. (6 days ago)
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins. (6 days ago)
+- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin  (6 days ago)
+- [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim! (6 days ago)
+- [MarshalX/yandex-music-api](https://github.com/MarshalX/yandex-music-api) - Неофициальная Python библиотека для работы с API сервиса Яндекс.Музыка (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
