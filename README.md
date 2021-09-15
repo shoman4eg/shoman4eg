@@ -6,7 +6,7 @@
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 weeks ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (2 weeks ago)
 - [shoman4eg/g5-test](https://github.com/shoman4eg/g5-test) -  (10 months ago)
-- [shoman4eg/shoman4eg.github.io](https://github.com/shoman4eg/shoman4eg.github.io) -  (10 months ago)
+- [shoman4eg/shoman4eg.github.io](https://github.com/shoman4eg/shoman4eg.github.io) -  (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -18,16 +18,16 @@
 
 #### ⭐ Recent Stars
 
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (1 day ago)
-- [ds-voix/xswitcher](https://github.com/ds-voix/xswitcher) - X switcher: fully customizable low-level keyboard helper for X.Org-based linux desktop (1 day ago)
-- [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers (4 days ago)
-- [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes (5 days ago)
-- [shdown/luastatus](https://github.com/shdown/luastatus) - universal status bar content generator (6 days ago)
-- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. (6 days ago)
-- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins. (6 days ago)
-- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin  (6 days ago)
-- [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim! (6 days ago)
-- [MarshalX/yandex-music-api](https://github.com/MarshalX/yandex-music-api) - Неофициальная Python библиотека для работы с API сервиса Яндекс.Музыка (6 days ago)
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (1 day ago)
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 days ago)
+- [ds-voix/xswitcher](https://github.com/ds-voix/xswitcher) - X switcher: fully customizable low-level keyboard helper for X.Org-based linux desktop (2 days ago)
+- [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers (5 days ago)
+- [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes (6 days ago)
+- [shdown/luastatus](https://github.com/shdown/luastatus) - universal status bar content generator (1 week ago)
+- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. (1 week ago)
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins. (1 week ago)
+- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin  (1 week ago)
+- [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim! (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
