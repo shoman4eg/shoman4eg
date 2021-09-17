@@ -4,7 +4,7 @@
 
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (2 weeks ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 weeks ago)
-- [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (2 weeks ago)
+- [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (3 weeks ago)
 - [shoman4eg/g5-test](https://github.com/shoman4eg/g5-test) -  (10 months ago)
 - [shoman4eg/shoman4eg.github.io](https://github.com/shoman4eg/shoman4eg.github.io) -  (11 months ago)
 
@@ -18,11 +18,11 @@
 
 #### ⭐ Recent Stars
 
-- [MCotocel/dotfiles](https://github.com/MCotocel/dotfiles) - There&#39;s no place like ~/ (1 day ago)
-- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (2 days ago)
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 days ago)
-- [ds-voix/xswitcher](https://github.com/ds-voix/xswitcher) - X switcher: fully customizable low-level keyboard helper for X.Org-based linux desktop (3 days ago)
-- [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers (6 days ago)
+- [MCotocel/dotfiles](https://github.com/MCotocel/dotfiles) - There&#39;s no place like ~/ (2 days ago)
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (3 days ago)
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (4 days ago)
+- [ds-voix/xswitcher](https://github.com/ds-voix/xswitcher) - X switcher: fully customizable low-level keyboard helper for X.Org-based linux desktop (4 days ago)
+- [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers (1 week ago)
 - [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes (1 week ago)
 - [shdown/luastatus](https://github.com/shdown/luastatus) - universal status bar content generator (1 week ago)
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. (1 week ago)
