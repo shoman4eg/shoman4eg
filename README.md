@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (2 days ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (2 weeks ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 weeks ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (3 weeks ago)
@@ -18,10 +19,10 @@
 
 #### ⭐ Recent Stars
 
-- [MCotocel/dotfiles](https://github.com/MCotocel/dotfiles) - There&#39;s no place like ~/ (2 days ago)
-- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (3 days ago)
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (4 days ago)
-- [ds-voix/xswitcher](https://github.com/ds-voix/xswitcher) - X switcher: fully customizable low-level keyboard helper for X.Org-based linux desktop (4 days ago)
+- [MCotocel/dotfiles](https://github.com/MCotocel/dotfiles) - There&#39;s no place like ~/ (3 days ago)
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (4 days ago)
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (5 days ago)
+- [ds-voix/xswitcher](https://github.com/ds-voix/xswitcher) - X switcher: fully customizable low-level keyboard helper for X.Org-based linux desktop (5 days ago)
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers (1 week ago)
 - [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes (1 week ago)
 - [shdown/luastatus](https://github.com/shdown/luastatus) - universal status bar content generator (1 week ago)
@@ -31,11 +32,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [MarwanAlsoltany](https://github.com/MarwanAlsoltany)
 - [bakoorahnin](https://github.com/bakoorahnin)
 - [deleteBigTech](https://github.com/deleteBigTech)
 - [kroitor](https://github.com/kroitor)
 - [pceuropa](https://github.com/pceuropa)
-- [akiraz2](https://github.com/akiraz2)
 
 
 #### 📫 Where to find me
