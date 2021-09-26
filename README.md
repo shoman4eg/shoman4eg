@@ -5,7 +5,7 @@
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (1 week ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (3 weeks ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (3 weeks ago)
-- [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (4 weeks ago)
+- [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (1 month ago)
 - [shoman4eg/g5-test](https://github.com/shoman4eg/g5-test) -  (10 months ago)
 - [shoman4eg/shoman4eg.github.io](https://github.com/shoman4eg/shoman4eg.github.io) -  (11 months ago)
 
@@ -19,8 +19,8 @@
 
 #### ⭐ Recent Stars
 
-- [spiral/database](https://github.com/spiral/database) - Database Abstraction Layer, Schema Introspection, Schema Generation, Query Builders (4 days ago)
-- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing (6 days ago)
+- [spiral/database](https://github.com/spiral/database) - Database Abstraction Layer, Schema Introspection, Schema Generation, Query Builders (5 days ago)
+- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing (1 week ago)
 - [onodera-punpun/melonbar](https://github.com/onodera-punpun/melonbar) - A hackable bar/panel for X written in Go. (1 week ago)
 - [unrelentingtech/unixbar](https://github.com/unrelentingtech/unixbar) - Rust library for creating output for UNIX-style desktop bars like i3bar/swaybar, dzen2, lemonbar (1 week ago)
 - [plasmoduck/modwm](https://github.com/plasmoduck/modwm) - MODWM - Modular Dynamic Window Manager (1 week ago)
