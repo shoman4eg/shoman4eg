@@ -19,14 +19,14 @@
 
 #### ⭐ Recent Stars
 
-- [spiral/database](https://github.com/spiral/database) - Database Abstraction Layer, Schema Introspection, Schema Generation, Query Builders (6 days ago)
+- [spiral/database](https://github.com/spiral/database) - Database Abstraction Layer, Schema Introspection, Schema Generation, Query Builders (1 week ago)
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing (1 week ago)
 - [onodera-punpun/melonbar](https://github.com/onodera-punpun/melonbar) - A hackable bar/panel for X written in Go. (1 week ago)
 - [unrelentingtech/unixbar](https://github.com/unrelentingtech/unixbar) - Rust library for creating output for UNIX-style desktop bars like i3bar/swaybar, dzen2, lemonbar (1 week ago)
 - [plasmoduck/modwm](https://github.com/plasmoduck/modwm) - MODWM - Modular Dynamic Window Manager (1 week ago)
 - [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 80 configurable terminal spinner/progress indicators. (1 week ago)
 - [MCotocel/dotfiles](https://github.com/MCotocel/dotfiles) - There&#39;s no place like ~/ (1 week ago)
-- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (1 week ago)
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (2 weeks ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 weeks ago)
 - [ds-voix/xswitcher](https://github.com/ds-voix/xswitcher) - X switcher: fully customizable low-level keyboard helper for X.Org-based linux desktop (2 weeks ago)
 
