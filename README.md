@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (1 week ago)
-- [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (3 weeks ago)
+- [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (2 weeks ago)
+- [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (4 weeks ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 month ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (1 month ago)
 - [shoman4eg/g5-test](https://github.com/shoman4eg/g5-test) -  (10 months ago)
@@ -19,10 +19,10 @@
 
 #### ⭐ Recent Stars
 
-- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 day ago)
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (1 day ago)
-- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (1 day ago)
-- [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces (1 day ago)
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (2 days ago)
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (2 days ago)
+- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (2 days ago)
+- [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces (2 days ago)
 - [spiral/database](https://github.com/spiral/database) - Database Abstraction Layer, Schema Introspection, Schema Generation, Query Builders (1 week ago)
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing (1 week ago)
 - [onodera-punpun/melonbar](https://github.com/onodera-punpun/melonbar) - A hackable bar/panel for X written in Go. (1 week ago)
