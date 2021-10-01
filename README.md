@@ -19,10 +19,10 @@
 
 #### ⭐ Recent Stars
 
-- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (2 days ago)
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (2 days ago)
-- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (2 days ago)
-- [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces (2 days ago)
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (3 days ago)
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (3 days ago)
+- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (3 days ago)
+- [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces (3 days ago)
 - [spiral/database](https://github.com/spiral/database) - Database Abstraction Layer, Schema Introspection, Schema Generation, Query Builders (1 week ago)
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing (1 week ago)
 - [onodera-punpun/melonbar](https://github.com/onodera-punpun/melonbar) - A hackable bar/panel for X written in Go. (1 week ago)
@@ -33,10 +33,10 @@
 #### 👯 Check out some of my recent followers
 
 - [vmthread](https://github.com/vmthread)
-- [MarwanAlsoltany](https://github.com/MarwanAlsoltany)
 - [bakoorahnin](https://github.com/bakoorahnin)
 - [deleteBigTech](https://github.com/deleteBigTech)
 - [kroitor](https://github.com/kroitor)
+- [pceuropa](https://github.com/pceuropa)
 
 
 #### 📫 Where to find me
