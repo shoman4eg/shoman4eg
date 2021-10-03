@@ -19,12 +19,12 @@
 
 #### ⭐ Recent Stars
 
-- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (4 days ago)
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (4 days ago)
-- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (4 days ago)
-- [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces (4 days ago)
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (5 days ago)
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (5 days ago)
+- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (5 days ago)
+- [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces (5 days ago)
 - [spiral/database](https://github.com/spiral/database) - Database Abstraction Layer, Schema Introspection, Schema Generation, Query Builders (1 week ago)
-- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing (1 week ago)
+- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing (2 weeks ago)
 - [onodera-punpun/melonbar](https://github.com/onodera-punpun/melonbar) - A hackable bar/panel for X written in Go. (2 weeks ago)
 - [unrelentingtech/unixbar](https://github.com/unrelentingtech/unixbar) - Rust library for creating output for UNIX-style desktop bars like i3bar/swaybar, dzen2, lemonbar (2 weeks ago)
 - [plasmoduck/modwm](https://github.com/plasmoduck/modwm) - MODWM - Modular Dynamic Window Manager (2 weeks ago)
