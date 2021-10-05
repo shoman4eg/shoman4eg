@@ -6,7 +6,7 @@
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (1 month ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 month ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (1 month ago)
-- [shoman4eg/g5-test](https://github.com/shoman4eg/g5-test) -  (10 months ago)
+- [shoman4eg/g5-test](https://github.com/shoman4eg/g5-test) -  (11 months ago)
 - [shoman4eg/shoman4eg.github.io](https://github.com/shoman4eg/shoman4eg.github.io) -  (11 months ago)
 
 #### 🌱 My latest projects
@@ -19,11 +19,11 @@
 
 #### ⭐ Recent Stars
 
-- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (6 days ago)
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (6 days ago)
-- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (6 days ago)
-- [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces (6 days ago)
-- [spiral/database](https://github.com/spiral/database) - Database Abstraction Layer, Schema Introspection, Schema Generation, Query Builders (1 week ago)
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 week ago)
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (1 week ago)
+- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (1 week ago)
+- [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces (1 week ago)
+- [spiral/database](https://github.com/spiral/database) - Database Abstraction Layer, Schema Introspection, Schema Generation, Query Builders (2 weeks ago)
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing (2 weeks ago)
 - [onodera-punpun/melonbar](https://github.com/onodera-punpun/melonbar) - A hackable bar/panel for X written in Go. (2 weeks ago)
 - [unrelentingtech/unixbar](https://github.com/unrelentingtech/unixbar) - Rust library for creating output for UNIX-style desktop bars like i3bar/swaybar, dzen2, lemonbar (2 weeks ago)
