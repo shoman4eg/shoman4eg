@@ -19,6 +19,8 @@
 
 #### ⭐ Recent Stars
 
+- [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar) - Laravel Livewire component to show Events in a good looking monthly calendar (1 day ago)
+- [Baldomo/open-in-mpv](https://github.com/Baldomo/open-in-mpv) - Simple web extension to open videos in mpv (1 day ago)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 week ago)
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (1 week ago)
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (1 week ago)
@@ -27,16 +29,14 @@
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing (2 weeks ago)
 - [onodera-punpun/melonbar](https://github.com/onodera-punpun/melonbar) - A hackable bar/panel for X written in Go. (2 weeks ago)
 - [unrelentingtech/unixbar](https://github.com/unrelentingtech/unixbar) - Rust library for creating output for UNIX-style desktop bars like i3bar/swaybar, dzen2, lemonbar (2 weeks ago)
-- [plasmoduck/modwm](https://github.com/plasmoduck/modwm) - MODWM - Modular Dynamic Window Manager (2 weeks ago)
-- [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 80 configurable terminal spinner/progress indicators. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [nikitavoloboev](https://github.com/nikitavoloboev)
+- [artemgavrilov](https://github.com/artemgavrilov)
 - [vmthread](https://github.com/vmthread)
 - [bakoorahnin](https://github.com/bakoorahnin)
 - [deleteBigTech](https://github.com/deleteBigTech)
-- [kroitor](https://github.com/kroitor)
-- [pceuropa](https://github.com/pceuropa)
 
 
 #### 📫 Where to find me
