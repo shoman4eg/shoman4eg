@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (2 weeks ago)
+- [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (3 weeks ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (1 month ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 month ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (1 month ago)
@@ -19,8 +19,9 @@
 
 #### ⭐ Recent Stars
 
-- [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar) - Laravel Livewire component to show Events in a good looking monthly calendar (1 day ago)
-- [Baldomo/open-in-mpv](https://github.com/Baldomo/open-in-mpv) - Simple web extension to open videos in mpv (1 day ago)
+- [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs (1 day ago)
+- [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar) - Laravel Livewire component to show Events in a good looking monthly calendar (2 days ago)
+- [Baldomo/open-in-mpv](https://github.com/Baldomo/open-in-mpv) - Simple web extension to open videos in mpv (2 days ago)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 week ago)
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (1 week ago)
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (1 week ago)
@@ -28,7 +29,6 @@
 - [spiral/database](https://github.com/spiral/database) - Database Abstraction Layer, Schema Introspection, Schema Generation, Query Builders (2 weeks ago)
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing (2 weeks ago)
 - [onodera-punpun/melonbar](https://github.com/onodera-punpun/melonbar) - A hackable bar/panel for X written in Go. (2 weeks ago)
-- [unrelentingtech/unixbar](https://github.com/unrelentingtech/unixbar) - Rust library for creating output for UNIX-style desktop bars like i3bar/swaybar, dzen2, lemonbar (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
