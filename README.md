@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (1 day ago)
+- [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (2 days ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (3 weeks ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (1 month ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 month ago)
@@ -20,16 +20,16 @@
 
 #### ⭐ Recent Stars
 
-- [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs (2 days ago)
-- [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar) - Laravel Livewire component to show Events in a good looking monthly calendar (3 days ago)
-- [Baldomo/open-in-mpv](https://github.com/Baldomo/open-in-mpv) - Simple web extension to open videos in mpv (3 days ago)
+- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator (1 day ago)
+- [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs (3 days ago)
+- [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar) - Laravel Livewire component to show Events in a good looking monthly calendar (4 days ago)
+- [Baldomo/open-in-mpv](https://github.com/Baldomo/open-in-mpv) - Simple web extension to open videos in mpv (4 days ago)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 week ago)
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (1 week ago)
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (1 week ago)
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces (1 week ago)
 - [spiral/database](https://github.com/spiral/database) - Database Abstraction Layer, Schema Introspection, Schema Generation, Query Builders (2 weeks ago)
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing (2 weeks ago)
-- [onodera-punpun/melonbar](https://github.com/onodera-punpun/melonbar) - A hackable bar/panel for X written in Go. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
