@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (5 days ago)
+- [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (6 days ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (3 weeks ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (1 month ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 month ago)
@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments. (1 day ago)
-- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator (4 days ago)
-- [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs (6 days ago)
+- [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments. (2 days ago)
+- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator (5 days ago)
+- [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs (1 week ago)
 - [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar) - Laravel Livewire component to show Events in a good looking monthly calendar (1 week ago)
 - [Baldomo/open-in-mpv](https://github.com/Baldomo/open-in-mpv) - Simple web extension to open videos in mpv (1 week ago)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (2 weeks ago)
