@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 days ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (3 days ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (1 week ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (1 month ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (1 month ago)
@@ -20,8 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [reugn/auth-server](https://github.com/reugn/auth-server) - Simple authentication and authorization server (1 day ago)
-- [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments. (5 days ago)
+- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.  (1 day ago)
+- [reugn/auth-server](https://github.com/reugn/auth-server) - Simple authentication and authorization server (2 days ago)
+- [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments. (6 days ago)
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator (1 week ago)
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs (1 week ago)
 - [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar) - Laravel Livewire component to show Events in a good looking monthly calendar (1 week ago)
@@ -29,7 +30,6 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (2 weeks ago)
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (2 weeks ago)
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (2 weeks ago)
-- [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
