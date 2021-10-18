@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (3 days ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (4 days ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (1 week ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (1 month ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (1 month ago)
@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.  (1 day ago)
-- [reugn/auth-server](https://github.com/reugn/auth-server) - Simple authentication and authorization server (2 days ago)
-- [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments. (6 days ago)
+- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.  (2 days ago)
+- [reugn/auth-server](https://github.com/reugn/auth-server) - Simple authentication and authorization server (3 days ago)
+- [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments. (1 week ago)
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator (1 week ago)
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs (1 week ago)
 - [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar) - Laravel Livewire component to show Events in a good looking monthly calendar (1 week ago)
