@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 days ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (3 days ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (2 weeks ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (1 month ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (1 month ago)
@@ -20,15 +20,15 @@
 
 #### ⭐ Recent Stars
 
-- [mikepea/go-jira-ui](https://github.com/mikepea/go-jira-ui) - Interactive JIRA cli tool, based around go-jira and termui (1 day ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 day ago)
-- [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (3 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (3 days ago)
-- [Clivern/Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps. (3 days ago)
-- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.  (5 days ago)
-- [reugn/auth-server](https://github.com/reugn/auth-server) - Simple authentication and authorization server (6 days ago)
+- [mikepea/go-jira-ui](https://github.com/mikepea/go-jira-ui) - Interactive JIRA cli tool, based around go-jira and termui (2 days ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (2 days ago)
+- [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (4 days ago)
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (4 days ago)
+- [Clivern/Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps. (4 days ago)
+- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.  (6 days ago)
+- [reugn/auth-server](https://github.com/reugn/auth-server) - Simple authentication and authorization server (1 week ago)
 - [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments. (1 week ago)
-- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator (1 week ago)
+- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator (2 weeks ago)
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
