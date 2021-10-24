@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (4 days ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (5 days ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (2 weeks ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (1 month ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (1 month ago)
@@ -20,16 +20,16 @@
 
 #### ⭐ Recent Stars
 
-- [boltdesignsystem/bolt](https://github.com/boltdesignsystem/bolt) - The Bolt Design System provides robust Twig and Web Component-powered UI components, reusable visual styles, and powerful tooling to help developers, designers, and content authors build, maintain, and scale best of class digital experiences. (1 day ago)
-- [mikepea/go-jira-ui](https://github.com/mikepea/go-jira-ui) - Interactive JIRA cli tool, based around go-jira and termui (3 days ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (3 days ago)
-- [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (5 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (5 days ago)
-- [Clivern/Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps. (5 days ago)
-- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.  (1 week ago)
-- [reugn/auth-server](https://github.com/reugn/auth-server) - Simple authentication and authorization server (1 week ago)
-- [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments. (1 week ago)
-- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator (2 weeks ago)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (1 day ago)
+- [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go&#43; language for engineering, STEM education, and data science (1 day ago)
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. (1 day ago)
+- [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme (1 day ago)
+- [VapourNvim/VapourNvim](https://github.com/VapourNvim/VapourNvim) - A NeoVim config for THE ULTIMATE vim IDE-like experience. (1 day ago)
+- [algerbrex/blunder](https://github.com/algerbrex/blunder) - A UCI compatible chess engine written in Golang (1 day ago)
+- [boltdesignsystem/bolt](https://github.com/boltdesignsystem/bolt) - The Bolt Design System provides robust Twig and Web Component-powered UI components, reusable visual styles, and powerful tooling to help developers, designers, and content authors build, maintain, and scale best of class digital experiences. (2 days ago)
+- [mikepea/go-jira-ui](https://github.com/mikepea/go-jira-ui) - Interactive JIRA cli tool, based around go-jira and termui (4 days ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (4 days ago)
+- [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
