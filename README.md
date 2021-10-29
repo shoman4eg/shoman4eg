@@ -19,13 +19,13 @@
 
 #### ⭐ Recent Stars
 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (5 days ago)
-- [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go&#43; language for engineering, STEM education, and data science (5 days ago)
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. (5 days ago)
-- [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme (5 days ago)
-- [VapourNvim/VapourNvim](https://github.com/VapourNvim/VapourNvim) - A NeoVim config for THE ULTIMATE vim IDE-like experience. (5 days ago)
-- [algerbrex/blunder](https://github.com/algerbrex/blunder) - A UCI compatible chess engine written in Golang (5 days ago)
-- [boltdesignsystem/bolt](https://github.com/boltdesignsystem/bolt) - The Bolt Design System provides robust Twig and Web Component-powered UI components, reusable visual styles, and powerful tooling to help developers, designers, and content authors build, maintain, and scale best of class digital experiences. (6 days ago)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (6 days ago)
+- [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go&#43; language for engineering, STEM education, and data science (6 days ago)
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. (6 days ago)
+- [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme (6 days ago)
+- [VapourNvim/VapourNvim](https://github.com/VapourNvim/VapourNvim) - A NeoVim config for THE ULTIMATE vim IDE-like experience. (6 days ago)
+- [algerbrex/blunder](https://github.com/algerbrex/blunder) - A UCI compatible chess engine written in Golang (6 days ago)
+- [boltdesignsystem/bolt](https://github.com/boltdesignsystem/bolt) - The Bolt Design System provides robust Twig and Web Component-powered UI components, reusable visual styles, and powerful tooling to help developers, designers, and content authors build, maintain, and scale best of class digital experiences. (1 week ago)
 - [mikepea/go-jira-ui](https://github.com/mikepea/go-jira-ui) - Interactive JIRA cli tool, based around go-jira and termui (1 week ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 week ago)
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (1 week ago)
