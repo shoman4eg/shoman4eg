@@ -26,8 +26,8 @@
 - [VapourNvim/VapourNvim](https://github.com/VapourNvim/VapourNvim) - A NeoVim config for THE ULTIMATE vim IDE-like experience. (1 week ago)
 - [algerbrex/blunder](https://github.com/algerbrex/blunder) - A UCI compatible chess engine written in Golang (1 week ago)
 - [boltdesignsystem/bolt](https://github.com/boltdesignsystem/bolt) - The Bolt Design System provides robust Twig and Web Component-powered UI components, reusable visual styles, and powerful tooling to help developers, designers, and content authors build, maintain, and scale best of class digital experiences. (1 week ago)
-- [mikepea/go-jira-ui](https://github.com/mikepea/go-jira-ui) - Interactive JIRA cli tool, based around go-jira and termui (1 week ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 week ago)
+- [mikepea/go-jira-ui](https://github.com/mikepea/go-jira-ui) - Interactive JIRA cli tool, based around go-jira and termui (2 weeks ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (2 weeks ago)
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
