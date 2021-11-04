@@ -3,11 +3,11 @@
 #### 👷 Check out what I'm currently working on
 
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 weeks ago)
-- [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (3 weeks ago)
+- [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (4 weeks ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (1 month ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (2 months ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (2 months ago)
-- [shoman4eg/g5-test](https://github.com/shoman4eg/g5-test) -  (11 months ago)
+- [shoman4eg/g5-test](https://github.com/shoman4eg/g5-test) -  (1 year ago)
 
 #### 🌱 My latest projects
 
