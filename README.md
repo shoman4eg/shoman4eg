@@ -19,8 +19,9 @@
 
 #### ⭐ Recent Stars
 
-- [phon31x/Tiny_polybar](https://github.com/phon31x/Tiny_polybar) -  (1 day ago)
-- [0RaymondJiang0/ngrok.space](https://github.com/0RaymondJiang0/ngrok.space) - ngrok space for business (5 days ago)
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty &amp; versatile tmux configuration made with ❤️ (1 day ago)
+- [phon31x/Tiny_polybar](https://github.com/phon31x/Tiny_polybar) -  (2 days ago)
+- [0RaymondJiang0/ngrok.space](https://github.com/0RaymondJiang0/ngrok.space) - ngrok space for business (6 days ago)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (2 weeks ago)
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go&#43; language for engineering, STEM education, and data science (2 weeks ago)
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. (2 weeks ago)
@@ -28,7 +29,6 @@
 - [VapourNvim/VapourNvim](https://github.com/VapourNvim/VapourNvim) - A NeoVim config for THE ULTIMATE vim IDE-like experience. (2 weeks ago)
 - [algerbrex/blunder](https://github.com/algerbrex/blunder) - A UCI compatible chess engine written in Golang (2 weeks ago)
 - [boltdesignsystem/bolt](https://github.com/boltdesignsystem/bolt) - The Bolt Design System provides robust Twig and Web Component-powered UI components, reusable visual styles, and powerful tooling to help developers, designers, and content authors build, maintain, and scale best of class digital experiences. (2 weeks ago)
-- [mikepea/go-jira-ui](https://github.com/mikepea/go-jira-ui) - Interactive JIRA cli tool, based around go-jira and termui (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
