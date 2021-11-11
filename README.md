@@ -19,9 +19,9 @@
 
 #### ⭐ Recent Stars
 
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty &amp; versatile tmux configuration made with ❤️ (1 day ago)
-- [phon31x/Tiny_polybar](https://github.com/phon31x/Tiny_polybar) -  (2 days ago)
-- [0RaymondJiang0/ngrok.space](https://github.com/0RaymondJiang0/ngrok.space) - ngrok space for business (6 days ago)
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty &amp; versatile tmux configuration made with ❤️ (2 days ago)
+- [phon31x/Tiny_polybar](https://github.com/phon31x/Tiny_polybar) -  (3 days ago)
+- [0RaymondJiang0/ngrok.space](https://github.com/0RaymondJiang0/ngrok.space) - ngrok space for business (1 week ago)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (2 weeks ago)
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go&#43; language for engineering, STEM education, and data science (2 weeks ago)
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. (2 weeks ago)
