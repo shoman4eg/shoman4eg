@@ -19,8 +19,8 @@
 
 #### ⭐ Recent Stars
 
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty &amp; versatile tmux configuration made with ❤️ (4 days ago)
-- [phon31x/Tiny_polybar](https://github.com/phon31x/Tiny_polybar) -  (5 days ago)
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty &amp; versatile tmux configuration made with ❤️ (5 days ago)
+- [phon31x/Tiny_polybar](https://github.com/phon31x/Tiny_polybar) -  (6 days ago)
 - [0RaymondJiang0/ngrok.space](https://github.com/0RaymondJiang0/ngrok.space) - ngrok space for business (1 week ago)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (3 weeks ago)
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go&#43; language for engineering, STEM education, and data science (3 weeks ago)
