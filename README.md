@@ -4,10 +4,9 @@
 
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (3 weeks ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (1 month ago)
-- [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (1 month ago)
+- [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (2 months ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (2 months ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (2 months ago)
-- [shoman4eg/g5-test](https://github.com/shoman4eg/g5-test) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -19,8 +18,9 @@
 
 #### ⭐ Recent Stars
 
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty &amp; versatile tmux configuration made with ❤️ (5 days ago)
-- [phon31x/Tiny_polybar](https://github.com/phon31x/Tiny_polybar) -  (6 days ago)
+- [cshum/hybridcache](https://github.com/cshum/hybridcache) - A multi-level cache library with cache stampede prevention for Go (1 day ago)
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty &amp; versatile tmux configuration made with ❤️ (6 days ago)
+- [phon31x/Tiny_polybar](https://github.com/phon31x/Tiny_polybar) -  (1 week ago)
 - [0RaymondJiang0/ngrok.space](https://github.com/0RaymondJiang0/ngrok.space) - ngrok space for business (1 week ago)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (3 weeks ago)
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go&#43; language for engineering, STEM education, and data science (3 weeks ago)
@@ -28,7 +28,6 @@
 - [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme (3 weeks ago)
 - [VapourNvim/VapourNvim](https://github.com/VapourNvim/VapourNvim) - A NeoVim config for THE ULTIMATE vim IDE-like experience. (3 weeks ago)
 - [algerbrex/blunder](https://github.com/algerbrex/blunder) - A UCI compatible chess engine written in Golang (3 weeks ago)
-- [boltdesignsystem/bolt](https://github.com/boltdesignsystem/bolt) - The Bolt Design System provides robust Twig and Web Component-powered UI components, reusable visual styles, and powerful tooling to help developers, designers, and content authors build, maintain, and scale best of class digital experiences. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
