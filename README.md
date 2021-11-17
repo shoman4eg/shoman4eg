@@ -18,16 +18,16 @@
 
 #### ⭐ Recent Stars
 
-- [melbahja/seo](https://github.com/melbahja/seo) - 🐘 Simple PHP library to help developers 🍻 do better on-page SEO optimization 🤖 (1 day ago)
-- [cshum/hybridcache](https://github.com/cshum/hybridcache) - A multi-level cache library with cache stampede prevention for Go (2 days ago)
+- [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against your site. (1 day ago)
+- [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin (1 day ago)
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Your donations and positive reviews motivate and inspire our small team! (1 day ago)
+- [melbahja/seo](https://github.com/melbahja/seo) - 🐘 Simple PHP library to help developers 🍻 do better on-page SEO optimization 🤖 (2 days ago)
+- [cshum/hybridcache](https://github.com/cshum/hybridcache) - A multi-level cache library with cache stampede prevention for Go (3 days ago)
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty &amp; versatile tmux configuration made with ❤️ (1 week ago)
 - [phon31x/Tiny_polybar](https://github.com/phon31x/Tiny_polybar) -  (1 week ago)
 - [0RaymondJiang0/ngrok.space](https://github.com/0RaymondJiang0/ngrok.space) - ngrok space for business (1 week ago)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (3 weeks ago)
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go&#43; language for engineering, STEM education, and data science (3 weeks ago)
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. (3 weeks ago)
-- [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme (3 weeks ago)
-- [VapourNvim/VapourNvim](https://github.com/VapourNvim/VapourNvim) - A NeoVim config for THE ULTIMATE vim IDE-like experience. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
