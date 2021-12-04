@@ -18,12 +18,12 @@
 
 #### ⭐ Recent Stars
 
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (1 day ago)
-- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image” format for fast, lossless image compression (1 day ago)
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier (1 day ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (1 day ago)
-- [tyler-sommer/stick](https://github.com/tyler-sommer/stick) - A golang port of the Twig templating engine (1 day ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (2 days ago)
+- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (2 days ago)
+- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image” format for fast, lossless image compression (2 days ago)
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier (2 days ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (2 days ago)
+- [tyler-sommer/stick](https://github.com/tyler-sommer/stick) - A golang port of the Twig templating engine (2 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (3 days ago)
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer (1 week ago)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ (1 week ago)
 - [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy (1 week ago)
