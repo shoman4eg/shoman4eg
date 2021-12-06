@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 month ago)
-- [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (1 month ago)
+- [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (2 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (2 months ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (3 months ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (3 months ago)
@@ -18,12 +18,12 @@
 
 #### ⭐ Recent Stars
 
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (3 days ago)
-- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image” format for fast, lossless image compression (3 days ago)
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier (3 days ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (3 days ago)
-- [tyler-sommer/stick](https://github.com/tyler-sommer/stick) - A golang port of the Twig templating engine (3 days ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (4 days ago)
+- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (4 days ago)
+- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image” format for fast, lossless image compression (4 days ago)
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier (4 days ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (4 days ago)
+- [tyler-sommer/stick](https://github.com/tyler-sommer/stick) - A golang port of the Twig templating engine (4 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (5 days ago)
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer (1 week ago)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ (1 week ago)
 - [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy (1 week ago)
