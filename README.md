@@ -18,16 +18,16 @@
 
 #### ⭐ Recent Stars
 
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (4 days ago)
-- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image” format for fast, lossless image compression (4 days ago)
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier (4 days ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (4 days ago)
-- [tyler-sommer/stick](https://github.com/tyler-sommer/stick) - A golang port of the Twig templating engine (4 days ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (5 days ago)
+- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 day ago)
+- [c9s/bbgo](https://github.com/c9s/bbgo) - The modern cryptocurrency trading bot written in Go. (1 day ago)
+- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (5 days ago)
+- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image” format for fast, lossless image compression (5 days ago)
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier (5 days ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (5 days ago)
+- [tyler-sommer/stick](https://github.com/tyler-sommer/stick) - A golang port of the Twig templating engine (5 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (6 days ago)
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer (1 week ago)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ (1 week ago)
-- [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy (1 week ago)
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
