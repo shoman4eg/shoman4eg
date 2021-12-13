@@ -18,10 +18,10 @@
 
 #### ⭐ Recent Stars
 
-- [chialab/docker-php](https://github.com/chialab/docker-php) - 🧰 Adding common PHP extensions to some of the official PHP Docker images. (3 days ago)
-- [zeldaret/oot](https://github.com/zeldaret/oot) - Decompilation of The Legend of Zelda: Ocarina of Time (4 days ago)
-- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (6 days ago)
-- [c9s/bbgo](https://github.com/c9s/bbgo) - The modern cryptocurrency trading bot written in Go. (6 days ago)
+- [chialab/docker-php](https://github.com/chialab/docker-php) - 🧰 Adding common PHP extensions to some of the official PHP Docker images. (4 days ago)
+- [zeldaret/oot](https://github.com/zeldaret/oot) - Decompilation of The Legend of Zelda: Ocarina of Time (5 days ago)
+- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 week ago)
+- [c9s/bbgo](https://github.com/c9s/bbgo) - The modern cryptocurrency trading bot written in Go. (1 week ago)
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals. (1 week ago)
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image” format for fast, lossless image compression (1 week ago)
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier (1 week ago)
