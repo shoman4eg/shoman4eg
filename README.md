@@ -6,7 +6,7 @@
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (2 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (3 months ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (3 months ago)
-- [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (3 months ago)
+- [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (4 months ago)
 
 #### 🌱 My latest projects
 
