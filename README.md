@@ -18,10 +18,10 @@
 
 #### ⭐ Recent Stars
 
-- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) - The HtmlSanitizer component provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM. (4 days ago)
-- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop configuration files (5 days ago)
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (5 days ago)
-- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. (5 days ago)
+- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) - The HtmlSanitizer component provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM. (5 days ago)
+- [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop configuration files (6 days ago)
+- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (6 days ago)
+- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. (6 days ago)
 - [nntaoli-project/goex](https://github.com/nntaoli-project/goex) - Exchange Rest And WebSocket API For Golang  Wrapper support okcoin,okex,huobi,hbdm,bitmex,coinex,poloniex,bitfinex,bitstamp,binance,kraken,bithumb,zb,hitbtc,fcoin, coinbene (2 weeks ago)
 - [svanas/nefertiti](https://github.com/svanas/nefertiti) - Nefertiti is a FREE crypto trading bot that follows a simple but proven trading strategy; buy the dip and then sell those trades as soon as possible. (2 weeks ago)
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress. (2 weeks ago)
