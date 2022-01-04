@@ -18,16 +18,16 @@
 
 #### ⭐ Recent Stars
 
-- [gocelery/gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go (1 day ago)
-- [viewi/viewi](https://github.com/viewi/viewi) - Powerful tool for building full-stack and completely reactive user interfaces using PHP (1 day ago)
-- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) - The HtmlSanitizer component provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM. (6 days ago)
+- [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components (today)
+- [gocelery/gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go (2 days ago)
+- [viewi/viewi](https://github.com/viewi/viewi) - Powerful tool for building full-stack and completely reactive user interfaces using PHP (2 days ago)
+- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) - The HtmlSanitizer component provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM. (1 week ago)
 - [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop configuration files (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 week ago)
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. (1 week ago)
 - [nntaoli-project/goex](https://github.com/nntaoli-project/goex) - Exchange Rest And WebSocket API For Golang  Wrapper support okcoin,okex,huobi,hbdm,bitmex,coinex,poloniex,bitfinex,bitstamp,binance,kraken,bithumb,zb,hitbtc,fcoin, coinbene (2 weeks ago)
 - [svanas/nefertiti](https://github.com/svanas/nefertiti) - Nefertiti is a FREE crypto trading bot that follows a simple but proven trading strategy; buy the dip and then sell those trades as soon as possible. (2 weeks ago)
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress. (2 weeks ago)
-- [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
