@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 months ago)
-- [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (2 months ago)
+- [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (3 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (3 months ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (4 months ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (4 months ago)
@@ -18,9 +18,9 @@
 
 #### ⭐ Recent Stars
 
-- [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components (today)
-- [gocelery/gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go (2 days ago)
-- [viewi/viewi](https://github.com/viewi/viewi) - Powerful tool for building full-stack and completely reactive user interfaces using PHP (2 days ago)
+- [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components (1 day ago)
+- [gocelery/gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go (3 days ago)
+- [viewi/viewi](https://github.com/viewi/viewi) - Powerful tool for building full-stack and completely reactive user interfaces using PHP (3 days ago)
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) - The HtmlSanitizer component provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM. (1 week ago)
 - [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop configuration files (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 week ago)
