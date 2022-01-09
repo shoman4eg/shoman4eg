@@ -18,10 +18,10 @@
 
 #### ⭐ Recent Stars
 
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality. (1 day ago)
-- [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components (4 days ago)
-- [gocelery/gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go (6 days ago)
-- [viewi/viewi](https://github.com/viewi/viewi) - Powerful tool for building full-stack and completely reactive user interfaces using PHP (6 days ago)
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality. (2 days ago)
+- [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components (5 days ago)
+- [gocelery/gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go (1 week ago)
+- [viewi/viewi](https://github.com/viewi/viewi) - Powerful tool for building full-stack and completely reactive user interfaces using PHP (1 week ago)
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) - The HtmlSanitizer component provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM. (1 week ago)
 - [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop configuration files (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 week ago)
