@@ -18,16 +18,16 @@
 
 #### ⭐ Recent Stars
 
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality. (3 days ago)
-- [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components (6 days ago)
+- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON (1 day ago)
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality. (4 days ago)
+- [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components (1 week ago)
 - [gocelery/gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go (1 week ago)
 - [viewi/viewi](https://github.com/viewi/viewi) - Powerful tool for building full-stack and completely reactive user interfaces using PHP (1 week ago)
-- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) - The HtmlSanitizer component provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM. (1 week ago)
+- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) - The HtmlSanitizer component provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document&#39;s DOM. (2 weeks ago)
 - [JavaCafe01/dotfiles](https://github.com/JavaCafe01/dotfiles) - My desktop configuration files (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (2 weeks ago)
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. (2 weeks ago)
 - [nntaoli-project/goex](https://github.com/nntaoli-project/goex) - Exchange Rest And WebSocket API For Golang  Wrapper support okcoin,okex,huobi,hbdm,bitmex,coinex,poloniex,bitfinex,bitstamp,binance,kraken,bithumb,zb,hitbtc,fcoin, coinbene (3 weeks ago)
-- [svanas/nefertiti](https://github.com/svanas/nefertiti) - Nefertiti is a FREE crypto trading bot that follows a simple but proven trading strategy; buy the dip and then sell those trades as soon as possible. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
