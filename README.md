@@ -18,16 +18,16 @@
 
 #### ⭐ Recent Stars
 
-- [syssecfsu/witty](https://github.com/syssecfsu/witty) - An unsafe web server to export shell to web (3 days ago)
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP &amp; Laravel (3 days ago)
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin&#39; diffs. Actually… nah… The best-lookin&#39; diffs. :tada: (4 days ago)
-- [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) - The Symfony CLI tool (5 days ago)
-- [arnaud-lb/php-memory-profiler](https://github.com/arnaud-lb/php-memory-profiler) - Memory profiler for PHP. Helps finding memory leaks in PHP scripts. (5 days ago)
+- [ISGNeuroTeam/CoAuthor](https://github.com/ISGNeuroTeam/CoAuthor) - NLP project that works with news (NER, context generation, news trend analytics) (1 day ago)
+- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (1 day ago)
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps (1 day ago)
+- [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area (1 day ago)
+- [syssecfsu/witty](https://github.com/syssecfsu/witty) - Web-based interactive terminal emulator that allows users to easily record, share, and replay console sessions.  (4 days ago)
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP &amp; Laravel (4 days ago)
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin&#39; diffs. Actually… nah… The best-lookin&#39; diffs. :tada: (5 days ago)
+- [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) - The Symfony CLI tool (6 days ago)
+- [arnaud-lb/php-memory-profiler](https://github.com/arnaud-lb/php-memory-profiler) - Memory profiler for PHP. Helps finding memory leaks in PHP scripts. (6 days ago)
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON (1 week ago)
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality. (1 week ago)
-- [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components (1 week ago)
-- [gocelery/gocelery](https://github.com/gocelery/gocelery) - Celery Distributed Task Queue in Go (2 weeks ago)
-- [viewi/viewi](https://github.com/viewi/viewi) - Powerful tool for building full-stack and completely reactive user interfaces using PHP (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
