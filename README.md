@@ -18,16 +18,16 @@
 
 #### ⭐ Recent Stars
 
-- [Sam1431/IdempotentDots](https://github.com/Sam1431/IdempotentDots) - dots configured after setting up NixOS on tmpfs (today)
-- [impworks/bonsai](https://github.com/impworks/bonsai) - Self-hosted family wiki engine / photoalbum (1 day ago)
-- [axyl-os/axyl-iso](https://github.com/axyl-os/axyl-iso) - Axyl is a Linux distro centered on tiling window managers. Choose from i3, bspwm, dwm and more. (1 day ago)
-- [itsumma/textarena](https://github.com/itsumma/textarena) - Textarena is a simple WYSIWYG editor (1 day ago)
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) - Temporal PHP SDK (3 days ago)
-- [janpfeifer/goshot](https://github.com/janpfeifer/goshot) - Convenient screenshot program that is quick, allows for very simple  editing (arrows, circles, text boxes) and exports to easily shareable formats (Google Drive, MS OneDrive, Dropbox, clipboard) with as few clicks as possible. (4 days ago)
-- [sinyawskiy/energomera](https://github.com/sinyawskiy/energomera) - Get data from energomera SE102 R5.1 powermeter (5 days ago)
-- [benwinding/react-admin-import-csv](https://github.com/benwinding/react-admin-import-csv) - A csv file import button for react-admin (6 days ago)
-- [ISGNeuroTeam/CoAuthor](https://github.com/ISGNeuroTeam/CoAuthor) - NLP project that works with news (NER, context generation, news trend analytics) (1 week ago)
-- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (1 week ago)
+- [Sammyjo20/Saloon](https://github.com/Sammyjo20/Saloon) - A Laravel/PHP package that allows you to write your API integrations or SDKs in a beautiful, standardised syntax. (1 day ago)
+- [chevere/xr](https://github.com/chevere/xr) - Lightweight debug server utility built on ReactPHP. (1 day ago)
+- [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform (1 day ago)
+- [getcandy/getcandy](https://github.com/getcandy/getcandy) - GetCandy is a package that brings functionality akin to Shopify and other e-commerce platforms to Laravel. (1 day ago)
+- [Sam1431/IdempotentDots](https://github.com/Sam1431/IdempotentDots) - dots configured after setting up NixOS on tmpfs (1 day ago)
+- [impworks/bonsai](https://github.com/impworks/bonsai) - Self-hosted family wiki engine / photoalbum (2 days ago)
+- [axyl-os/axyl-iso](https://github.com/axyl-os/axyl-iso) - Axyl is a Linux distro centered on tiling window managers. Choose from i3, bspwm, dwm and more. (2 days ago)
+- [itsumma/textarena](https://github.com/itsumma/textarena) - Textarena is a simple WYSIWYG editor (2 days ago)
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) - Temporal PHP SDK (4 days ago)
+- [janpfeifer/goshot](https://github.com/janpfeifer/goshot) - Convenient screenshot program that is quick, allows for very simple  editing (arrows, circles, text boxes) and exports to easily shareable formats (Google Drive, MS OneDrive, Dropbox, clipboard) with as few clicks as possible. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
