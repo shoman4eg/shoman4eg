@@ -18,16 +18,16 @@
 
 #### ⭐ Recent Stars
 
-- [Sammyjo20/Saloon](https://github.com/Sammyjo20/Saloon) - A Laravel/PHP package that allows you to write your API integrations or SDKs in a beautiful, standardised syntax. (1 day ago)
-- [chevere/xr](https://github.com/chevere/xr) - Lightweight debug server utility built on ReactPHP. (1 day ago)
-- [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform (1 day ago)
-- [getcandy/getcandy](https://github.com/getcandy/getcandy) - GetCandy is a package that brings functionality akin to Shopify and other e-commerce platforms to Laravel. (1 day ago)
-- [Sam1431/IdempotentDots](https://github.com/Sam1431/IdempotentDots) - dots configured after setting up NixOS on tmpfs (1 day ago)
-- [impworks/bonsai](https://github.com/impworks/bonsai) - Self-hosted family wiki engine / photoalbum (2 days ago)
-- [axyl-os/axyl-iso](https://github.com/axyl-os/axyl-iso) - Axyl is a Linux distro centered on tiling window managers. Choose from i3, bspwm, dwm and more. (2 days ago)
-- [itsumma/textarena](https://github.com/itsumma/textarena) - Textarena is a simple WYSIWYG editor (2 days ago)
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) - Temporal PHP SDK (4 days ago)
-- [janpfeifer/goshot](https://github.com/janpfeifer/goshot) - Convenient screenshot program that is quick, allows for very simple  editing (arrows, circles, text boxes) and exports to easily shareable formats (Google Drive, MS OneDrive, Dropbox, clipboard) with as few clicks as possible. (5 days ago)
+- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast cryptocurrency platform for trading bot in Go.  (1 day ago)
+- [go-numb/go-ftx](https://github.com/go-numb/go-ftx) - go-ftx is API wrapper for FTX exchange, with go. (1 day ago)
+- [Nyholm/sunflower](https://github.com/Nyholm/sunflower) - The best kernel for simple apps (1 day ago)
+- [zenstruck/browser](https://github.com/zenstruck/browser) - A fluent interface for your Symfony functional tests. (1 day ago)
+- [Sammyjo20/Saloon](https://github.com/Sammyjo20/Saloon) - A Laravel/PHP package that allows you to write your API integrations or SDKs in a beautiful, standardised syntax. (2 days ago)
+- [chevere/xr](https://github.com/chevere/xr) - Lightweight debug server utility built on ReactPHP. (2 days ago)
+- [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform (2 days ago)
+- [getcandy/getcandy](https://github.com/getcandy/getcandy) - GetCandy is a package that brings functionality akin to Shopify and other e-commerce platforms to Laravel. (2 days ago)
+- [Sam1431/IdempotentDots](https://github.com/Sam1431/IdempotentDots) - dots configured after setting up NixOS on tmpfs (2 days ago)
+- [impworks/bonsai](https://github.com/impworks/bonsai) - Self-hosted family wiki engine / photoalbum (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
