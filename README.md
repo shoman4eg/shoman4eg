@@ -18,16 +18,16 @@
 
 #### ⭐ Recent Stars
 
-- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast cryptocurrency platform for trading bot in Go.  (1 day ago)
-- [go-numb/go-ftx](https://github.com/go-numb/go-ftx) - go-ftx is API wrapper for FTX exchange, with go. (1 day ago)
-- [Nyholm/sunflower](https://github.com/Nyholm/sunflower) - The best kernel for simple apps (1 day ago)
-- [zenstruck/browser](https://github.com/zenstruck/browser) - A fluent interface for your Symfony functional tests. (1 day ago)
-- [Sammyjo20/Saloon](https://github.com/Sammyjo20/Saloon) - A Laravel/PHP package that allows you to write your API integrations or SDKs in a beautiful, standardised syntax. (2 days ago)
-- [chevere/xr](https://github.com/chevere/xr) - Lightweight debug server utility built on ReactPHP. (2 days ago)
-- [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform (2 days ago)
-- [getcandy/getcandy](https://github.com/getcandy/getcandy) - GetCandy is a package that brings functionality akin to Shopify and other e-commerce platforms to Laravel. (2 days ago)
-- [Sam1431/IdempotentDots](https://github.com/Sam1431/IdempotentDots) - dots configured after setting up NixOS on tmpfs (2 days ago)
-- [impworks/bonsai](https://github.com/impworks/bonsai) - Self-hosted family wiki engine / photoalbum (3 days ago)
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! (today)
+- [shikimori/shikimori](https://github.com/shikimori/shikimori) -  (1 day ago)
+- [uglide/RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform Developer GUI for Redis (1 day ago)
+- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast cryptocurrency platform for trading bot in Go.  (2 days ago)
+- [go-numb/go-ftx](https://github.com/go-numb/go-ftx) - go-ftx is API wrapper for FTX exchange, with go. (2 days ago)
+- [Nyholm/sunflower](https://github.com/Nyholm/sunflower) - The best kernel for simple apps (2 days ago)
+- [zenstruck/browser](https://github.com/zenstruck/browser) - A fluent interface for your Symfony functional tests. (2 days ago)
+- [Sammyjo20/Saloon](https://github.com/Sammyjo20/Saloon) - A Laravel/PHP package that allows you to write your API integrations or SDKs in a beautiful, standardised syntax. (3 days ago)
+- [chevere/xr](https://github.com/chevere/xr) - Lightweight debug server utility built on ReactPHP. (3 days ago)
+- [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
