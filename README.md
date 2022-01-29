@@ -18,16 +18,16 @@
 
 #### ⭐ Recent Stars
 
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! (1 day ago)
-- [shikimori/shikimori](https://github.com/shikimori/shikimori) -  (2 days ago)
-- [uglide/RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform Developer GUI for Redis (2 days ago)
-- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast cryptocurrency platform for trading bot in Go.  (3 days ago)
-- [go-numb/go-ftx](https://github.com/go-numb/go-ftx) - go-ftx is API wrapper for FTX exchange, with go. (3 days ago)
-- [Nyholm/sunflower](https://github.com/Nyholm/sunflower) - The best kernel for simple apps (3 days ago)
-- [zenstruck/browser](https://github.com/zenstruck/browser) - A fluent interface for your Symfony functional tests. (3 days ago)
-- [Sammyjo20/Saloon](https://github.com/Sammyjo20/Saloon) - A Laravel/PHP package that allows you to write your API integrations or SDKs in a beautiful, standardised syntax. (4 days ago)
-- [chevere/xr](https://github.com/chevere/xr) - Lightweight debug server utility built on ReactPHP. (4 days ago)
-- [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform (4 days ago)
+- [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (1 day ago)
+- [kafkiansky/symfony-middleware](https://github.com/kafkiansky/symfony-middleware) - PSR-15 middleware for Symfony framework. (1 day ago)
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles (1 day ago)
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! (2 days ago)
+- [shikimori/shikimori](https://github.com/shikimori/shikimori) -  (3 days ago)
+- [uglide/RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform Developer GUI for Redis (3 days ago)
+- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast cryptocurrency platform for trading bot in Go.  (4 days ago)
+- [go-numb/go-ftx](https://github.com/go-numb/go-ftx) - go-ftx is API wrapper for FTX exchange, with go. (4 days ago)
+- [Nyholm/sunflower](https://github.com/Nyholm/sunflower) - The best kernel for simple apps (4 days ago)
+- [zenstruck/browser](https://github.com/zenstruck/browser) - A fluent interface for your Symfony functional tests. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
