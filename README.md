@@ -5,7 +5,7 @@
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (3 months ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (3 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (4 months ago)
-- [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (4 months ago)
+- [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (5 months ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (5 months ago)
 
 #### 🌱 My latest projects
@@ -18,16 +18,16 @@
 
 #### ⭐ Recent Stars
 
-- [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (1 day ago)
-- [kafkiansky/symfony-middleware](https://github.com/kafkiansky/symfony-middleware) - PSR-15 middleware for Symfony framework. (1 day ago)
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles (1 day ago)
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! (2 days ago)
-- [shikimori/shikimori](https://github.com/shikimori/shikimori) -  (3 days ago)
-- [uglide/RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform Developer GUI for Redis (3 days ago)
-- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast cryptocurrency platform for trading bot in Go.  (4 days ago)
-- [go-numb/go-ftx](https://github.com/go-numb/go-ftx) - go-ftx is API wrapper for FTX exchange, with go. (4 days ago)
-- [Nyholm/sunflower](https://github.com/Nyholm/sunflower) - The best kernel for simple apps (4 days ago)
-- [zenstruck/browser](https://github.com/zenstruck/browser) - A fluent interface for your Symfony functional tests. (4 days ago)
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15&#43; databases and any API. (1 day ago)
+- [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (2 days ago)
+- [kafkiansky/symfony-middleware](https://github.com/kafkiansky/symfony-middleware) - PSR-15 middleware for Symfony framework. (2 days ago)
+- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles (2 days ago)
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! (3 days ago)
+- [shikimori/shikimori](https://github.com/shikimori/shikimori) -  (4 days ago)
+- [uglide/RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform Developer GUI for Redis (4 days ago)
+- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast cryptocurrency platform for trading bot in Go.  (5 days ago)
+- [go-numb/go-ftx](https://github.com/go-numb/go-ftx) - go-ftx is API wrapper for FTX exchange, with go. (5 days ago)
+- [Nyholm/sunflower](https://github.com/Nyholm/sunflower) - The best kernel for simple apps (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
