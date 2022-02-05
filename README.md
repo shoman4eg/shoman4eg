@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 days ago)
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (3 days ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (3 days ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (4 days ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (4 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (4 months ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (5 months ago)
@@ -20,10 +20,10 @@
 
 #### ⭐ Recent Stars
 
-- [druskus20/eugh](https://github.com/druskus20/eugh) - The different eww configs that I&#39;ve made (2 days ago)
-- [aphiria/aphiria](https://github.com/aphiria/aphiria) - A simple, extensible REST API framework for PHP (3 days ago)
-- [cshum/imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server written in Go (4 days ago)
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15&#43; databases and any API. (6 days ago)
+- [druskus20/eugh](https://github.com/druskus20/eugh) - The different eww configs that I&#39;ve made (3 days ago)
+- [aphiria/aphiria](https://github.com/aphiria/aphiria) - A simple, extensible REST API framework for PHP (4 days ago)
+- [cshum/imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server written in Go (5 days ago)
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15&#43; databases and any API. (1 week ago)
 - [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (1 week ago)
 - [kafkiansky/symfony-middleware](https://github.com/kafkiansky/symfony-middleware) - PSR-15 middleware for Symfony framework. (1 week ago)
 - [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - 🍚 aesthetic linux dotfiles (1 week ago)
