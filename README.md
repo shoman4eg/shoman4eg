@@ -20,15 +20,15 @@
 
 #### ⭐ Recent Stars
 
-- [arvenil/mutex](https://github.com/arvenil/mutex) - Mutex implementation for PHP (1 day ago)
-- [shopsys/project-base](https://github.com/shopsys/project-base) - [READ-ONLY] Full-featured basis for your e-commerce project on Shopsys Framework (1 day ago)
-- [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models &amp; API Clients based on JSON Schema / OpenAPI specs (1 day ago)
-- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. (3 days ago)
-- [resetercss/reseter.css](https://github.com/resetercss/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (5 days ago)
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (6 days ago)
-- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen. (6 days ago)
-- [sj-i/php-profiler](https://github.com/sj-i/php-profiler) - A sampling profiler for PHP written in PHP, which reads information about running PHP VM from outside of the process. (6 days ago)
-- [zhuah/kita](https://github.com/zhuah/kita) - declarative, reactive GUI toolkit for build cross platform apps with web technology with single codebase (6 days ago)
+- [arvenil/mutex](https://github.com/arvenil/mutex) - Mutex implementation for PHP (2 days ago)
+- [shopsys/project-base](https://github.com/shopsys/project-base) - [READ-ONLY] Full-featured basis for your e-commerce project on Shopsys Framework (2 days ago)
+- [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models &amp; API Clients based on JSON Schema / OpenAPI specs (2 days ago)
+- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. (4 days ago)
+- [resetercss/reseter.css](https://github.com/resetercss/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (6 days ago)
+- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 week ago)
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen. (1 week ago)
+- [sj-i/php-profiler](https://github.com/sj-i/php-profiler) - A sampling profiler for PHP written in PHP, which reads information about running PHP VM from outside of the process. (1 week ago)
+- [zhuah/kita](https://github.com/zhuah/kita) - declarative, reactive GUI toolkit for build cross platform apps with web technology with single codebase (1 week ago)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (1 week ago)
 
 #### 👯 Check out some of my recent followers
