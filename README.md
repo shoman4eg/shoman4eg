@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 weeks ago)
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (2 weeks ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (3 weeks ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (4 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (5 months ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (5 months ago)
@@ -20,10 +20,10 @@
 
 #### ⭐ Recent Stars
 
-- [arvenil/mutex](https://github.com/arvenil/mutex) - Mutex implementation for PHP (4 days ago)
-- [shopsys/project-base](https://github.com/shopsys/project-base) - [READ-ONLY] Full-featured basis for your e-commerce project on Shopsys Framework (4 days ago)
-- [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models &amp; API Clients based on JSON Schema / OpenAPI specs (4 days ago)
-- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. (6 days ago)
+- [arvenil/mutex](https://github.com/arvenil/mutex) - Mutex implementation for PHP (5 days ago)
+- [shopsys/project-base](https://github.com/shopsys/project-base) - [READ-ONLY] Full-featured basis for your e-commerce project on Shopsys Framework (5 days ago)
+- [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models &amp; API Clients based on JSON Schema / OpenAPI specs (5 days ago)
+- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. (1 week ago)
 - [resetercss/reseter.css](https://github.com/resetercss/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (1 week ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 week ago)
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen. (1 week ago)
