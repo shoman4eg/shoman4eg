@@ -20,16 +20,16 @@
 
 #### ⭐ Recent Stars
 
-- [arvenil/mutex](https://github.com/arvenil/mutex) - Mutex implementation for PHP (6 days ago)
-- [shopsys/project-base](https://github.com/shopsys/project-base) - [READ-ONLY] Full-featured basis for your e-commerce project on Shopsys Framework (6 days ago)
-- [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models &amp; API Clients based on JSON Schema / OpenAPI specs (6 days ago)
+- [waycrate/swhkd](https://github.com/waycrate/swhkd) - Sxhkd clone for Wayland (works on TYY and X11 too) | mirrored at https://git.sr.ht/~shinyzenith/swhkd (1 day ago)
+- [arvenil/mutex](https://github.com/arvenil/mutex) - Mutex implementation for PHP (1 week ago)
+- [shopsys/project-base](https://github.com/shopsys/project-base) - [READ-ONLY] Full-featured basis for your e-commerce project on Shopsys Framework (1 week ago)
+- [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models &amp; API Clients based on JSON Schema / OpenAPI specs (1 week ago)
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. (1 week ago)
 - [resetercss/reseter.css](https://github.com/resetercss/reseter.css) - Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets (1 week ago)
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data (1 week ago)
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen. (1 week ago)
 - [sj-i/php-profiler](https://github.com/sj-i/php-profiler) - A sampling profiler for PHP written in PHP, which reads information about running PHP VM from outside of the process. (1 week ago)
 - [zhuah/kita](https://github.com/zhuah/kita) - declarative, reactive GUI toolkit for build cross platform apps with web technology with single codebase (1 week ago)
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
