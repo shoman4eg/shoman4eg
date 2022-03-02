@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (5 days ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (6 days ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (4 weeks ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (4 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (5 months ago)
@@ -20,16 +20,16 @@
 
 #### ⭐ Recent Stars
 
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles. (1 day ago)
-- [andrewpillar/req](https://github.com/andrewpillar/req) - A simple and opinionated HTTP scripting language (1 day ago)
-- [keploy/keploy](https://github.com/keploy/keploy) - No code API testing platform. Create unit tests and data mocks from API calls.  (5 days ago)
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (5 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API. (5 days ago)
-- [waycrate/swhkd](https://github.com/waycrate/swhkd) - Sxhkd clone for Wayland (works on TYY and X11 too) | mirrored at https://git.sr.ht/~shinyzenith/swhkd (6 days ago)
+- [oakmound/oak](https://github.com/oakmound/oak) - A pure Go game engine (1 day ago)
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles. (2 days ago)
+- [andrewpillar/req](https://github.com/andrewpillar/req) - A simple and opinionated HTTP scripting language (2 days ago)
+- [keploy/keploy](https://github.com/keploy/keploy) - No code API testing platform. Create unit tests and data mocks from API calls.  (6 days ago)
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (6 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API. (6 days ago)
+- [waycrate/swhkd](https://github.com/waycrate/swhkd) - Sxhkd clone for Wayland (works on TYY and X11 too) | mirrored at https://git.sr.ht/~shinyzenith/swhkd (1 week ago)
 - [arvenil/mutex](https://github.com/arvenil/mutex) - Mutex implementation for PHP (1 week ago)
 - [shopsys/project-base](https://github.com/shopsys/project-base) - [READ-ONLY] Full-featured basis for your e-commerce project on Shopsys Framework (1 week ago)
 - [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models &amp; API Clients based on JSON Schema / OpenAPI specs (1 week ago)
-- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
