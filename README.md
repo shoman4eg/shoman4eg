@@ -20,16 +20,16 @@
 
 #### ⭐ Recent Stars
 
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (1 day ago)
-- [oakmound/oak](https://github.com/oakmound/oak) - A pure Go game engine (3 days ago)
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles. (4 days ago)
-- [andrewpillar/req](https://github.com/andrewpillar/req) - A simple and opinionated HTTP scripting language (4 days ago)
+- [mytechnotalent/turbo-scanner](https://github.com/mytechnotalent/turbo-scanner) - A port scanner and service detection tool that uses 1000 goroutines at once to scan any hosts&#39;s ip or fqdn with the sole purpose of testing your own network to ensure there are no malicious services running. (1 day ago)
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (2 days ago)
+- [oakmound/oak](https://github.com/oakmound/oak) - A pure Go game engine (4 days ago)
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles. (5 days ago)
+- [andrewpillar/req](https://github.com/andrewpillar/req) - A simple and opinionated HTTP scripting language (5 days ago)
 - [keploy/keploy](https://github.com/keploy/keploy) - No code API testing platform. Create unit tests and data mocks from API calls.  (1 week ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API. (1 week ago)
 - [waycrate/swhkd](https://github.com/waycrate/swhkd) - Sxhkd clone for Wayland (works on TYY and X11 too) | mirrored at https://git.sr.ht/~shinyzenith/swhkd (1 week ago)
 - [arvenil/mutex](https://github.com/arvenil/mutex) - Mutex implementation for PHP (2 weeks ago)
-- [shopsys/project-base](https://github.com/shopsys/project-base) - [READ-ONLY] Full-featured basis for your e-commerce project on Shopsys Framework (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
