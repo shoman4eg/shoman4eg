@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 week ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 weeks ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (1 month ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (5 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (5 months ago)
@@ -20,13 +20,13 @@
 
 #### ⭐ Recent Stars
 
-- [phenax/bsp-layout](https://github.com/phenax/bsp-layout) - Manage layouts in bspwm (tall and wide) (1 day ago)
-- [fyne-io/systray](https://github.com/fyne-io/systray) - a cross platfrom Go library to place an icon and menu in the notification area (1 day ago)
-- [audulus/rui](https://github.com/audulus/rui) - Experimental Rust UI library (2 days ago)
-- [laravel/vapor-dockerfiles](https://github.com/laravel/vapor-dockerfiles) -  (4 days ago)
-- [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor #StandWithUkraine (4 days ago)
-- [mytechnotalent/turbo-scanner](https://github.com/mytechnotalent/turbo-scanner) - A port scanner and service detection tool that uses 1000 goroutines at once to scan any hosts&#39;s ip or fqdn with the sole purpose of testing your own network to ensure there are no malicious services running. (5 days ago)
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (6 days ago)
+- [phenax/bsp-layout](https://github.com/phenax/bsp-layout) - Manage layouts in bspwm (tall and wide) (2 days ago)
+- [fyne-io/systray](https://github.com/fyne-io/systray) - a cross platfrom Go library to place an icon and menu in the notification area (2 days ago)
+- [audulus/rui](https://github.com/audulus/rui) - Experimental Rust UI library (3 days ago)
+- [laravel/vapor-dockerfiles](https://github.com/laravel/vapor-dockerfiles) -  (5 days ago)
+- [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor #StandWithUkraine (5 days ago)
+- [mytechnotalent/turbo-scanner](https://github.com/mytechnotalent/turbo-scanner) - A port scanner and service detection tool that uses 1000 goroutines at once to scan any hosts&#39;s ip or fqdn with the sole purpose of testing your own network to ensure there are no malicious services running. (6 days ago)
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (1 week ago)
 - [oakmound/oak](https://github.com/oakmound/oak) - A pure Go game engine (1 week ago)
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles. (1 week ago)
 - [andrewpillar/req](https://github.com/andrewpillar/req) - A simple and opinionated HTTP scripting language (1 week ago)
