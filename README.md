@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support (4 days ago)
-- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (5 days ago)
-- [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others. (6 days ago)
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support (5 days ago)
+- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (6 days ago)
+- [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others. (1 week ago)
 - [n1215/roadrunner-docker-skeleton](https://github.com/n1215/roadrunner-docker-skeleton) - local docker environment skeleton for RoadRunner (1 week ago)
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio unlike any other. (1 week ago)
 - [phenax/bsp-layout](https://github.com/phenax/bsp-layout) - Manage layouts in bspwm (tall and wide) (1 week ago)
