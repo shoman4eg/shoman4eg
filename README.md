@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 days ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (today)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (1 month ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (5 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (6 months ago)
@@ -20,6 +20,7 @@
 
 #### ⭐ Recent Stars
 
+- [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows (1 day ago)
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support (1 week ago)
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (1 week ago)
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others. (1 week ago)
@@ -29,7 +30,6 @@
 - [fyne-io/systray](https://github.com/fyne-io/systray) - a cross platfrom Go library to place an icon and menu in the notification area (2 weeks ago)
 - [audulus/rui](https://github.com/audulus/rui) - Experimental Rust UI library (2 weeks ago)
 - [laravel/vapor-dockerfiles](https://github.com/laravel/vapor-dockerfiles) -  (2 weeks ago)
-- [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor #StandWithUkraine (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
