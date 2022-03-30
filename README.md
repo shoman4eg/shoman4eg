@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 day ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 days ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (1 month ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (5 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (6 months ago)
@@ -20,6 +20,7 @@
 
 #### ⭐ Recent Stars
 
+- [xolox/python-rotate-backups](https://github.com/xolox/python-rotate-backups) - Simple command line interface for backup rotation (1 day ago)
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows (1 week ago)
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support (2 weeks ago)
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (2 weeks ago)
@@ -29,7 +30,6 @@
 - [phenax/bsp-layout](https://github.com/phenax/bsp-layout) - Manage layouts in bspwm (tall and wide) (3 weeks ago)
 - [fyne-io/systray](https://github.com/fyne-io/systray) - a cross platfrom Go library to place an icon and menu in the notification area (3 weeks ago)
 - [audulus/rui](https://github.com/audulus/rui) - Experimental Rust UI library (3 weeks ago)
-- [laravel/vapor-dockerfiles](https://github.com/laravel/vapor-dockerfiles) -  (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
