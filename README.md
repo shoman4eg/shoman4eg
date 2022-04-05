@@ -4,7 +4,7 @@
 
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 week ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (2 months ago)
-- [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (5 months ago)
+- [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (6 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (6 months ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (7 months ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (7 months ago)
@@ -20,15 +20,15 @@
 
 #### ⭐ Recent Stars
 
-- [xolox/python-rotate-backups](https://github.com/xolox/python-rotate-backups) - Simple command line interface for backup rotation (6 days ago)
-- [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows (1 week ago)
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support (2 weeks ago)
+- [xolox/python-rotate-backups](https://github.com/xolox/python-rotate-backups) - Simple command line interface for backup rotation (1 week ago)
+- [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows (2 weeks ago)
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support (3 weeks ago)
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (3 weeks ago)
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others. (3 weeks ago)
 - [n1215/roadrunner-docker-skeleton](https://github.com/n1215/roadrunner-docker-skeleton) - local docker environment skeleton for RoadRunner (3 weeks ago)
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio unlike any other. (3 weeks ago)
-- [phenax/bsp-layout](https://github.com/phenax/bsp-layout) - Manage layouts in bspwm (tall and wide) (3 weeks ago)
-- [fyne-io/systray](https://github.com/fyne-io/systray) - a cross platfrom Go library to place an icon and menu in the notification area (3 weeks ago)
+- [phenax/bsp-layout](https://github.com/phenax/bsp-layout) - Manage layouts in bspwm (tall and wide) (4 weeks ago)
+- [fyne-io/systray](https://github.com/fyne-io/systray) - a cross platfrom Go library to place an icon and menu in the notification area (4 weeks ago)
 - [audulus/rui](https://github.com/audulus/rui) - Experimental Rust UI library (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
