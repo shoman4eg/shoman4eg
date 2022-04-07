@@ -27,8 +27,8 @@
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others. (3 weeks ago)
 - [n1215/roadrunner-docker-skeleton](https://github.com/n1215/roadrunner-docker-skeleton) - local docker environment skeleton for RoadRunner (3 weeks ago)
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio unlike any other. (3 weeks ago)
-- [phenax/bsp-layout](https://github.com/phenax/bsp-layout) - Manage layouts in bspwm (tall and wide) (4 weeks ago)
-- [fyne-io/systray](https://github.com/fyne-io/systray) - a cross platfrom Go library to place an icon and menu in the notification area (4 weeks ago)
+- [phenax/bsp-layout](https://github.com/phenax/bsp-layout) - Manage layouts in bspwm (tall and wide) (1 month ago)
+- [fyne-io/systray](https://github.com/fyne-io/systray) - a cross platfrom Go library to place an icon and menu in the notification area (1 month ago)
 - [audulus/rui](https://github.com/audulus/rui) - Experimental Rust UI library (1 month ago)
 
 #### 👯 Check out some of my recent followers
