@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (2 days ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (3 days ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 weeks ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (6 months ago)
-- [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (6 months ago)
+- [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (7 months ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (7 months ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (7 months ago)
 
@@ -22,7 +22,7 @@
 
 - [xolox/python-rotate-backups](https://github.com/xolox/python-rotate-backups) - Simple command line interface for backup rotation (2 weeks ago)
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows (3 weeks ago)
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support (4 weeks ago)
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support (1 month ago)
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (1 month ago)
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others. (1 month ago)
 - [n1215/roadrunner-docker-skeleton](https://github.com/n1215/roadrunner-docker-skeleton) - local docker environment skeleton for RoadRunner (1 month ago)
