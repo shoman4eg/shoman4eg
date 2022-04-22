@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (6 days ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (1 week ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (3 weeks ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (6 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (7 months ago)
@@ -20,6 +20,7 @@
 
 #### ⭐ Recent Stars
 
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code (1 day ago)
 - [xolox/python-rotate-backups](https://github.com/xolox/python-rotate-backups) - Simple command line interface for backup rotation (3 weeks ago)
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows (1 month ago)
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support (1 month ago)
@@ -29,7 +30,6 @@
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio unlike any other. (1 month ago)
 - [phenax/bsp-layout](https://github.com/phenax/bsp-layout) - Manage layouts in bspwm (tall and wide) (1 month ago)
 - [fyne-io/systray](https://github.com/fyne-io/systray) - a cross platfrom Go library to place an icon and menu in the notification area (1 month ago)
-- [audulus/rui](https://github.com/audulus/rui) - Experimental Rust UI library (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
