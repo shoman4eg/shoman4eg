@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code (1 day ago)
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code (2 days ago)
 - [xolox/python-rotate-backups](https://github.com/xolox/python-rotate-backups) - Simple command line interface for backup rotation (3 weeks ago)
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows (1 month ago)
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support (1 month ago)
