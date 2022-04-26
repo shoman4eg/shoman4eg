@@ -20,8 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code (4 days ago)
-- [xolox/python-rotate-backups](https://github.com/xolox/python-rotate-backups) - Simple command line interface for backup rotation (3 weeks ago)
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code (5 days ago)
+- [xolox/python-rotate-backups](https://github.com/xolox/python-rotate-backups) - Simple command line interface for backup rotation (4 weeks ago)
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows (1 month ago)
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support (1 month ago)
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (1 month ago)
