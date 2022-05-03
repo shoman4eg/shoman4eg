@@ -20,8 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (today)
-- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (5 days ago)
+- [AndresGarciaSobrado91/MSI-Modern15-Hackintosh](https://github.com/AndresGarciaSobrado91/MSI-Modern15-Hackintosh) - My MSI Modern 15 Hackintosh repo (today)
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (1 day ago)
+- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (6 days ago)
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code (1 week ago)
 - [xolox/python-rotate-backups](https://github.com/xolox/python-rotate-backups) - Simple command line interface for backup rotation (1 month ago)
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows (1 month ago)
@@ -29,7 +30,6 @@
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (1 month ago)
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others. (1 month ago)
 - [n1215/roadrunner-docker-skeleton](https://github.com/n1215/roadrunner-docker-skeleton) - local docker environment skeleton for RoadRunner (1 month ago)
-- [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio unlike any other. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
