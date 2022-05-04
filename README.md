@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [AndresGarciaSobrado91/MSI-Modern15-Hackintosh](https://github.com/AndresGarciaSobrado91/MSI-Modern15-Hackintosh) - My MSI Modern 15 Hackintosh repo (today)
-- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (1 day ago)
-- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (6 days ago)
+- [AndresGarciaSobrado91/MSI-Modern15-Hackintosh](https://github.com/AndresGarciaSobrado91/MSI-Modern15-Hackintosh) - My MSI Modern 15 Hackintosh repo (1 day ago)
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (2 days ago)
+- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (1 week ago)
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code (1 week ago)
 - [xolox/python-rotate-backups](https://github.com/xolox/python-rotate-backups) - Simple command line interface for backup rotation (1 month ago)
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows (1 month ago)
