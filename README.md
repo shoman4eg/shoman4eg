@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (2 weeks ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (3 weeks ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 month ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (7 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (7 months ago)
@@ -20,8 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [AndresGarciaSobrado91/MSI-Modern15-Hackintosh](https://github.com/AndresGarciaSobrado91/MSI-Modern15-Hackintosh) - My MSI Modern 15 Hackintosh repo (2 days ago)
-- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (3 days ago)
+- [AndresGarciaSobrado91/MSI-Modern15-Hackintosh](https://github.com/AndresGarciaSobrado91/MSI-Modern15-Hackintosh) - My MSI Modern 15 Hackintosh repo (3 days ago)
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (4 days ago)
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (1 week ago)
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code (2 weeks ago)
 - [xolox/python-rotate-backups](https://github.com/xolox/python-rotate-backups) - Simple command line interface for backup rotation (1 month ago)
