@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [AndresGarciaSobrado91/MSI-Modern15-Hackintosh](https://github.com/AndresGarciaSobrado91/MSI-Modern15-Hackintosh) - My MSI Modern 15 Hackintosh repo (6 days ago)
+- [AndresGarciaSobrado91/MSI-Modern15-Hackintosh](https://github.com/AndresGarciaSobrado91/MSI-Modern15-Hackintosh) - My MSI Modern 15 Hackintosh repo (1 week ago)
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (1 week ago)
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (1 week ago)
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code (2 weeks ago)
