@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (1 day ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial wrapper client for lknpd.nalog.ru API (2 days ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 month ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (7 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (8 months ago)
@@ -20,6 +20,7 @@
 
 #### ⭐ Recent Stars
 
+- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services (1 day ago)
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (1 week ago)
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) - Task Timer (tt) is a dead simple TUI task timer (1 week ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
@@ -28,8 +29,7 @@
 - [AndresGarciaSobrado91/MSI-Modern15-Hackintosh](https://github.com/AndresGarciaSobrado91/MSI-Modern15-Hackintosh) - My MSI Modern 15 Hackintosh repo (2 weeks ago)
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (2 weeks ago)
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (3 weeks ago)
-- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code (4 weeks ago)
-- [xolox/python-rotate-backups](https://github.com/xolox/python-rotate-backups) - Simple command line interface for backup rotation (1 month ago)
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
