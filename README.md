@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (5 days ago)
+- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (6 days ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial PHP wrapper client for lknpd.nalog.ru API (3 weeks ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 months ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (8 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (9 months ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (9 months ago)
-- [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (9 months ago)
+- [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -22,16 +22,16 @@
 
 #### ⭐ Recent Stars
 
-- [flashdagger/ytdlp-plugins](https://github.com/flashdagger/ytdlp-plugins) - plugin manager for yt-dlp which enables releases of extractors as separate python package (1 day ago)
-- [hasinhayder/hydra](https://github.com/hasinhayder/hydra) - Hydra is a zero-config API boilerplate with Laravel 9x &#43; Laravel Sanctum that comes with an excellent user and role management API out of the box (5 days ago)
-- [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers (5 days ago)
-- [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (5 days ago)
-- [bmitch/churn-php](https://github.com/bmitch/churn-php) - Discover files in need of refactoring. (5 days ago)
-- [enhavo/enhavo](https://github.com/enhavo/enhavo) - Modern CMS with shop features based on fullstack symfony and sylius components (6 days ago)
-- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (6 days ago)
+- [mettle/sendportal](https://github.com/mettle/sendportal) - Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.  (1 day ago)
+- [flashdagger/ytdlp-plugins](https://github.com/flashdagger/ytdlp-plugins) - plugin manager for yt-dlp which enables releases of extractors as separate python package (2 days ago)
+- [hasinhayder/hydra](https://github.com/hasinhayder/hydra) - Hydra is a zero-config API boilerplate with Laravel 9x &#43; Laravel Sanctum that comes with an excellent user and role management API out of the box (6 days ago)
+- [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers (6 days ago)
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (6 days ago)
+- [bmitch/churn-php](https://github.com/bmitch/churn-php) - Discover files in need of refactoring. (6 days ago)
+- [enhavo/enhavo](https://github.com/enhavo/enhavo) - Modern CMS with shop features based on fullstack symfony and sylius components (1 week ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (1 week ago)
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec (1 week ago)
 - [Templarian/MaterialDesign-Font](https://github.com/Templarian/MaterialDesign-Font) - Distribution Repo for the TTF font (2 weeks ago)
-- [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥A artistic &#34;twitter like&#34; community built on gin&#43;zinc&#43;vue&#43;ts 清新文艺微社区 (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
