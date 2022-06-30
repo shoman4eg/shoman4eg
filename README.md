@@ -22,24 +22,24 @@
 
 #### ⭐ Recent Stars
 
-- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files. (2 days ago)
+- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files. (3 days ago)
 - [mettle/sendportal](https://github.com/mettle/sendportal) - Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.  (1 week ago)
 - [flashdagger/ytdlp-plugins](https://github.com/flashdagger/ytdlp-plugins) - plugin manager for yt-dlp which enables releases of extractors as separate python package (1 week ago)
 - [hasinhayder/hydra](https://github.com/hasinhayder/hydra) - Hydra is a zero-config API boilerplate with Laravel 9x &#43; Laravel Sanctum that comes with an excellent user and role management API out of the box (1 week ago)
 - [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers (1 week ago)
 - [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (1 week ago)
 - [bmitch/churn-php](https://github.com/bmitch/churn-php) - Discover files in need of refactoring. (1 week ago)
-- [enhavo/enhavo](https://github.com/enhavo/enhavo) - Modern CMS with shop features based on fullstack symfony and sylius components (1 week ago)
-- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (1 week ago)
+- [enhavo/enhavo](https://github.com/enhavo/enhavo) - Modern CMS with shop features based on fullstack symfony and sylius components (2 weeks ago)
+- [dockware/dockware](https://github.com/dockware/dockware) - Managed Shopware 6 Docker setups with dockware. Run any Shopware 6 version within minutes (locally) in Docker (2 weeks ago)
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [elellacode](https://github.com/elellacode)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 - [KennyNobody](https://github.com/KennyNobody)
 - [nikitavoloboev](https://github.com/nikitavoloboev)
-- [artemgavrilov](https://github.com/artemgavrilov)
 
 
 #### 📫 Where to find me
