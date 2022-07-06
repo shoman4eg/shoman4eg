@@ -22,12 +22,12 @@
 
 #### ⭐ Recent Stars
 
-- [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂 (1 day ago)
-- [mmsaeed509/bspwm-dots](https://github.com/mmsaeed509/bspwm-dots) - Ozoz dotfiles for bspwm, i3WM (1 day ago)
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (1 day ago)
-- [lucasdotvin/laravel-soulbscription](https://github.com/lucasdotvin/laravel-soulbscription) - A straightforward interface to handle subscriptions and feature consumption. (2 days ago)
+- [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂 (2 days ago)
+- [mmsaeed509/bspwm-dots](https://github.com/mmsaeed509/bspwm-dots) - Ozoz dotfiles for bspwm, i3WM (2 days ago)
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (2 days ago)
+- [lucasdotvin/laravel-soulbscription](https://github.com/lucasdotvin/laravel-soulbscription) - A straightforward interface to handle subscriptions and feature consumption. (3 days ago)
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files. (1 week ago)
-- [mettle/sendportal](https://github.com/mettle/sendportal) - Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.  (1 week ago)
+- [mettle/sendportal](https://github.com/mettle/sendportal) - Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.  (2 weeks ago)
 - [flashdagger/ytdlp-plugins](https://github.com/flashdagger/ytdlp-plugins) - plugin manager for yt-dlp which enables releases of extractors as separate python package (2 weeks ago)
 - [hasinhayder/hydra](https://github.com/hasinhayder/hydra) - Hydra is a zero-config API boilerplate with Laravel 9x &#43; Laravel Sanctum that comes with an excellent user and role management API out of the box (2 weeks ago)
 - [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers (2 weeks ago)
