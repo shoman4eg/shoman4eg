@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (2 weeks ago)
+- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (3 weeks ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial PHP wrapper client for lknpd.nalog.ru API (1 month ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (3 months ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (9 months ago)
@@ -22,16 +22,16 @@
 
 #### ⭐ Recent Stars
 
-- [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂 (3 days ago)
-- [mmsaeed509/bspwm-dots](https://github.com/mmsaeed509/bspwm-dots) - Ozoz dotfiles for bspwm, i3WM (3 days ago)
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (3 days ago)
-- [lucasdotvin/laravel-soulbscription](https://github.com/lucasdotvin/laravel-soulbscription) - A straightforward interface to handle subscriptions and feature consumption. (4 days ago)
+- [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂 (4 days ago)
+- [mmsaeed509/bspwm-dots](https://github.com/mmsaeed509/bspwm-dots) - Ozoz dotfiles for bspwm, i3WM (4 days ago)
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (4 days ago)
+- [lucasdotvin/laravel-soulbscription](https://github.com/lucasdotvin/laravel-soulbscription) - A straightforward interface to handle subscriptions and feature consumption. (5 days ago)
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files. (1 week ago)
 - [mettle/sendportal](https://github.com/mettle/sendportal) - Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.  (2 weeks ago)
 - [flashdagger/ytdlp-plugins](https://github.com/flashdagger/ytdlp-plugins) - plugin manager for yt-dlp which enables releases of extractors as separate python package (2 weeks ago)
-- [hasinhayder/hydra](https://github.com/hasinhayder/hydra) - Hydra is a zero-config API boilerplate with Laravel 9x &#43; Laravel Sanctum that comes with an excellent user and role management API out of the box (2 weeks ago)
-- [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers (2 weeks ago)
-- [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (2 weeks ago)
+- [hasinhayder/hydra](https://github.com/hasinhayder/hydra) - Hydra is a zero-config API boilerplate with Laravel 9x &#43; Laravel Sanctum that comes with an excellent user and role management API out of the box (3 weeks ago)
+- [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers (3 weeks ago)
+- [nbgrp/singlea](https://github.com/nbgrp/singlea) - SingleA is a true SSO service based on the SingleAuth authentication framework (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
