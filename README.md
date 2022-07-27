@@ -29,7 +29,7 @@
 - [mmsaeed509/bspwm-dots](https://github.com/mmsaeed509/bspwm-dots) - Ozoz dotfiles for bspwm, i3WM (3 weeks ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (3 weeks ago)
 - [lucasdotvin/laravel-soulbscription](https://github.com/lucasdotvin/laravel-soulbscription) - A straightforward interface to handle subscriptions and feature consumption. (3 weeks ago)
-- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files. (4 weeks ago)
+- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files. (1 month ago)
 - [mettle/sendportal](https://github.com/mettle/sendportal) - Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.  (1 month ago)
 - [flashdagger/ytdlp-plugins](https://github.com/flashdagger/ytdlp-plugins) - plugin manager for yt-dlp which enables releases of extractors as separate python package (1 month ago)
 
