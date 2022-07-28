@@ -22,7 +22,8 @@
 
 #### ⭐ Recent Stars
 
-- [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go (1 week ago)
+- [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (1 day ago)
+- [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go (2 weeks ago)
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh. (2 weeks ago)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (2 weeks ago)
 - [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂 (3 weeks ago)
@@ -31,13 +32,12 @@
 - [lucasdotvin/laravel-soulbscription](https://github.com/lucasdotvin/laravel-soulbscription) - A straightforward interface to handle subscriptions and feature consumption. (3 weeks ago)
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files. (1 month ago)
 - [mettle/sendportal](https://github.com/mettle/sendportal) - Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.  (1 month ago)
-- [flashdagger/ytdlp-plugins](https://github.com/flashdagger/ytdlp-plugins) - plugin manager for yt-dlp which enables releases of extractors as separate python package (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [nullfeel](https://github.com/nullfeel)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
-- [KennyNobody](https://github.com/KennyNobody)
 - [nikitavoloboev](https://github.com/nikitavoloboev)
 - [artemgavrilov](https://github.com/artemgavrilov)
 
