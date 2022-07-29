@@ -4,10 +4,10 @@
 
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 weeks ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (1 month ago)
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial PHP wrapper client for lknpd.nalog.ru API (1 month ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial PHP wrapper client for lknpd.nalog.ru API (2 months ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (9 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (10 months ago)
-- [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (10 months ago)
+- [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (11 months ago)
 - [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (11 months ago)
 
 #### 🌱 My latest projects
@@ -22,16 +22,16 @@
 
 #### ⭐ Recent Stars
 
-- [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (1 day ago)
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Billing API for Product Led SaaS (1 day ago)
+- [taylor85345/garden-hyprland-dotfiles](https://github.com/taylor85345/garden-hyprland-dotfiles) - My dotfiles for Hyprland (1 day ago)
+- [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (2 days ago)
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go (2 weeks ago)
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh. (2 weeks ago)
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (2 weeks ago)
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (3 weeks ago)
 - [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂 (3 weeks ago)
 - [mmsaeed509/bspwm-dots](https://github.com/mmsaeed509/bspwm-dots) - Ozoz dotfiles for bspwm, i3WM (3 weeks ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (3 weeks ago)
 - [lucasdotvin/laravel-soulbscription](https://github.com/lucasdotvin/laravel-soulbscription) - A straightforward interface to handle subscriptions and feature consumption. (3 weeks ago)
-- [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files. (1 month ago)
-- [mettle/sendportal](https://github.com/mettle/sendportal) - Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
