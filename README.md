@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [getlago/lago](https://github.com/getlago/lago) - Open Source Billing API for Product Led SaaS (1 day ago)
-- [taylor85345/garden-hyprland-dotfiles](https://github.com/taylor85345/garden-hyprland-dotfiles) - My dotfiles for Hyprland (1 day ago)
-- [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (2 days ago)
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Billing API for Product Led SaaS (2 days ago)
+- [taylor85345/garden-hyprland-dotfiles](https://github.com/taylor85345/garden-hyprland-dotfiles) - My dotfiles for Hyprland (2 days ago)
+- [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (3 days ago)
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go (2 weeks ago)
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh. (2 weeks ago)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (3 weeks ago)
