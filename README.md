@@ -22,15 +22,15 @@
 
 #### ⭐ Recent Stars
 
-- [getlago/lago](https://github.com/getlago/lago) - Open Source Billing API for Product Led SaaS (3 days ago)
-- [taylor85345/garden-hyprland-dotfiles](https://github.com/taylor85345/garden-hyprland-dotfiles) - My dotfiles for Hyprland (3 days ago)
-- [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (4 days ago)
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Billing API for Product Led SaaS (4 days ago)
+- [taylor85345/garden-hyprland-dotfiles](https://github.com/taylor85345/garden-hyprland-dotfiles) - My dotfiles for Hyprland (4 days ago)
+- [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (5 days ago)
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go (2 weeks ago)
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh. (2 weeks ago)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (3 weeks ago)
-- [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂 (3 weeks ago)
-- [mmsaeed509/bspwm-dots](https://github.com/mmsaeed509/bspwm-dots) - Ozoz dotfiles for bspwm, i3WM (3 weeks ago)
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (3 weeks ago)
+- [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂 (4 weeks ago)
+- [mmsaeed509/bspwm-dots](https://github.com/mmsaeed509/bspwm-dots) - Ozoz dotfiles for bspwm, i3WM (4 weeks ago)
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (4 weeks ago)
 - [lucasdotvin/laravel-soulbscription](https://github.com/lucasdotvin/laravel-soulbscription) - A straightforward interface to handle subscriptions and feature consumption. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
