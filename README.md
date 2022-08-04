@@ -22,16 +22,16 @@
 
 #### ⭐ Recent Stars
 
-- [nanojsx/nano](https://github.com/nanojsx/nano) - 🎯 SSR first, lightweight 1kB JSX library. (1 day ago)
-- [getlago/lago](https://github.com/getlago/lago) - Open Source Billing API for Product Led SaaS. (6 days ago)
-- [taylor85345/garden-hyprland-dotfiles](https://github.com/taylor85345/garden-hyprland-dotfiles) - My dotfiles for Hyprland (6 days ago)
+- [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd) - An example of hexagonal API Platform 3 implementation (1 day ago)
+- [lithammer/fuzzysearch](https://github.com/lithammer/fuzzysearch) - :pig: Tiny and fast fuzzy search in Go (1 day ago)
+- [nanojsx/nano](https://github.com/nanojsx/nano) - 🎯 SSR first, lightweight 1kB JSX library. (2 days ago)
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Billing API for Product Led SaaS. (1 week ago)
+- [taylor85345/garden-hyprland-dotfiles](https://github.com/taylor85345/garden-hyprland-dotfiles) - My dotfiles for Hyprland (1 week ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (1 week ago)
-- [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go (2 weeks ago)
+- [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go (3 weeks ago)
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh. (3 weeks ago)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (3 weeks ago)
 - [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂 (1 month ago)
-- [mmsaeed509/bspwm-dots](https://github.com/mmsaeed509/bspwm-dots) - Ozoz dotfiles for bspwm, i3WM (1 month ago)
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
