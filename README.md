@@ -22,10 +22,10 @@
 
 #### ⭐ Recent Stars
 
-- [MCotocel/nixdots](https://github.com/MCotocel/nixdots) - I have no idea what the hell I&#39;m doing (1 day ago)
-- [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd) - An example of hexagonal API Platform 3 implementation (2 days ago)
-- [lithammer/fuzzysearch](https://github.com/lithammer/fuzzysearch) - :pig: Tiny and fast fuzzy search in Go (2 days ago)
-- [nanojsx/nano](https://github.com/nanojsx/nano) - 🎯 SSR first, lightweight 1kB JSX library. (3 days ago)
+- [MCotocel/nixdots](https://github.com/MCotocel/nixdots) - I have no idea what the hell I&#39;m doing (2 days ago)
+- [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd) - An example of hexagonal API Platform 3 implementation (3 days ago)
+- [lithammer/fuzzysearch](https://github.com/lithammer/fuzzysearch) - :pig: Tiny and fast fuzzy search in Go (3 days ago)
+- [nanojsx/nano](https://github.com/nanojsx/nano) - 🎯 SSR first, lightweight 1kB JSX library. (4 days ago)
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Billing API for Product Led SaaS. (1 week ago)
 - [taylor85345/garden-hyprland-dotfiles](https://github.com/taylor85345/garden-hyprland-dotfiles) - My dotfiles for Hyprland (1 week ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (1 week ago)
