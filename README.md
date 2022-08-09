@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (3 weeks ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (4 weeks ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (1 month ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial PHP wrapper client for lknpd.nalog.ru API (2 months ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (10 months ago)
@@ -22,24 +22,24 @@
 
 #### ⭐ Recent Stars
 
-- [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets (1 day ago)
-- [MCotocel/nixdots](https://github.com/MCotocel/nixdots) - I have no idea what the hell I&#39;m doing (4 days ago)
-- [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd) - An example of hexagonal API Platform 3 implementation (5 days ago)
-- [lithammer/fuzzysearch](https://github.com/lithammer/fuzzysearch) - :pig: Tiny and fast fuzzy search in Go (5 days ago)
-- [nanojsx/nano](https://github.com/nanojsx/nano) - 🎯 SSR first, lightweight 1kB JSX library. (6 days ago)
+- [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets (2 days ago)
+- [MCotocel/nixdots](https://github.com/MCotocel/nixdots) - I have no idea what the hell I&#39;m doing (5 days ago)
+- [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd) - An example of hexagonal API Platform 3 implementation (6 days ago)
+- [lithammer/fuzzysearch](https://github.com/lithammer/fuzzysearch) - :pig: Tiny and fast fuzzy search in Go (6 days ago)
+- [nanojsx/nano](https://github.com/nanojsx/nano) - 🎯 SSR first, lightweight 1kB JSX library. (1 week ago)
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Billing API for Product Led SaaS. (1 week ago)
 - [taylor85345/garden-hyprland-dotfiles](https://github.com/taylor85345/garden-hyprland-dotfiles) - My dotfiles for Hyprland (1 week ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (1 week ago)
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go (3 weeks ago)
-- [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh. (3 weeks ago)
+- [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [Supme](https://github.com/Supme)
 - [nullfeel](https://github.com/nullfeel)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 - [nikitavoloboev](https://github.com/nikitavoloboev)
-- [artemgavrilov](https://github.com/artemgavrilov)
 
 
 #### 📫 Where to find me
