@@ -22,8 +22,8 @@
 
 #### ⭐ Recent Stars
 
-- [nikic/PHP-Fuzzer](https://github.com/nikic/PHP-Fuzzer) - Experimental fuzzer for PHP libraries (2 days ago)
-- [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets (5 days ago)
+- [nikic/PHP-Fuzzer](https://github.com/nikic/PHP-Fuzzer) - Experimental fuzzer for PHP libraries (3 days ago)
+- [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets (6 days ago)
 - [MCotocel/nixdots](https://github.com/MCotocel/nixdots) - I have no idea what the hell I&#39;m doing (1 week ago)
 - [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd) - An example of hexagonal API Platform 3 implementation (1 week ago)
 - [lithammer/fuzzysearch](https://github.com/lithammer/fuzzysearch) - :pig: Tiny and fast fuzzy search in Go (1 week ago)
@@ -31,15 +31,15 @@
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Billing API for Product Led SaaS. (2 weeks ago)
 - [taylor85345/garden-hyprland-dotfiles](https://github.com/taylor85345/garden-hyprland-dotfiles) - My dotfiles for Hyprland (2 weeks ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (2 weeks ago)
-- [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go (4 weeks ago)
+- [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
 - [MosFazli](https://github.com/MosFazli)
 - [Supme](https://github.com/Supme)
-- [nullfeel](https://github.com/nullfeel)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
+- [nikitavoloboev](https://github.com/nikitavoloboev)
 
 
 #### 📫 Where to find me
