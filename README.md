@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 
-- [nikic/PHP-Fuzzer](https://github.com/nikic/PHP-Fuzzer) - Experimental fuzzer for PHP libraries (4 days ago)
+- [nikic/PHP-Fuzzer](https://github.com/nikic/PHP-Fuzzer) - Experimental fuzzer for PHP libraries (5 days ago)
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets (1 week ago)
 - [MCotocel/nixdots](https://github.com/MCotocel/nixdots) - I have no idea what the hell I&#39;m doing (1 week ago)
 - [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd) - An example of hexagonal API Platform 3 implementation (1 week ago)
@@ -35,11 +35,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [MosFazli](https://github.com/MosFazli)
 - [Supme](https://github.com/Supme)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 - [nikitavoloboev](https://github.com/nikitavoloboev)
+- [artemgavrilov](https://github.com/artemgavrilov)
 
 
 #### 📫 Where to find me
