@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (4 days ago)
+- [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (5 days ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 month ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (2 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial PHP wrapper client for lknpd.nalog.ru API (2 months ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (10 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (11 months ago)
 - [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (11 months ago)
-- [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (11 months ago)
+- [KingoCor/Factorio-Twitch-Integration](https://github.com/KingoCor/Factorio-Twitch-Integration) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -24,9 +24,9 @@
 
 #### ⭐ Recent Stars
 
-- [tbleckert/react-select-search](https://github.com/tbleckert/react-select-search) - ⚡️ Lightweight select component for React (1 day ago)
-- [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies (3 days ago)
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (5 days ago)
+- [tbleckert/react-select-search](https://github.com/tbleckert/react-select-search) - ⚡️ Lightweight select component for React (2 days ago)
+- [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies (4 days ago)
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (6 days ago)
 - [nikic/PHP-Fuzzer](https://github.com/nikic/PHP-Fuzzer) - Experimental fuzzer for PHP libraries (1 week ago)
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets (2 weeks ago)
 - [MCotocel/nixdots](https://github.com/MCotocel/nixdots) - I have no idea what the hell I&#39;m doing (2 weeks ago)
