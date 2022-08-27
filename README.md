@@ -24,9 +24,9 @@
 
 #### ⭐ Recent Stars
 
-- [leafsphp/leaf](https://github.com/leafsphp/leaf) - 🍁 The easiest way to create clean, simple but powerful web apps and APIs quickly (1 day ago)
-- [serversideup/docker-php](https://github.com/serversideup/docker-php) - Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more! (1 day ago)
-- [tbleckert/react-select-search](https://github.com/tbleckert/react-select-search) - ⚡️ Lightweight select component for React (6 days ago)
+- [leafsphp/leaf](https://github.com/leafsphp/leaf) - 🍁 The easiest way to create clean, simple but powerful web apps and APIs quickly (2 days ago)
+- [serversideup/docker-php](https://github.com/serversideup/docker-php) - Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more! (2 days ago)
+- [tbleckert/react-select-search](https://github.com/tbleckert/react-select-search) - ⚡️ Lightweight select component for React (1 week ago)
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies (1 week ago)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (1 week ago)
 - [nikic/PHP-Fuzzer](https://github.com/nikic/PHP-Fuzzer) - Experimental fuzzer for PHP libraries (2 weeks ago)
