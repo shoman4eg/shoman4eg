@@ -8,7 +8,6 @@
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial PHP wrapper client for lknpd.nalog.ru API (3 months ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (11 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (11 months ago)
-- [dimuska139/go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address. (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -23,8 +22,8 @@
 
 #### ⭐ Recent Stars
 
-- [realTristan/bettercache](https://github.com/realTristan/bettercache) - Modern Caching System with Lightning Fast Full Text Search (1 day ago)
-- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang (6 days ago)
+- [realTristan/bettercache](https://github.com/realTristan/bettercache) - Modern Caching System with Lightning Fast Full Text Search (2 days ago)
+- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang (1 week ago)
 - [leafsphp/leaf](https://github.com/leafsphp/leaf) - 🍁 The easiest way to create clean, simple but powerful web apps and APIs quickly (1 week ago)
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more! (1 week ago)
 - [tbleckert/react-select-search](https://github.com/tbleckert/react-select-search) - ⚡️ Lightweight select component for React (2 weeks ago)
