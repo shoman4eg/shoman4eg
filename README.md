@@ -4,7 +4,7 @@
 
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (4 weeks ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 months ago)
-- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (2 months ago)
+- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (3 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial PHP wrapper client for lknpd.nalog.ru API (3 months ago)
 - [adshao/go-binance](https://github.com/adshao/go-binance) - A Go SDK for Binance API (11 months ago)
 - [TeodorVecerdi/DialogueGraph](https://github.com/TeodorVecerdi/DialogueGraph) - Open-source node-based tool for developing branching conversation trees (1 year ago)
@@ -22,16 +22,16 @@
 
 #### ⭐ Recent Stars
 
-- [translate5/translate5](https://github.com/translate5/translate5) - Translate5: Open Source Translation System (published 1st time on github at 2020-08-10) (1 day ago)
-- [texterify/texterify](https://github.com/texterify/texterify) - The translation and localization management system. (1 day ago)
-- [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Tolgee is translation management cloud platform made for translating modern web applications. It works great with JS frameworks like React, Angular, Vue and others.  (1 day ago)
-- [lars-berger/GlazeWM](https://github.com/lars-berger/GlazeWM) - A tiling window manager for Windows inspired by i3 and Polybar. (1 day ago)
-- [brianvoe/sjwt](https://github.com/brianvoe/sjwt) - Simple JWT Golang (1 day ago)
-- [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Visualise Go program runtime metrics in real time in your browser (6 days ago)
+- [translate5/translate5](https://github.com/translate5/translate5) - Translate5: Open Source Translation System (published 1st time on github at 2020-08-10) (2 days ago)
+- [texterify/texterify](https://github.com/texterify/texterify) - The translation and localization management system. (2 days ago)
+- [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Tolgee is translation management cloud platform made for translating modern web applications. It works great with JS frameworks like React, Angular, Vue and others.  (2 days ago)
+- [lars-berger/GlazeWM](https://github.com/lars-berger/GlazeWM) - A tiling window manager for Windows inspired by i3 and Polybar. (2 days ago)
+- [brianvoe/sjwt](https://github.com/brianvoe/sjwt) - Simple JWT Golang (2 days ago)
+- [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Visualise Go program runtime metrics in real time in your browser (1 week ago)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (1 week ago)
 - [realTristan/bettercache](https://github.com/realTristan/bettercache) - Modern Caching System with Lightning Fast Full Text Search (1 week ago)
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang (2 weeks ago)
-- [leafsphp/leaf](https://github.com/leafsphp/leaf) - 🍁 The easiest way to create clean, simple but powerful web apps and APIs quickly (2 weeks ago)
+- [leafsphp/leaf](https://github.com/leafsphp/leaf) - 🍁 The easiest way to create clean, simple but powerful web apps and APIs quickly (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
