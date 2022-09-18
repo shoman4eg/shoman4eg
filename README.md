@@ -22,11 +22,11 @@
 
 #### ⭐ Recent Stars
 
-- [translate5/translate5](https://github.com/translate5/translate5) - Translate5: Open Source Translation System (published 1st time on github at 2020-08-10) (4 days ago)
-- [texterify/texterify](https://github.com/texterify/texterify) - The translation and localization management system. (4 days ago)
-- [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Tolgee is translation management cloud platform made for translating modern web applications. It works great with JS frameworks like React, Angular, Vue and others.  (4 days ago)
-- [lars-berger/GlazeWM](https://github.com/lars-berger/GlazeWM) - A tiling window manager for Windows inspired by i3 and Polybar. (4 days ago)
-- [brianvoe/sjwt](https://github.com/brianvoe/sjwt) - Simple JWT Golang (4 days ago)
+- [translate5/translate5](https://github.com/translate5/translate5) - Translate5: Open Source Translation System (published 1st time on github at 2020-08-10) (5 days ago)
+- [texterify/texterify](https://github.com/texterify/texterify) - The translation and localization management system. (5 days ago)
+- [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Tolgee is translation management cloud platform made for translating modern web applications. It works great with JS frameworks like React, Angular, Vue and others.  (5 days ago)
+- [lars-berger/GlazeWM](https://github.com/lars-berger/GlazeWM) - A tiling window manager for Windows inspired by i3 and Polybar. (5 days ago)
+- [brianvoe/sjwt](https://github.com/brianvoe/sjwt) - Simple JWT Golang (5 days ago)
 - [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Visualise Go program runtime metrics in real time in your browser (1 week ago)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (1 week ago)
 - [realTristan/bettercache](https://github.com/realTristan/bettercache) - Modern Caching System with Lightning Fast Full Text Search (2 weeks ago)
