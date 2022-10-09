@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [BitOne/php-meminfo](https://github.com/BitOne/php-meminfo) - PHP extension to get insight about memory usage (3 days ago)
-- [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope) - The static website generator for Symfony developers (5 days ago)
-- [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (5 days ago)
+- [BitOne/php-meminfo](https://github.com/BitOne/php-meminfo) - PHP extension to get insight about memory usage (4 days ago)
+- [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope) - The static website generator for Symfony developers (6 days ago)
+- [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (6 days ago)
 - [EndeavourOS-Community-Editions/bspwm](https://github.com/EndeavourOS-Community-Editions/bspwm) - EndeavourOS Community Edition setup for BSPWM (1 week ago)
 - [translate5/translate5](https://github.com/translate5/translate5) - Translate5: Open Source Translation System (published 1st time on github at 2020-08-10) (3 weeks ago)
 - [texterify/texterify](https://github.com/texterify/texterify) - The translation and localization management system. (3 weeks ago)
