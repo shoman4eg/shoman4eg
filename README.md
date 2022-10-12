@@ -20,7 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [BitOne/php-meminfo](https://github.com/BitOne/php-meminfo) - PHP extension to get insight about memory usage (6 days ago)
+- [git-time-metric/gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git (1 day ago)
+- [BitOne/php-meminfo](https://github.com/BitOne/php-meminfo) - PHP extension to get insight about memory usage (1 week ago)
 - [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope) - The static website generator for Symfony developers (1 week ago)
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (1 week ago)
 - [EndeavourOS-Community-Editions/bspwm](https://github.com/EndeavourOS-Community-Editions/bspwm) - EndeavourOS Community Edition setup for BSPWM (2 weeks ago)
@@ -29,7 +30,6 @@
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Tolgee is translation management cloud platform made for translating modern web applications. It works great with JS frameworks like React, Angular, Vue and others.  (4 weeks ago)
 - [lars-berger/GlazeWM](https://github.com/lars-berger/GlazeWM) - A tiling window manager for Windows inspired by i3 and Polybar. (4 weeks ago)
 - [brianvoe/sjwt](https://github.com/brianvoe/sjwt) - Simple JWT Golang (4 weeks ago)
-- [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Visualise Go program runtime metrics in real time in your browser (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
