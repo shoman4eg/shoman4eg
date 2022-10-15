@@ -4,7 +4,7 @@
 
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (1 month ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (3 months ago)
-- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (3 months ago)
+- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (4 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial PHP wrapper client for lknpd.nalog.ru API (4 months ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [git-time-metric/gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git (3 days ago)
+- [git-time-metric/gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git (4 days ago)
 - [BitOne/php-meminfo](https://github.com/BitOne/php-meminfo) - PHP extension to get insight about memory usage (1 week ago)
 - [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope) - The static website generator for Symfony developers (1 week ago)
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (1 week ago)
@@ -33,11 +33,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [daweedkob](https://github.com/daweedkob)
 - [Supme](https://github.com/Supme)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 - [nikitavoloboev](https://github.com/nikitavoloboev)
-- [artemgavrilov](https://github.com/artemgavrilov)
 
 
 #### 📫 Where to find me
