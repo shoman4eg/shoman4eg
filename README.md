@@ -20,6 +20,7 @@
 
 #### ⭐ Recent Stars
 
+- [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (1 day ago)
 - [git-time-metric/gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git (1 week ago)
 - [BitOne/php-meminfo](https://github.com/BitOne/php-meminfo) - PHP extension to get insight about memory usage (2 weeks ago)
 - [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope) - The static website generator for Symfony developers (2 weeks ago)
@@ -29,7 +30,6 @@
 - [texterify/texterify](https://github.com/texterify/texterify) - The translation and localization management system. (1 month ago)
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Tolgee is translation management cloud platform made for translating modern web applications. It works great with JS frameworks like React, Angular, Vue and others.  (1 month ago)
 - [lars-berger/GlazeWM](https://github.com/lars-berger/GlazeWM) - A tiling window manager for Windows inspired by i3 and Polybar. (1 month ago)
-- [brianvoe/sjwt](https://github.com/brianvoe/sjwt) - Simple JWT Golang (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
