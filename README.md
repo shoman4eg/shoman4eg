@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (2 days ago)
+- [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (3 days ago)
 - [git-time-metric/gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git (1 week ago)
 - [BitOne/php-meminfo](https://github.com/BitOne/php-meminfo) - PHP extension to get insight about memory usage (2 weeks ago)
 - [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope) - The static website generator for Symfony developers (2 weeks ago)
