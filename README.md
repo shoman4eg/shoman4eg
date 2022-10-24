@@ -20,11 +20,11 @@
 
 #### ⭐ Recent Stars
 
-- [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (3 days ago)
+- [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (4 days ago)
 - [git-time-metric/gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git (1 week ago)
 - [BitOne/php-meminfo](https://github.com/BitOne/php-meminfo) - PHP extension to get insight about memory usage (2 weeks ago)
-- [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope) - The static website generator for Symfony developers (2 weeks ago)
-- [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (2 weeks ago)
+- [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope) - The static website generator for Symfony developers (3 weeks ago)
+- [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (3 weeks ago)
 - [EndeavourOS-Community-Editions/bspwm](https://github.com/EndeavourOS-Community-Editions/bspwm) - EndeavourOS Community Edition setup for BSPWM (3 weeks ago)
 - [translate5/translate5](https://github.com/translate5/translate5) - Translate5: Open Source Translation System (published 1st time on github at 2020-08-10) (1 month ago)
 - [texterify/texterify](https://github.com/texterify/texterify) - The translation and localization management system. (1 month ago)
