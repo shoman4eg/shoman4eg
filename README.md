@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (4 days ago)
 - [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (1 week ago)
 - [git-time-metric/gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git (2 weeks ago)
 - [BitOne/php-meminfo](https://github.com/BitOne/php-meminfo) - PHP extension to get insight about memory usage (3 weeks ago)
