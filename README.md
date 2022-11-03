@@ -21,7 +21,7 @@
 #### ⭐ Recent Stars
 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 week ago)
-- [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (1 week ago)
+- [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (2 weeks ago)
 - [git-time-metric/gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git (3 weeks ago)
 - [BitOne/php-meminfo](https://github.com/BitOne/php-meminfo) - PHP extension to get insight about memory usage (4 weeks ago)
 - [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope) - The static website generator for Symfony developers (1 month ago)
@@ -34,10 +34,10 @@
 #### 👯 Check out some of my recent followers
 
 - [DisastrousBug](https://github.com/DisastrousBug)
-- [MaigretiOS](https://github.com/MaigretiOS)
 - [Supme](https://github.com/Supme)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
+- [nikitavoloboev](https://github.com/nikitavoloboev)
 
 
 #### 📫 Where to find me
