@@ -23,7 +23,7 @@
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 week ago)
 - [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (2 weeks ago)
 - [git-time-metric/gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git (3 weeks ago)
-- [BitOne/php-meminfo](https://github.com/BitOne/php-meminfo) - PHP extension to get insight about memory usage (4 weeks ago)
+- [BitOne/php-meminfo](https://github.com/BitOne/php-meminfo) - PHP extension to get insight about memory usage (1 month ago)
 - [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope) - The static website generator for Symfony developers (1 month ago)
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (1 month ago)
 - [EndeavourOS-Community-Editions/bspwm](https://github.com/EndeavourOS-Community-Editions/bspwm) - EndeavourOS Community Edition setup for BSPWM (1 month ago)
