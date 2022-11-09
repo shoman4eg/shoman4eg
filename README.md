@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (2 months ago)
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (3 months ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (4 months ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (4 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial PHP wrapper client for lknpd.nalog.ru API (5 months ago)
 
@@ -20,7 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [mino29/arch-i3](https://github.com/mino29/arch-i3) - Dotfiles for my i3wm config (3 days ago)
+- [omegion/ssh-manager](https://github.com/omegion/ssh-manager) - SSH Key Manager for 1Password, Bitwarden and AWS S3. (today)
+- [mino29/arch-i3](https://github.com/mino29/arch-i3) - Dotfiles for my i3wm config (4 days ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (2 weeks ago)
 - [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (2 weeks ago)
 - [git-time-metric/gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git (4 weeks ago)
@@ -29,7 +30,6 @@
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (1 month ago)
 - [EndeavourOS-Community-Editions/bspwm](https://github.com/EndeavourOS-Community-Editions/bspwm) - EndeavourOS Community Edition setup for BSPWM (1 month ago)
 - [translate5/translate5](https://github.com/translate5/translate5) - Translate5: Open Source Translation System (published 1st time on github at 2020-08-10) (1 month ago)
-- [texterify/texterify](https://github.com/texterify/texterify) - The translation and localization management system. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
