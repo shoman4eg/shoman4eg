@@ -20,8 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP&#43;Node.js web development environments (2 days ago)
-- [adoyle-h/one.nvim](https://github.com/adoyle-h/one.nvim) - All-in-one neovim configuration framework implemented with Lua. (2 days ago)
+- [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP&#43;Node.js web development environments (3 days ago)
+- [adoyle-h/one.nvim](https://github.com/adoyle-h/one.nvim) - All-in-one neovim configuration framework implemented with Lua. (3 days ago)
 - [omegion/ssh-manager](https://github.com/omegion/ssh-manager) - SSH Key Manager for 1Password, Bitwarden and AWS S3. (1 week ago)
 - [mino29/arch-i3](https://github.com/mino29/arch-i3) - Dotfiles for my i3wm config (1 week ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 weeks ago)
