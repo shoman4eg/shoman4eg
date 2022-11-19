@@ -20,12 +20,12 @@
 
 #### ⭐ Recent Stars
 
-- [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP&#43;Node.js web development environments (3 days ago)
-- [adoyle-h/one.nvim](https://github.com/adoyle-h/one.nvim) - All-in-one neovim configuration framework implemented with Lua. (3 days ago)
+- [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP&#43;Node.js web development environments (4 days ago)
+- [adoyle-h/one.nvim](https://github.com/adoyle-h/one.nvim) - All-in-one neovim configuration framework implemented with Lua. (4 days ago)
 - [omegion/ssh-manager](https://github.com/omegion/ssh-manager) - SSH Key Manager for 1Password, Bitwarden and AWS S3. (1 week ago)
-- [mino29/arch-i3](https://github.com/mino29/arch-i3) - Dotfiles for my i3wm config (1 week ago)
+- [mino29/arch-i3](https://github.com/mino29/arch-i3) - Dotfiles for my i3wm config (2 weeks ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (3 weeks ago)
-- [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (4 weeks ago)
+- [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (1 month ago)
 - [git-time-metric/gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git (1 month ago)
 - [BitOne/php-meminfo](https://github.com/BitOne/php-meminfo) - PHP extension to get insight about memory usage (1 month ago)
 - [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope) - The static website generator for Symfony developers (1 month ago)
