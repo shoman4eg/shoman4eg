@@ -20,6 +20,8 @@
 
 #### ⭐ Recent Stars
 
+- [gnoemes/Shikimori-App-Remastered](https://github.com/gnoemes/Shikimori-App-Remastered) - Android client for shikimori.one (today)
+- [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs (1 day ago)
 - [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP&#43;Node.js web development environments (1 week ago)
 - [adoyle-h/one.nvim](https://github.com/adoyle-h/one.nvim) - All-in-one neovim configuration framework implemented with Lua. (1 week ago)
 - [omegion/ssh-manager](https://github.com/omegion/ssh-manager) - SSH Key Manager for 1Password, Bitwarden and AWS S3. (2 weeks ago)
@@ -28,8 +30,6 @@
 - [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (1 month ago)
 - [git-time-metric/gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git (1 month ago)
 - [BitOne/php-meminfo](https://github.com/BitOne/php-meminfo) - PHP extension to get insight about memory usage (1 month ago)
-- [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope) - The static website generator for Symfony developers (1 month ago)
-- [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
