@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial PHP wrapper client for lknpd.nalog.ru API (1 day ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial PHP wrapper client for lknpd.nalog.ru API (2 days ago)
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (3 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (4 months ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (5 months ago)
@@ -20,16 +20,16 @@
 
 #### ⭐ Recent Stars
 
-- [gnoemes/Shikimori-App-Remastered](https://github.com/gnoemes/Shikimori-App-Remastered) - Android client for shikimori.one (3 days ago)
-- [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs (4 days ago)
-- [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP&#43;Node.js web development environments (1 week ago)
-- [adoyle-h/one.nvim](https://github.com/adoyle-h/one.nvim) - All-in-one neovim configuration framework implemented with Lua. (1 week ago)
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. (1 day ago)
+- [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener (1 day ago)
+- [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland (1 day ago)
+- [ldelossa/nvim-ide](https://github.com/ldelossa/nvim-ide) -  (1 day ago)
+- [gnoemes/Shikimori-App-Remastered](https://github.com/gnoemes/Shikimori-App-Remastered) - Android client for shikimori.one (4 days ago)
+- [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs (5 days ago)
+- [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP&#43;Node.js web development environments (2 weeks ago)
+- [adoyle-h/one.nvim](https://github.com/adoyle-h/one.nvim) - All-in-one neovim configuration framework implemented with Lua. (2 weeks ago)
 - [omegion/ssh-manager](https://github.com/omegion/ssh-manager) - SSH Key Manager for 1Password, Bitwarden and AWS S3. (2 weeks ago)
 - [mino29/arch-i3](https://github.com/mino29/arch-i3) - Dotfiles for my i3wm config (3 weeks ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 month ago)
-- [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools (1 month ago)
-- [git-time-metric/gtm](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git (1 month ago)
-- [BitOne/php-meminfo](https://github.com/BitOne/php-meminfo) - PHP extension to get insight about memory usage (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
