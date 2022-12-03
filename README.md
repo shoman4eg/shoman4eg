@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial PHP wrapper client for lknpd.nalog.ru API (5 days ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial PHP wrapper client for lknpd.nalog.ru API (6 days ago)
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (3 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (4 months ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (5 months ago)
@@ -20,16 +20,16 @@
 
 #### ⭐ Recent Stars
 
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. (4 days ago)
-- [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener (4 days ago)
-- [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland (4 days ago)
-- [ldelossa/nvim-ide](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer for Neovim. Heavily inspired by VSCode. (4 days ago)
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. (5 days ago)
+- [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener (5 days ago)
+- [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland (5 days ago)
+- [ldelossa/nvim-ide](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer for Neovim. Heavily inspired by VSCode. (5 days ago)
 - [gnoemes/Shikimori-App-Remastered](https://github.com/gnoemes/Shikimori-App-Remastered) - Android client for shikimori.one (1 week ago)
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs (1 week ago)
 - [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP&#43;Node.js web development environments (2 weeks ago)
 - [adoyle-h/one.nvim](https://github.com/adoyle-h/one.nvim) - All-in-one neovim configuration framework implemented with Lua. (2 weeks ago)
 - [omegion/ssh-manager](https://github.com/omegion/ssh-manager) - SSH Key Manager for 1Password, Bitwarden and AWS S3. (3 weeks ago)
-- [mino29/arch-i3](https://github.com/mino29/arch-i3) - Dotfiles for my i3wm config (3 weeks ago)
+- [mino29/arch-i3](https://github.com/mino29/arch-i3) - Dotfiles for my i3wm config (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
