@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - Mirror of https://git.sioodmy.dev/sioodmy/dotfiles (1 day ago)
+- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - Mirror of https://git.sioodmy.dev/sioodmy/dotfiles (2 days ago)
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. (1 week ago)
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener (1 week ago)
 - [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland (1 week ago)
@@ -29,7 +29,7 @@
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs (1 week ago)
 - [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP&#43;Node.js web development environments (3 weeks ago)
 - [adoyle-h/one.nvim](https://github.com/adoyle-h/one.nvim) - All-in-one neovim configuration framework implemented with Lua. (3 weeks ago)
-- [omegion/ssh-manager](https://github.com/omegion/ssh-manager) - SSH Key Manager for 1Password, Bitwarden and AWS S3. (3 weeks ago)
+- [omegion/ssh-manager](https://github.com/omegion/ssh-manager) - SSH Key Manager for 1Password, Bitwarden and AWS S3. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
