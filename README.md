@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial PHP wrapper client for lknpd.nalog.ru API (1 week ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - An unofficial PHP wrapper client for lknpd.nalog.ru API (2 weeks ago)
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (3 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (5 months ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (5 months ago)
@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework. (3 days ago)
-- [android/architecture-templates](https://github.com/android/architecture-templates) -  (3 days ago)
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - Mirror of https://git.sioodmy.dev/sioodmy/dotfiles (5 days ago)
+- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework. (4 days ago)
+- [android/architecture-templates](https://github.com/android/architecture-templates) -  (4 days ago)
+- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - Mirror of https://git.sioodmy.dev/sioodmy/dotfiles (6 days ago)
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. (1 week ago)
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener (1 week ago)
 - [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland (1 week ago)
