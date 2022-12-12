@@ -20,13 +20,13 @@
 
 #### ⭐ Recent Stars
 
-- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework. (4 days ago)
-- [android/architecture-templates](https://github.com/android/architecture-templates) -  (4 days ago)
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - Mirror of https://git.sioodmy.dev/sioodmy/dotfiles (6 days ago)
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. (1 week ago)
-- [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener (1 week ago)
-- [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland (1 week ago)
-- [ldelossa/nvim-ide](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer for Neovim. Heavily inspired by VSCode. (1 week ago)
+- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework. (5 days ago)
+- [android/architecture-templates](https://github.com/android/architecture-templates) -  (5 days ago)
+- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - Mirror of https://git.sioodmy.dev/sioodmy/dotfiles (1 week ago)
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. (2 weeks ago)
+- [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener (2 weeks ago)
+- [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland (2 weeks ago)
+- [ldelossa/nvim-ide](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer for Neovim. Heavily inspired by VSCode. (2 weeks ago)
 - [gnoemes/Shikimori-App-Remastered](https://github.com/gnoemes/Shikimori-App-Remastered) - Android client for shikimori.one (2 weeks ago)
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs (2 weeks ago)
 - [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP&#43;Node.js web development environments (3 weeks ago)
