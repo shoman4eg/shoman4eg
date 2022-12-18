@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 weeks ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (3 weeks ago)
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (4 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (5 months ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (6 months ago)
@@ -20,8 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim (3 days ago)
-- [airplayx/gormat](https://github.com/airplayx/gormat) - ☄ The golang convenient converter supports Database to Struct, SQL to Struct, and JSON to Struct. (4 days ago)
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim (4 days ago)
+- [airplayx/gormat](https://github.com/airplayx/gormat) - ☄ The golang convenient converter supports Database to Struct, SQL to Struct, and JSON to Struct. (5 days ago)
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework. (1 week ago)
 - [android/architecture-templates](https://github.com/android/architecture-templates) -  (1 week ago)
 - [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - Mirror of https://git.sioodmy.dev/sioodmy/dotfiles (1 week ago)
