@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms. (2 days ago)
+- [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms. (3 days ago)
 - [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge-based community software. You can use it quickly to build Q&amp;A community for your products, customers, teams, and more. (1 week ago)
 - [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (1 week ago)
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (1 week ago)
