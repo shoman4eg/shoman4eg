@@ -20,8 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [AlphaTechnolog/dotfiles](https://github.com/AlphaTechnolog/dotfiles) - A repository that contains a collection of various rices that i made over the time (today)
-- [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms. (6 days ago)
+- [AlphaTechnolog/dotfiles](https://github.com/AlphaTechnolog/dotfiles) - A repository that contains a collection of various rices that i made over the time (1 day ago)
+- [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms. (1 week ago)
 - [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge-based community software. You can use it quickly to build Q&amp;A community for your products, customers, teams, and more. (2 weeks ago)
 - [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (2 weeks ago)
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (2 weeks ago)
