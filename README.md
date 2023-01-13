@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (4 days ago)
+- [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (5 days ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 month ago)
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (4 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (6 months ago)
-- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (6 months ago)
+- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [martin-helmich/phpunit-json-assert](https://github.com/martin-helmich/phpunit-json-assert) - PHPUnit assertions for JSON documents (4 days ago)
-- [getparthenon/parthenon](https://github.com/getparthenon/parthenon) - The Symfony SaaS boilerplate (4 days ago)
+- [martin-helmich/phpunit-json-assert](https://github.com/martin-helmich/phpunit-json-assert) - PHPUnit assertions for JSON documents (5 days ago)
+- [getparthenon/parthenon](https://github.com/getparthenon/parthenon) - The Symfony SaaS boilerplate (5 days ago)
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go (1 week ago)
 - [dharmx/vile](https://github.com/dharmx/vile) - Waste of time. Smelly widgets feat. Spaghetti code. (1 week ago)
 - [AlphaTechnolog/dotfiles](https://github.com/AlphaTechnolog/dotfiles) - A repository that contains a collection of various rices that i made over the time (1 week ago)
@@ -30,7 +30,7 @@
 - [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge-based community software. You can use it quickly to build Q&amp;A community for your products, customers, teams, and more. (3 weeks ago)
 - [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB (3 weeks ago)
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (3 weeks ago)
-- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim (4 weeks ago)
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
