@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (6 days ago)
+- [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (1 week ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 month ago)
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (5 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (6 months ago)
@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management &amp; analytics (1 day ago)
-- [martin-helmich/phpunit-json-assert](https://github.com/martin-helmich/phpunit-json-assert) - PHPUnit assertions for JSON documents (6 days ago)
-- [getparthenon/parthenon](https://github.com/getparthenon/parthenon) - The Symfony SaaS boilerplate (6 days ago)
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management &amp; analytics (2 days ago)
+- [martin-helmich/phpunit-json-assert](https://github.com/martin-helmich/phpunit-json-assert) - PHPUnit assertions for JSON documents (1 week ago)
+- [getparthenon/parthenon](https://github.com/getparthenon/parthenon) - The Symfony SaaS boilerplate (1 week ago)
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go (1 week ago)
 - [dharmx/vile](https://github.com/dharmx/vile) - Waste of time. Smelly widgets feat. Spaghetti code. (1 week ago)
 - [AlphaTechnolog/dotfiles](https://github.com/AlphaTechnolog/dotfiles) - A repository that contains a collection of various rices that i made over the time (1 week ago)
