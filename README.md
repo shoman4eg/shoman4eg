@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (5 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (6 days ago)
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management &amp; analytics (1 week ago)
 - [martin-helmich/phpunit-json-assert](https://github.com/martin-helmich/phpunit-json-assert) - PHPUnit assertions for JSON documents (1 week ago)
 - [getparthenon/parthenon](https://github.com/getparthenon/parthenon) - The Symfony SaaS boilerplate (1 week ago)
