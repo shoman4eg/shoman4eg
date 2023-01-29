@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (2 weeks ago)
+- [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (3 weeks ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 months ago)
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (5 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (6 months ago)
@@ -21,13 +21,13 @@
 
 #### ⭐ Recent Stars
 
-- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. (4 days ago)
-- [Clivern/Helium](https://github.com/Clivern/Helium) - 🐺 Fast, Secure and Reliable Newsletter System, Set up in Minutes. (4 days ago)
-- [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :) (5 days ago)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (1 week ago)
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. (5 days ago)
+- [Clivern/Helium](https://github.com/Clivern/Helium) - 🐺 Fast, Secure and Reliable Newsletter System, Set up in Minutes. (5 days ago)
+- [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :) (6 days ago)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (2 weeks ago)
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management &amp; analytics (2 weeks ago)
-- [martin-helmich/phpunit-json-assert](https://github.com/martin-helmich/phpunit-json-assert) - PHPUnit assertions for JSON documents (2 weeks ago)
-- [getparthenon/parthenon](https://github.com/getparthenon/parthenon) - The Symfony SaaS boilerplate (2 weeks ago)
+- [martin-helmich/phpunit-json-assert](https://github.com/martin-helmich/phpunit-json-assert) - PHPUnit assertions for JSON documents (3 weeks ago)
+- [getparthenon/parthenon](https://github.com/getparthenon/parthenon) - The Symfony SaaS boilerplate (3 weeks ago)
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go (3 weeks ago)
 - [dharmx/vile](https://github.com/dharmx/vile) - Waste of time. Smelly widgets feat. Spaghetti code. (3 weeks ago)
 - [AlphaTechnolog/dotfiles](https://github.com/AlphaTechnolog/dotfiles) - A repository that contains a collection of various rices that i made over the time (3 weeks ago)
