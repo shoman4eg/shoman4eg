@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (today)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 day ago)
 - [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (3 weeks ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 months ago)
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (5 months ago)
@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [Battlesquid/dotfiles](https://github.com/Battlesquid/dotfiles) - My personal dotfiles (1 day ago)
-- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. (6 days ago)
-- [Clivern/Helium](https://github.com/Clivern/Helium) - 🐺 Fast, Secure and Reliable Newsletter System, Set up in Minutes. (6 days ago)
+- [Battlesquid/dotfiles](https://github.com/Battlesquid/dotfiles) - My personal dotfiles (2 days ago)
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. (1 week ago)
+- [Clivern/Helium](https://github.com/Clivern/Helium) - 🐺 Fast, Secure and Reliable Newsletter System, Set up in Minutes. (1 week ago)
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :) (1 week ago)
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (2 weeks ago)
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management &amp; analytics (2 weeks ago)
