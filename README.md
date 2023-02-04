@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (4 days ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (5 days ago)
 - [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (3 weeks ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 months ago)
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (5 months ago)
@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [ThinkPadThink/Thinkpadthinkpad](https://github.com/ThinkPadThink/Thinkpadthinkpad) - Гайд по покупке Б/У ноутов ThinkPad. (2 days ago)
-- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (2 days ago)
-- [Battlesquid/dotfiles](https://github.com/Battlesquid/dotfiles) - My personal dotfiles (5 days ago)
+- [ThinkPadThink/Thinkpadthinkpad](https://github.com/ThinkPadThink/Thinkpadthinkpad) - Гайд по покупке Б/У ноутов ThinkPad. (3 days ago)
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (3 days ago)
+- [Battlesquid/dotfiles](https://github.com/Battlesquid/dotfiles) - My personal dotfiles (6 days ago)
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. (1 week ago)
 - [Clivern/Helium](https://github.com/Clivern/Helium) - 🐺 Fast, Secure and Reliable Newsletter System, Set up in Minutes. (1 week ago)
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :) (1 week ago)
