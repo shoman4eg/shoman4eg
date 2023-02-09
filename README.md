@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API (1 day ago)
-- [vladtenlive/gosling](https://github.com/vladtenlive/gosling) - https://t.me/vladisten (3 days ago)
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API (2 days ago)
+- [vladtenlive/gosling](https://github.com/vladtenlive/gosling) - https://t.me/vladisten (4 days ago)
 - [ThinkPadThink/Thinkpadthinkpad](https://github.com/ThinkPadThink/Thinkpadthinkpad) - Гайд по покупке Б/У ноутов ThinkPad. (1 week ago)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (1 week ago)
 - [Battlesquid/dotfiles](https://github.com/Battlesquid/dotfiles) - My personal dotfiles (1 week ago)
