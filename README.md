@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 week ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 weeks ago)
 - [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (1 month ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 months ago)
-- [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (5 months ago)
+- [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (6 months ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (8 months ago)
 
 #### 🌱 My latest projects
@@ -21,14 +21,14 @@
 
 #### ⭐ Recent Stars
 
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API (5 days ago)
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API (6 days ago)
 - [vladtenlive/gosling](https://github.com/vladtenlive/gosling) - https://t.me/vladisten (1 week ago)
 - [ThinkPadThink/Thinkpadthinkpad](https://github.com/ThinkPadThink/Thinkpadthinkpad) - Гайд по покупке Б/У ноутов ThinkPad. (1 week ago)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (1 week ago)
 - [Battlesquid/dotfiles](https://github.com/Battlesquid/dotfiles) - My personal dotfiles (2 weeks ago)
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. (2 weeks ago)
 - [Clivern/Helium](https://github.com/Clivern/Helium) - 🐺 Fast, Secure and Reliable Newsletter System, Set up in Minutes. (2 weeks ago)
-- [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :) (2 weeks ago)
+- [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :) (3 weeks ago)
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution (4 weeks ago)
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management &amp; analytics (1 month ago)
 
