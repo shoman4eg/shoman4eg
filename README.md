@@ -21,13 +21,13 @@
 
 #### ⭐ Recent Stars
 
-- [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww &#43; bspwm rice c: (1 day ago)
-- [Toqozz/wired-notify](https://github.com/Toqozz/wired-notify) - Lightweight notification daemon with highly customizable layout blocks, written in Rust. (1 day ago)
-- [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (4 days ago)
+- [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww &#43; bspwm rice c: (2 days ago)
+- [Toqozz/wired-notify](https://github.com/Toqozz/wired-notify) - Lightweight notification daemon with highly customizable layout blocks, written in Rust. (2 days ago)
+- [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (5 days ago)
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API (2 weeks ago)
 - [vladtenlive/gosling](https://github.com/vladtenlive/gosling) - https://t.me/vladisten (2 weeks ago)
-- [ThinkPadThink/Thinkpadthinkpad](https://github.com/ThinkPadThink/Thinkpadthinkpad) - Гайд по покупке Б/У ноутов ThinkPad. (2 weeks ago)
-- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (2 weeks ago)
+- [ThinkPadThink/Thinkpadthinkpad](https://github.com/ThinkPadThink/Thinkpadthinkpad) - Гайд по покупке Б/У ноутов ThinkPad. (3 weeks ago)
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (3 weeks ago)
 - [Battlesquid/dotfiles](https://github.com/Battlesquid/dotfiles) - My personal dotfiles (3 weeks ago)
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. (4 weeks ago)
 - [Clivern/Helium](https://github.com/Clivern/Helium) - 🐺 Fast, Secure and Reliable Newsletter System, Set up in Minutes. (4 weeks ago)
