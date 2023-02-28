@@ -21,15 +21,15 @@
 
 #### ⭐ Recent Stars
 
-- [brick/json-mapper](https://github.com/brick/json-mapper) - Maps JSON data to strongly typed PHP DTOs (2 days ago)
+- [brick/json-mapper](https://github.com/brick/json-mapper) - Maps JSON data to strongly typed PHP DTOs (3 days ago)
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww &#43; bspwm rice c: (1 week ago)
 - [Toqozz/wired-notify](https://github.com/Toqozz/wired-notify) - Lightweight notification daemon with highly customizable layout blocks, written in Rust. (1 week ago)
 - [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (1 week ago)
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API (2 weeks ago)
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API (3 weeks ago)
 - [vladtenlive/gosling](https://github.com/vladtenlive/gosling) - https://t.me/vladisten (3 weeks ago)
 - [ThinkPadThink/Thinkpadthinkpad](https://github.com/ThinkPadThink/Thinkpadthinkpad) - Гайд по покупке Б/У ноутов ThinkPad. (3 weeks ago)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (3 weeks ago)
-- [Battlesquid/dotfiles](https://github.com/Battlesquid/dotfiles) - My personal dotfiles (4 weeks ago)
+- [Battlesquid/dotfiles](https://github.com/Battlesquid/dotfiles) - My personal dotfiles (1 month ago)
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. (1 month ago)
 
 #### 👯 Check out some of my recent followers
