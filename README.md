@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (1 day ago)
-- [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (2 days ago)
-- [brick/json-mapper](https://github.com/brick/json-mapper) - Maps JSON data to strongly typed PHP DTOs (5 days ago)
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (2 days ago)
+- [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (3 days ago)
+- [brick/json-mapper](https://github.com/brick/json-mapper) - Maps JSON data to strongly typed PHP DTOs (6 days ago)
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww &#43; bspwm rice c: (1 week ago)
 - [Toqozz/wired-notify](https://github.com/Toqozz/wired-notify) - Lightweight notification daemon with highly customizable layout blocks, written in Rust. (1 week ago)
-- [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (1 week ago)
+- [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool (2 weeks ago)
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API (3 weeks ago)
 - [vladtenlive/gosling](https://github.com/vladtenlive/gosling) - https://www.linkedin.com/in/vladten/ (3 weeks ago)
-- [ThinkPadThink/Thinkpadthinkpad](https://github.com/ThinkPadThink/Thinkpadthinkpad) - Гайд по покупке Б/У ноутов ThinkPad. (4 weeks ago)
-- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (4 weeks ago)
+- [ThinkPadThink/Thinkpadthinkpad](https://github.com/ThinkPadThink/Thinkpadthinkpad) - Гайд по покупке Б/У ноутов ThinkPad. (1 month ago)
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
