@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [beyond9thousand/dotfiles](https://github.com/beyond9thousand/dotfiles) - Opinionated BSPWM setup (2 days ago)
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (6 days ago)
+- [beyond9thousand/dotfiles](https://github.com/beyond9thousand/dotfiles) - Opinionated BSPWM setup (3 days ago)
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (1 week ago)
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (1 week ago)
 - [brick/json-mapper](https://github.com/brick/json-mapper) - Maps JSON data to strongly typed PHP DTOs (1 week ago)
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww &#43; bspwm rice c: (2 weeks ago)
