@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [go-skynet/llama-cli](https://github.com/go-skynet/llama-cli) - :camel: self-hosted, Simple LLaMA/alpaca API &amp; CLI written in go (1 day ago)
+- [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS. (1 day ago)
+- [go-skynet/llama-cli](https://github.com/go-skynet/llama-cli) - :camel: self-hosted, Simple LLaMA/alpaca API &amp; CLI written in go (2 days ago)
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion. (1 week ago)
 - [tplaner/When](https://github.com/tplaner/When) - PHP Date Recursion library (1 week ago)
-- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries. (1 week ago)
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries. (2 weeks ago)
 - [beyond9thousand/dotfiles](https://github.com/beyond9thousand/dotfiles) - Opinionated BSPWM setup (2 weeks ago)
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (3 weeks ago)
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (3 weeks ago)
-- [brick/json-mapper](https://github.com/brick/json-mapper) - Maps JSON data to strongly typed PHP DTOs (3 weeks ago)
+- [brick/json-mapper](https://github.com/brick/json-mapper) - Maps JSON data to strongly typed PHP DTOs (4 weeks ago)
 - [ikz87/dots-2.0](https://github.com/ikz87/dots-2.0) - eww &#43; bspwm rice c: (1 month ago)
-- [Toqozz/wired-notify](https://github.com/Toqozz/wired-notify) - Lightweight notification daemon with highly customizable layout blocks, written in Rust. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
