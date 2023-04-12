@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [Myagko/dotfiles](https://github.com/Myagko/dotfiles) -  (1 day ago)
-- [php-lock/lock](https://github.com/php-lock/lock) - Lock library to provide serialized execution of PHP code. (4 days ago)
-- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition. (6 days ago)
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON (1 week ago)
+- [Myagko/dotfiles](https://github.com/Myagko/dotfiles) -  (2 days ago)
+- [php-lock/lock](https://github.com/php-lock/lock) - Lock library to provide serialized execution of PHP code. (5 days ago)
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition. (1 week ago)
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON (2 weeks ago)
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go (2 weeks ago)
 - [kataras/i18n](https://github.com/kataras/i18n) - :new: High-performant and powerful localization and internationalization support for Go (2 weeks ago)
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS. (2 weeks ago)
 - [go-skynet/llama-cli](https://github.com/go-skynet/llama-cli) - :camel: self-hosted, Simple LLaMA/alpaca/gpt4all API &amp; CLI written in go (2 weeks ago)
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA. (4 weeks ago)
-- [tplaner/When](https://github.com/tplaner/When) - PHP Date Recursion library (4 weeks ago)
+- [tplaner/When](https://github.com/tplaner/When) - PHP Date Recursion library (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
