@@ -21,14 +21,14 @@
 
 #### ⭐ Recent Stars
 
-- [denBot/yasb](https://github.com/denBot/yasb) - A highly configurable cross-platform (Windows) status bar written in Python. (2 days ago)
-- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows (2 days ago)
-- [Myagko/dotfiles](https://github.com/Myagko/dotfiles) -  (4 days ago)
+- [denBot/yasb](https://github.com/denBot/yasb) - A highly configurable cross-platform (Windows) status bar written in Python. (3 days ago)
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows (3 days ago)
+- [Myagko/dotfiles](https://github.com/Myagko/dotfiles) -  (5 days ago)
 - [php-lock/lock](https://github.com/php-lock/lock) - Lock library to provide serialized execution of PHP code. (1 week ago)
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition. (1 week ago)
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON (2 weeks ago)
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go (2 weeks ago)
-- [kataras/i18n](https://github.com/kataras/i18n) - :new: High-performant and powerful localization and internationalization support for Go (2 weeks ago)
+- [kataras/i18n](https://github.com/kataras/i18n) - :new: High-performant and powerful localization and internationalization support for Go (3 weeks ago)
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS. (3 weeks ago)
 - [go-skynet/llama-cli](https://github.com/go-skynet/llama-cli) - :camel: self-hosted, Simple LLaMA/alpaca/gpt4all API &amp; CLI written in go (3 weeks ago)
 
