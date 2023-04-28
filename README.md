@@ -26,9 +26,9 @@
 - [denBot/yasb](https://github.com/denBot/yasb) - A highly configurable cross-platform (Windows) status bar written in Python. (2 weeks ago)
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows (2 weeks ago)
 - [Myagko/dotfiles](https://github.com/Myagko/dotfiles) -  (2 weeks ago)
-- [php-lock/lock](https://github.com/php-lock/lock) - Lock library to provide serialized execution of PHP code. (2 weeks ago)
+- [php-lock/lock](https://github.com/php-lock/lock) - Lock library to provide serialized execution of PHP code. (3 weeks ago)
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition. (3 weeks ago)
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON (4 weeks ago)
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON (1 month ago)
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go (1 month ago)
 - [kataras/i18n](https://github.com/kataras/i18n) - :new: High-performant and powerful localization and internationalization support for Go (1 month ago)
 
