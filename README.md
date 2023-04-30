@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (2 months ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (3 months ago)
 - [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (3 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (5 months ago)
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (8 months ago)
