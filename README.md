@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (3 months ago)
-- [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (3 months ago)
+- [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (4 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (5 months ago)
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (8 months ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (10 months ago)
@@ -21,13 +21,13 @@
 
 #### ⭐ Recent Stars
 
-- [RadhiFadlillah/sqldiagram](https://github.com/RadhiFadlillah/sqldiagram) - CLI to generate Entity Relationship Diagram from SQL file (2 days ago)
-- [JoeyMckenzie/realworld-go-kit](https://github.com/JoeyMckenzie/realworld-go-kit) - Realworld implementation written with Go using Go kit! (6 days ago)
-- [realTristan/Hermes](https://github.com/realTristan/Hermes) - Extremely Fast Full-Text-Search Algorithm and Caching System (2 weeks ago)
+- [RadhiFadlillah/sqldiagram](https://github.com/RadhiFadlillah/sqldiagram) - CLI to generate Entity Relationship Diagram from SQL file (3 days ago)
+- [JoeyMckenzie/realworld-go-kit](https://github.com/JoeyMckenzie/realworld-go-kit) - Realworld implementation written with Go using Go kit! (1 week ago)
+- [realTristan/Hermes](https://github.com/realTristan/Hermes) - Extremely Fast Full-Text-Search Algorithm and Caching System (3 weeks ago)
 - [qt-kaneko/Shikiplayer](https://github.com/qt-kaneko/Shikiplayer) - Extension/script that adds Kodik player to shikimori.me website. (3 weeks ago)
 - [denBot/yasb](https://github.com/denBot/yasb) - A highly configurable cross-platform (Windows) status bar written in Python. (3 weeks ago)
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows (3 weeks ago)
-- [Myagko/dotfiles](https://github.com/Myagko/dotfiles) -  (3 weeks ago)
+- [Myagko/dotfiles](https://github.com/Myagko/dotfiles) -  (4 weeks ago)
 - [php-lock/lock](https://github.com/php-lock/lock) - Lock library to provide serialized execution of PHP code. (1 month ago)
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition. (1 month ago)
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON (1 month ago)
