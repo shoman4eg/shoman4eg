@@ -6,7 +6,7 @@
 - [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (4 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (5 months ago)
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (8 months ago)
-- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (10 months ago)
+- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@
 - [RadhiFadlillah/sqldiagram](https://github.com/RadhiFadlillah/sqldiagram) - CLI to generate Entity Relationship Diagram from SQL file (1 week ago)
 - [JoeyMckenzie/realworld-go-kit](https://github.com/JoeyMckenzie/realworld-go-kit) - Realworld implementation written with Go using Go kit! (1 week ago)
 - [realTristan/Hermes](https://github.com/realTristan/Hermes) - Extremely Fast Full-Text-Search Algorithm and Caching System (3 weeks ago)
-- [qt-kaneko/Shikiplayer](https://github.com/qt-kaneko/Shikiplayer) - Extension/script that adds Kodik player to shikimori.me website. (3 weeks ago)
+- [qt-kaneko/Shikiplayer](https://github.com/qt-kaneko/Shikiplayer) - Extension/script that adds Kodik player to shikimori.me website. (4 weeks ago)
 - [denBot/yasb](https://github.com/denBot/yasb) - A highly configurable cross-platform (Windows) status bar written in Python. (1 month ago)
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows (1 month ago)
 - [Myagko/dotfiles](https://github.com/Myagko/dotfiles) -  (1 month ago)
