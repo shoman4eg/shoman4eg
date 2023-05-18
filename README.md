@@ -21,6 +21,7 @@
 
 #### ⭐ Recent Stars
 
+- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (1 day ago)
 - [RadhiFadlillah/sqldiagram](https://github.com/RadhiFadlillah/sqldiagram) - CLI to generate Entity Relationship Diagram from SQL file (1 week ago)
 - [JoeyMckenzie/realworld-go-kit](https://github.com/JoeyMckenzie/realworld-go-kit) - Realworld implementation written with Go using Go kit! (2 weeks ago)
 - [realTristan/Hermes](https://github.com/realTristan/Hermes) - Extremely Fast Full-Text-Search Algorithm and Caching System (1 month ago)
@@ -30,7 +31,6 @@
 - [Myagko/dotfiles](https://github.com/Myagko/dotfiles) -  (1 month ago)
 - [php-lock/lock](https://github.com/php-lock/lock) - Lock library to provide serialized execution of PHP code. (1 month ago)
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition. (1 month ago)
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
