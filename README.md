@@ -34,7 +34,7 @@
 
 #### 👯 Check out some of my recent followers
 
-- [bl4ckh47G1rl](https://github.com/bl4ckh47G1rl)
+- [V1nni00](https://github.com/V1nni00)
 - [SPSEBASTIAAN](https://github.com/SPSEBASTIAAN)
 - [DisastrousBug](https://github.com/DisastrousBug)
 - [Supme](https://github.com/Supme)
