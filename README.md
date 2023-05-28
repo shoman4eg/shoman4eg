@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 day ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (3 months ago)
 - [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (4 months ago)
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (6 months ago)
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (9 months ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (11 months ago)
 
@@ -21,6 +21,7 @@
 
 #### ⭐ Recent Stars
 
+- [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products. (1 day ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (1 week ago)
 - [RadhiFadlillah/sqldiagram](https://github.com/RadhiFadlillah/sqldiagram) - CLI to generate Entity Relationship Diagram from SQL file (3 weeks ago)
 - [JoeyMckenzie/realworld-go-kit](https://github.com/JoeyMckenzie/realworld-go-kit) - Realworld implementation written with Go using Go kit! (3 weeks ago)
@@ -30,7 +31,6 @@
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows (1 month ago)
 - [Myagko/dotfiles](https://github.com/Myagko/dotfiles) -  (1 month ago)
 - [php-lock/lock](https://github.com/php-lock/lock) - Lock library to provide serialized execution of PHP code. (1 month ago)
-- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
