@@ -23,7 +23,7 @@
 
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products. (1 week ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (2 weeks ago)
-- [RadhiFadlillah/sqldiagram](https://github.com/RadhiFadlillah/sqldiagram) - CLI to generate Entity Relationship Diagram from SQL file (4 weeks ago)
+- [RadhiFadlillah/sqldiagram](https://github.com/RadhiFadlillah/sqldiagram) - CLI to generate Entity Relationship Diagram from SQL file (1 month ago)
 - [JoeyMckenzie/realworld-go-kit](https://github.com/JoeyMckenzie/realworld-go-kit) - Realworld implementation written with Go using Go kit! (1 month ago)
 - [realTristan/Hermes](https://github.com/realTristan/Hermes) - Extremely Fast Full-Text-Search Algorithm and Caching System (1 month ago)
 - [qt-kaneko/Shikiplayer](https://github.com/qt-kaneko/Shikiplayer) - Extension/script that adds Kodik player to shikimori.me website. (1 month ago)
