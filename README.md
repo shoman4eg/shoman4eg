@@ -30,7 +30,7 @@
 - [denBot/yasb](https://github.com/denBot/yasb) - A highly configurable cross-platform (Windows) status bar written in Python. (1 month ago)
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows (1 month ago)
 - [Myagko/dotfiles](https://github.com/Myagko/dotfiles) -  (1 month ago)
-- [php-lock/lock](https://github.com/php-lock/lock) - Lock library to provide serialized execution of PHP code. (1 month ago)
+- [php-lock/lock](https://github.com/php-lock/lock) - Lock library to provide serialized execution of PHP code. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
