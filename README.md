@@ -21,15 +21,15 @@
 
 #### ⭐ Recent Stars
 
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm &#43; polybar &#43; eww rices. 12 themes with a rice selector to change on the fly. (2 days ago)
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm &#43; polybar &#43; eww rices. 12 themes with a rice selector to change on the fly. (3 days ago)
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products. (2 weeks ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (3 weeks ago)
 - [RadhiFadlillah/sqldiagram](https://github.com/RadhiFadlillah/sqldiagram) - CLI to generate Entity Relationship Diagram from SQL file (1 month ago)
 - [JoeyMckenzie/realworld-go-kit](https://github.com/JoeyMckenzie/realworld-go-kit) - Realworld implementation written with Go using Go kit! (1 month ago)
 - [realTristan/hermes](https://github.com/realTristan/hermes) - Extremely Fast Full-Text-Search Algorithm and Caching System (1 month ago)
 - [qt-kaneko/Shikiplayer](https://github.com/qt-kaneko/Shikiplayer) - Extension/script that adds Kodik player to shikimori.me website. (1 month ago)
-- [denBot/yasb](https://github.com/denBot/yasb) - A highly configurable cross-platform (Windows) status bar written in Python. (1 month ago)
-- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows (1 month ago)
+- [denBot/yasb](https://github.com/denBot/yasb) - A highly configurable cross-platform (Windows) status bar written in Python. (2 months ago)
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows (2 months ago)
 - [Myagko/dotfiles](https://github.com/Myagko/dotfiles) -  (2 months ago)
 
 #### 👯 Check out some of my recent followers
