@@ -5,7 +5,7 @@
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 weeks ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (4 months ago)
 - [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (5 months ago)
-- [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (9 months ago)
+- [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (10 months ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (1 year ago)
 
 #### 🌱 My latest projects
@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [codenoid/batch-image-generator](https://github.com/codenoid/batch-image-generator) - Generate dynamic image content based on a template image and a CSV file. (today)
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm &#43; polybar &#43; eww rices. 12 themes with a rice selector to change on the fly. (4 days ago)
+- [codenoid/batch-image-generator](https://github.com/codenoid/batch-image-generator) - Generate dynamic image content based on a template image and a CSV file. (1 day ago)
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm &#43; polybar &#43; eww rices. 12 themes with a rice selector to change on the fly. (5 days ago)
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products. (2 weeks ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (3 weeks ago)
 - [RadhiFadlillah/sqldiagram](https://github.com/RadhiFadlillah/sqldiagram) - CLI to generate Entity Relationship Diagram from SQL file (1 month ago)
@@ -34,11 +34,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [joselong-dev](https://github.com/joselong-dev)
 - [V1nni00](https://github.com/V1nni00)
 - [SPSEBASTIAAN](https://github.com/SPSEBASTIAAN)
 - [DisastrousBug](https://github.com/DisastrousBug)
 - [Supme](https://github.com/Supme)
-- [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 
 
 #### 📫 Where to find me
