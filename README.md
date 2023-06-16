@@ -21,24 +21,24 @@
 
 #### ⭐ Recent Stars
 
-- [codenoid/batch-image-generator](https://github.com/codenoid/batch-image-generator) - Generate dynamic image content based on a template image and a CSV file. (3 days ago)
+- [codenoid/batch-image-generator](https://github.com/codenoid/batch-image-generator) - Generate dynamic image content based on a template image and a CSV file. (4 days ago)
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm &#43; polybar &#43; eww rices. 12 themes with a rice selector to change on the fly. (1 week ago)
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products. (2 weeks ago)
-- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (4 weeks ago)
+- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (1 month ago)
 - [RadhiFadlillah/sqldiagram](https://github.com/RadhiFadlillah/sqldiagram) - CLI to generate Entity Relationship Diagram from SQL file (1 month ago)
 - [JoeyMckenzie/realworld-go-kit](https://github.com/JoeyMckenzie/realworld-go-kit) - Realworld implementation written with Go using Go kit! (1 month ago)
-- [realTristan/hermes](https://github.com/realTristan/hermes) - Extremely Fast Full-Text-Search Algorithm and Caching System (1 month ago)
+- [realTristan/hermes](https://github.com/realTristan/hermes) - Extremely Fast Full-Text-Search Algorithm and Caching System (2 months ago)
 - [qt-kaneko/Shikiplayer](https://github.com/qt-kaneko/Shikiplayer) - Extension/script that adds Kodik player to shikimori.me website. (2 months ago)
 - [denBot/yasb](https://github.com/denBot/yasb) - A highly configurable cross-platform (Windows) status bar written in Python. (2 months ago)
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
-- [joselong-dev](https://github.com/joselong-dev)
 - [V1nni00](https://github.com/V1nni00)
 - [SPSEBASTIAAN](https://github.com/SPSEBASTIAAN)
 - [DisastrousBug](https://github.com/DisastrousBug)
 - [Supme](https://github.com/Supme)
+- [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 
 
 #### 📫 Where to find me
