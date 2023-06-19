@@ -6,7 +6,6 @@
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (4 months ago)
 - [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (5 months ago)
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (10 months ago)
-- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -21,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [codenoid/batch-image-generator](https://github.com/codenoid/batch-image-generator) - Generate dynamic image content based on a template image and a CSV file. (6 days ago)
+- [codenoid/batch-image-generator](https://github.com/codenoid/batch-image-generator) - Generate dynamic image content based on a template image and a CSV file. (1 week ago)
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm &#43; polybar &#43; eww rices. 12 themes with a rice selector to change on the fly. (1 week ago)
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products. (3 weeks ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (1 month ago)
