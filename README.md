@@ -20,11 +20,11 @@
 
 #### ⭐ Recent Stars
 
-- [lonng/nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework (1 day ago)
-- [vmihailenco/msgpack](https://github.com/vmihailenco/msgpack) - msgpack.org[Go] MessagePack encoding for Golang (1 day ago)
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (1 day ago)
+- [lonng/nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework (2 days ago)
+- [vmihailenco/msgpack](https://github.com/vmihailenco/msgpack) - msgpack.org[Go] MessagePack encoding for Golang (2 days ago)
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (2 days ago)
 - [codenoid/batch-image-generator](https://github.com/codenoid/batch-image-generator) - Generate dynamic image content based on a template image and a CSV file. (1 week ago)
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm &#43; polybar &#43; eww rices. 12 themes with a rice selector to change on the fly. (1 week ago)
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm &#43; polybar &#43; eww rices. 12 themes with a rice selector to change on the fly. (2 weeks ago)
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products. (3 weeks ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (1 month ago)
 - [RadhiFadlillah/sqldiagram](https://github.com/RadhiFadlillah/sqldiagram) - CLI to generate Entity Relationship Diagram from SQL file (1 month ago)
