@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [entkit/entkit](https://github.com/entkit/entkit) - A Comprehensive Solution for Building Data-Driven Applications with Ease and Efficiency (1 day ago)
+- [entkit/entkit](https://github.com/entkit/entkit) - A Comprehensive Solution for Building Data-Driven Applications with Ease and Efficiency (2 days ago)
 - [lonng/nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework (1 week ago)
 - [vmihailenco/msgpack](https://github.com/vmihailenco/msgpack) - msgpack.org[Go] MessagePack encoding for Golang (1 week ago)
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (1 week ago)
@@ -29,7 +29,7 @@
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products. (1 month ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (1 month ago)
 - [RadhiFadlillah/sqldiagram](https://github.com/RadhiFadlillah/sqldiagram) - CLI to generate Entity Relationship Diagram from SQL file (1 month ago)
-- [JoeyMckenzie/realworld-go-kit](https://github.com/JoeyMckenzie/realworld-go-kit) - Realworld implementation written with Go using Go kit! (1 month ago)
+- [JoeyMckenzie/realworld-go-kit](https://github.com/JoeyMckenzie/realworld-go-kit) - Realworld implementation written with Go using Go kit! (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
