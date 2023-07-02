@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [entkit/entkit](https://github.com/entkit/entkit) - A Comprehensive Solution for Building Data-Driven Applications with Ease and Efficiency (3 days ago)
+- [entkit/entkit](https://github.com/entkit/entkit) - A Comprehensive Solution for Building Data-Driven Applications with Ease and Efficiency (4 days ago)
 - [lonng/nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework (1 week ago)
 - [vmihailenco/msgpack](https://github.com/vmihailenco/msgpack) - msgpack.org[Go] MessagePack encoding for Golang (1 week ago)
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (1 week ago)
