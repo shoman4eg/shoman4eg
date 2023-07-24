@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖 (4 days ago)
-- [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform (1 week ago)
-- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (1 week ago)
+- [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖 (5 days ago)
+- [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform (2 weeks ago)
+- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (2 weeks ago)
 - [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs (2 weeks ago)
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure. (2 weeks ago)
 - [entkit/entkit](https://github.com/entkit/entkit) - A Comprehensive Solution for Building Data-Driven Applications with Ease and Efficiency (3 weeks ago)
