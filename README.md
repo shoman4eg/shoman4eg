@@ -20,11 +20,11 @@
 
 #### ⭐ Recent Stars
 
-- [placekit/autocomplete-js](https://github.com/placekit/autocomplete-js) - PlaceKit Autocomplete JS library (5 days ago)
-- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (5 days ago)
+- [placekit/autocomplete-js](https://github.com/placekit/autocomplete-js) - PlaceKit Autocomplete JS library (6 days ago)
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (6 days ago)
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖 (1 week ago)
-- [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform (2 weeks ago)
-- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (2 weeks ago)
+- [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform (3 weeks ago)
+- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (3 weeks ago)
 - [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs (3 weeks ago)
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure. (3 weeks ago)
 - [entkit/entkit](https://github.com/entkit/entkit) - A Comprehensive Solution for Building Data-Driven Applications with Ease and Efficiency (1 month ago)
