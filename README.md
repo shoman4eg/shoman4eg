@@ -4,7 +4,7 @@
 
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (6 months ago)
-- [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (6 months ago)
+- [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (7 months ago)
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (11 months ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [BOTbkcd/mayhem](https://github.com/BOTbkcd/mayhem) - A minimal TUI based task tracker (3 days ago)
+- [BOTbkcd/mayhem](https://github.com/BOTbkcd/mayhem) - A minimal TUI based task tracker (4 days ago)
 - [placekit/autocomplete-js](https://github.com/placekit/autocomplete-js) - PlaceKit Autocomplete JS library (1 week ago)
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (1 week ago)
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖 (2 weeks ago)
