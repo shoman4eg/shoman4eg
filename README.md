@@ -20,6 +20,7 @@
 
 #### ⭐ Recent Stars
 
+- [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Installer &amp; meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors (1 day ago)
 - [BOTbkcd/mayhem](https://github.com/BOTbkcd/mayhem) - A minimal TUI based task tracker 📝 (2 weeks ago)
 - [placekit/autocomplete-js](https://github.com/placekit/autocomplete-js) - PlaceKit Autocomplete JS library (3 weeks ago)
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (3 weeks ago)
@@ -29,7 +30,6 @@
 - [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs (1 month ago)
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure. (1 month ago)
 - [entkit/entkit](https://github.com/entkit/entkit) - A Comprehensive Solution for Building Data-Driven Applications with Ease and Efficiency (1 month ago)
-- [lonng/nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
