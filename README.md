@@ -5,7 +5,6 @@
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (6 months ago)
 - [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (7 months ago)
-- [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +19,7 @@
 
 #### ⭐ Recent Stars
 
-- [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Installer &amp; meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors (4 days ago)
+- [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Installer &amp; meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors (5 days ago)
 - [BOTbkcd/mayhem](https://github.com/BOTbkcd/mayhem) - A minimal TUI based task tracker 📝 (2 weeks ago)
 - [placekit/autocomplete-js](https://github.com/placekit/autocomplete-js) - PlaceKit Autocomplete JS library (3 weeks ago)
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (3 weeks ago)
