@@ -19,8 +19,8 @@
 
 #### ⭐ Recent Stars
 
-- [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Installer &amp; meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors (6 days ago)
-- [BOTbkcd/mayhem](https://github.com/BOTbkcd/mayhem) - A minimal TUI based task tracker 📝 (2 weeks ago)
+- [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Installer &amp; meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors (1 week ago)
+- [BOTbkcd/mayhem](https://github.com/BOTbkcd/mayhem) - A minimal TUI based task tracker 📝 (3 weeks ago)
 - [placekit/autocomplete-js](https://github.com/placekit/autocomplete-js) - PlaceKit Autocomplete JS library (4 weeks ago)
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (4 weeks ago)
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖 (1 month ago)
