@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (3 months ago)
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (6 months ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (7 months ago)
 - [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (7 months ago)
 
 #### 🌱 My latest projects
@@ -19,8 +19,8 @@
 
 #### ⭐ Recent Stars
 
-- [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats. (2 days ago)
-- [jellydator/ttlcache](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics (4 days ago)
+- [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats. (3 days ago)
+- [jellydator/ttlcache](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics (5 days ago)
 - [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Installer &amp; meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors (1 week ago)
 - [BOTbkcd/mayhem](https://github.com/BOTbkcd/mayhem) - A minimal TUI based task tracker 📝 (3 weeks ago)
 - [placekit/autocomplete-js](https://github.com/placekit/autocomplete-js) - PlaceKit Autocomplete JS library (1 month ago)
