@@ -19,16 +19,16 @@
 
 #### ⭐ Recent Stars
 
-- [mui/mui-toolpad](https://github.com/mui/mui-toolpad) - MUI Toolpad: Low-code admin builder. Open-source and powered by MUI. (4 days ago)
-- [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports. (5 days ago)
-- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers. (5 days ago)
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (5 days ago)
-- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models (5 days ago)
-- [danog/php-tokio](https://github.com/danog/php-tokio) - Use any async Rust library from PHP! (6 days ago)
+- [vadimi/grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - generic gRPC command line client (1 day ago)
+- [mui/mui-toolpad](https://github.com/mui/mui-toolpad) - MUI Toolpad: Low-code admin builder. Open-source and powered by MUI. (5 days ago)
+- [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports. (6 days ago)
+- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers. (6 days ago)
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (6 days ago)
+- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models (6 days ago)
+- [danog/php-tokio](https://github.com/danog/php-tokio) - Use any async Rust library from PHP! (1 week ago)
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats. (2 weeks ago)
 - [jellydator/ttlcache](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics (2 weeks ago)
 - [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Installer &amp; meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors (3 weeks ago)
-- [BOTbkcd/mayhem](https://github.com/BOTbkcd/mayhem) - A minimal TUI based task tracker 📝 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
