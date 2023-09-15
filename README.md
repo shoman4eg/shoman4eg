@@ -19,21 +19,21 @@
 
 #### ⭐ Recent Stars
 
-- [vadimi/grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - generic gRPC command line client (6 days ago)
+- [ssleert/nitch](https://github.com/ssleert/nitch) - nitch - incredibly fast system fetch written in nim (1 day ago)
+- [vadimi/grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - generic gRPC command line client (1 week ago)
 - [mui/mui-toolpad](https://github.com/mui/mui-toolpad) - MUI Toolpad: Low-code admin builder. Open-source and powered by MUI. (1 week ago)
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports. (1 week ago)
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers. (1 week ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (1 week ago)
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models (1 week ago)
 - [danog/php-tokio](https://github.com/danog/php-tokio) - Use any async Rust library from PHP! (1 week ago)
-- [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats. (2 weeks ago)
+- [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats. (3 weeks ago)
 - [jellydator/ttlcache](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics (3 weeks ago)
-- [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Installer &amp; meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
 - [HappyDream0317](https://github.com/HappyDream0317)
-- [da3nil](https://github.com/da3nil)
+- [iidenty](https://github.com/iidenty)
 - [BILYAMINUAB](https://github.com/BILYAMINUAB)
 - [V1nni00](https://github.com/V1nni00)
 - [SPSEBASTIAAN](https://github.com/SPSEBASTIAAN)
