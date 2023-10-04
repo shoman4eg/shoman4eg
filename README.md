@@ -22,12 +22,12 @@
 
 #### ⭐ Recent Stars
 
-- [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (1 day ago)
-- [duysqubix/gobc](https://github.com/duysqubix/gobc) -  (1 day ago)
+- [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (2 days ago)
+- [duysqubix/gobc](https://github.com/duysqubix/gobc) -  (2 days ago)
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (1 week ago)
 - [ssleert/nitch](https://github.com/ssleert/nitch) - nitch - incredibly fast system fetch written in nim (2 weeks ago)
 - [vadimi/grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - generic gRPC command line client (3 weeks ago)
-- [mui/mui-toolpad](https://github.com/mui/mui-toolpad) - MUI Toolpad: Low-code admin builder. Open-source and powered by MUI. (4 weeks ago)
+- [mui/mui-toolpad](https://github.com/mui/mui-toolpad) - MUI Toolpad: Low-code admin builder. Open-source and powered by MUI. (1 month ago)
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports. (1 month ago)
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers. (1 month ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (1 month ago)
