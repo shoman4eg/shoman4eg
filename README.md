@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (2 weeks ago)
-- [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (2 months ago)
+- [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (1 day ago)
+- [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (3 weeks ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (4 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (8 months ago)
 - [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (9 months ago)
@@ -22,11 +22,11 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (3 days ago)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (4 days ago)
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (1 week ago)
 - [duysqubix/gobc](https://github.com/duysqubix/gobc) -  (1 week ago)
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (2 weeks ago)
-- [ssleert/nitch](https://github.com/ssleert/nitch) - nitch - incredibly fast system fetch written in nim (4 weeks ago)
+- [ssleert/nitch](https://github.com/ssleert/nitch) - nitch - incredibly fast system fetch written in nim (1 month ago)
 - [vadimi/grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - generic gRPC command line client (1 month ago)
 - [mui/mui-toolpad](https://github.com/mui/mui-toolpad) - MUI Toolpad: Low-code admin builder. Open-source and powered by MUI. (1 month ago)
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports. (1 month ago)
