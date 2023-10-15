@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (1 day ago)
+- [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (2 days ago)
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (3 weeks ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (4 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (8 months ago)
@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (4 days ago)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (5 days ago)
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (1 week ago)
 - [duysqubix/gobc](https://github.com/duysqubix/gobc) -  (1 week ago)
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (2 weeks ago)
