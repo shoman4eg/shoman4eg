@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (1 day ago)
+- [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (2 days ago)
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (3 weeks ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (4 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (8 months ago)
@@ -22,6 +22,7 @@
 
 #### ⭐ Recent Stars
 
+- [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish. (1 day ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 week ago)
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (2 weeks ago)
 - [duysqubix/gobc](https://github.com/duysqubix/gobc) -  (2 weeks ago)
@@ -31,7 +32,6 @@
 - [mui/mui-toolpad](https://github.com/mui/mui-toolpad) - MUI Toolpad: Low-code admin builder. Open-source and powered by MUI. (1 month ago)
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports. (1 month ago)
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers. (1 month ago)
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
