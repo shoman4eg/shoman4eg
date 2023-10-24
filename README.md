@@ -4,7 +4,7 @@
 
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (1 week ago)
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (1 month ago)
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (4 months ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (5 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (8 months ago)
 - [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (9 months ago)
 
@@ -22,8 +22,8 @@
 
 #### ⭐ Recent Stars
 
-- [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish. (6 days ago)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 week ago)
+- [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish. (1 week ago)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 weeks ago)
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (3 weeks ago)
 - [duysqubix/gobc](https://github.com/duysqubix/gobc) -  (3 weeks ago)
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (4 weeks ago)
