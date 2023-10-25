@@ -26,7 +26,7 @@
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 weeks ago)
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (3 weeks ago)
 - [duysqubix/gobc](https://github.com/duysqubix/gobc) -  (3 weeks ago)
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (4 weeks ago)
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (1 month ago)
 - [ssleert/nitch](https://github.com/ssleert/nitch) - nitch - incredibly fast system fetch written in nim (1 month ago)
 - [vadimi/grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - generic gRPC command line client (1 month ago)
 - [mui/mui-toolpad](https://github.com/mui/mui-toolpad) - MUI Toolpad: Low-code admin builder. Open-source and powered by MUI. (1 month ago)
