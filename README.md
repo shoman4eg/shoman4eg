@@ -22,8 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish. (1 week ago)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 weeks ago)
+- [equetzal/neoSaris](https://github.com/equetzal/neoSaris) - Online ICPC standings resolver with compat with Codeforces, Vjudge and S4RiS StanD (today)
+- [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish. (2 weeks ago)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (3 weeks ago)
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (4 weeks ago)
 - [duysqubix/gobc](https://github.com/duysqubix/gobc) -  (4 weeks ago)
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (1 month ago)
@@ -31,7 +32,6 @@
 - [vadimi/grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - generic gRPC command line client (1 month ago)
 - [mui/mui-toolpad](https://github.com/mui/mui-toolpad) - MUI Toolpad: Low-code admin builder. Open-source and powered by MUI. (1 month ago)
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports. (1 month ago)
-- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
