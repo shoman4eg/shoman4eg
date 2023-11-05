@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 
-- [equetzal/neoSaris](https://github.com/equetzal/neoSaris) - Online ICPC standings resolver with compat with Codeforces, Vjudge and S4RiS StanD (4 days ago)
+- [equetzal/neoSaris](https://github.com/equetzal/neoSaris) - Online ICPC standings resolver with compat with Codeforces, Vjudge and S4RiS StanD (5 days ago)
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish. (2 weeks ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (3 weeks ago)
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (1 month ago)
