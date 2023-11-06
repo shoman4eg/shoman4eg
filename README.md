@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (2 weeks ago)
+- [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (3 weeks ago)
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (1 month ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (5 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (9 months ago)
@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 
-- [equetzal/neoSaris](https://github.com/equetzal/neoSaris) - Online ICPC standings resolver with compat with Codeforces, Vjudge and S4RiS StanD (5 days ago)
+- [equetzal/neoSaris](https://github.com/equetzal/neoSaris) - Online ICPC standings resolver with compat with Codeforces, Vjudge and S4RiS StanD (6 days ago)
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish. (2 weeks ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (3 weeks ago)
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (1 month ago)
