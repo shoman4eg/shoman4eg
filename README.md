@@ -22,7 +22,8 @@
 
 #### ⭐ Recent Stars
 
-- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (4 days ago)
+- [gravity-ui/uikit](https://github.com/gravity-ui/uikit) -  (1 day ago)
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (5 days ago)
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium (1 week ago)
 - [equetzal/neoSaris](https://github.com/equetzal/neoSaris) - Online ICPC standings resolver with compat with Codeforces, Vjudge and S4RiS StanD (3 weeks ago)
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish. (1 month ago)
@@ -31,7 +32,6 @@
 - [duysqubix/gobc](https://github.com/duysqubix/gobc) -  (1 month ago)
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. (2 months ago)
 - [ssleert/nitch](https://github.com/ssleert/nitch) - nitch - incredibly fast system fetch written in nim (2 months ago)
-- [vadimi/grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - generic gRPC command line client (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
