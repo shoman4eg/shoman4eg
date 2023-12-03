@@ -22,8 +22,8 @@
 
 #### ⭐ Recent Stars
 
-- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (1 day ago)
-- [gravity-ui/uikit](https://github.com/gravity-ui/uikit) -  (6 days ago)
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (2 days ago)
+- [gravity-ui/uikit](https://github.com/gravity-ui/uikit) -  (1 week ago)
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (1 week ago)
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium (2 weeks ago)
 - [equetzal/neoSaris](https://github.com/equetzal/neoSaris) - Online ICPC standings resolver with compat with Codeforces, Vjudge and S4RiS StanD (1 month ago)
