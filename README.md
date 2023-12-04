@@ -6,7 +6,7 @@
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (2 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (6 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (10 months ago)
-- [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (10 months ago)
+- [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 
-- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (2 days ago)
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (3 days ago)
 - [gravity-ui/uikit](https://github.com/gravity-ui/uikit) -  (1 week ago)
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (1 week ago)
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium (2 weeks ago)
