@@ -26,7 +26,7 @@
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens. (1 week ago)
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (1 week ago)
 - [gravity-ui/uikit](https://github.com/gravity-ui/uikit) -  (2 weeks ago)
-- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (2 weeks ago)
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (3 weeks ago)
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium (4 weeks ago)
 - [equetzal/neoSaris](https://github.com/equetzal/neoSaris) - Online ICPC standings resolver with compat with Codeforces, Vjudge and S4RiS StanD (1 month ago)
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish. (1 month ago)
