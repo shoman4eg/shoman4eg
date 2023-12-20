@@ -22,16 +22,16 @@
 
 #### ⭐ Recent Stars
 
+- [casejs/CASE](https://github.com/casejs/CASE) - Typescript lightweight Backend-as-a-Service ✨  (today)
 - [th0th/poeticmetric](https://github.com/th0th/poeticmetric) - PoeticMetric is a free as in freedom, open source, privacy-first, regulation-compliant, and blazingly fast Google Analytics alternative. (2 weeks ago)
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens. (2 weeks ago)
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (2 weeks ago)
 - [gravity-ui/uikit](https://github.com/gravity-ui/uikit) -  (3 weeks ago)
-- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (3 weeks ago)
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (4 weeks ago)
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium (1 month ago)
 - [equetzal/neoSaris](https://github.com/equetzal/neoSaris) - Online ICPC standings resolver with compat with Codeforces, Vjudge and S4RiS StanD (1 month ago)
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish. (2 months ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 months ago)
-- [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
