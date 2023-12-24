@@ -22,11 +22,11 @@
 
 #### ⭐ Recent Stars
 
-- [casejs/CASE](https://github.com/casejs/CASE) - Typescript lightweight Backend-as-a-Service ✨  (3 days ago)
+- [casejs/CASE](https://github.com/casejs/CASE) - Typescript lightweight Backend-as-a-Service ✨  (4 days ago)
 - [th0th/poeticmetric](https://github.com/th0th/poeticmetric) - PoeticMetric is a free as in freedom, open source, privacy-first, regulation-compliant, and blazingly fast Google Analytics alternative. (2 weeks ago)
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens. (2 weeks ago)
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (3 weeks ago)
-- [gravity-ui/uikit](https://github.com/gravity-ui/uikit) -  (3 weeks ago)
+- [gravity-ui/uikit](https://github.com/gravity-ui/uikit) -  (4 weeks ago)
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (1 month ago)
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium (1 month ago)
 - [equetzal/neoSaris](https://github.com/equetzal/neoSaris) - Online ICPC standings resolver with compat with Codeforces, Vjudge and S4RiS StanD (1 month ago)
