@@ -7,7 +7,7 @@
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (3 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (7 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (11 months ago)
-- [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (11 months ago)
+- [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -23,11 +23,11 @@
 
 #### ⭐ Recent Stars
 
-- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works (6 days ago)
+- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works (1 week ago)
 - [jetpack-io/typeid-go](https://github.com/jetpack-io/typeid-go) - Go implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs (1 week ago)
-- [casejs/CASE](https://github.com/casejs/CASE) - Typescript lightweight Backend-as-a-Service ✨  (1 week ago)
+- [casejs/CASE](https://github.com/casejs/CASE) - Typescript lightweight Backend-as-a-Service ✨  (2 weeks ago)
 - [th0th/poeticmetric](https://github.com/th0th/poeticmetric) - PoeticMetric is a free as in freedom, open source, privacy-first, regulation-compliant, and blazingly fast Google Analytics alternative. (4 weeks ago)
-- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens. (4 weeks ago)
+- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens. (1 month ago)
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (1 month ago)
 - [gravity-ui/uikit](https://github.com/gravity-ui/uikit) -  (1 month ago)
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25&#43; Languages (1 month ago)
