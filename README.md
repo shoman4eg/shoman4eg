@@ -23,8 +23,8 @@
 
 #### ⭐ Recent Stars
 
-- [BitBagCommerce/OpenMarketplace](https://github.com/BitBagCommerce/OpenMarketplace) - Open-source Multi-Vendor Marketplace platform based on Sylius and Symfony. (3 days ago)
-- [davesavic/clink](https://github.com/davesavic/clink) - A configurable HTTP client for Go (6 days ago)
+- [BitBagCommerce/OpenMarketplace](https://github.com/BitBagCommerce/OpenMarketplace) - Open-source Multi-Vendor Marketplace platform based on Sylius and Symfony. (4 days ago)
+- [davesavic/clink](https://github.com/davesavic/clink) - A configurable HTTP client for Go (1 week ago)
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works (2 weeks ago)
 - [jetpack-io/typeid-go](https://github.com/jetpack-io/typeid-go) - Go implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs (2 weeks ago)
 - [casejs/CASE](https://github.com/casejs/CASE) - Typescript lightweight Backend-as-a-Service ✨  (3 weeks ago)
