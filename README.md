@@ -2,12 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (2 weeks ago)
+- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (3 weeks ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (3 months ago)
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (3 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (7 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (11 months ago)
-- [getparthenon/parthenon-docs](https://github.com/getparthenon/parthenon-docs) - The documentation for Parthenon (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -23,7 +22,7 @@
 
 #### ⭐ Recent Stars
 
-- [BitBagCommerce/OpenMarketplace](https://github.com/BitBagCommerce/OpenMarketplace) - Open-source Multi-Vendor Marketplace platform based on Sylius and Symfony. (5 days ago)
+- [BitBagCommerce/OpenMarketplace](https://github.com/BitBagCommerce/OpenMarketplace) - Open-source Multi-Vendor Marketplace platform based on Sylius and Symfony. (6 days ago)
 - [davesavic/clink](https://github.com/davesavic/clink) - A configurable HTTP client for Go (1 week ago)
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works (2 weeks ago)
 - [jetpack-io/typeid-go](https://github.com/jetpack-io/typeid-go) - Go implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs (3 weeks ago)
