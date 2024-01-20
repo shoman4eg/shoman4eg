@@ -22,10 +22,10 @@
 
 #### ⭐ Recent Stars
 
-- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (2 days ago)
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app (4 days ago)
+- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (3 days ago)
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app (5 days ago)
 - [BitBagCommerce/OpenMarketplace](https://github.com/BitBagCommerce/OpenMarketplace) - Open-source Multi-Vendor Marketplace platform based on Sylius and Symfony. (1 week ago)
-- [davesavic/clink](https://github.com/davesavic/clink) - A configurable HTTP client for Go (1 week ago)
+- [davesavic/clink](https://github.com/davesavic/clink) - A configurable HTTP client for Go (2 weeks ago)
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works (3 weeks ago)
 - [jetpack-io/typeid-go](https://github.com/jetpack-io/typeid-go) - Go implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs (3 weeks ago)
 - [casejs/CASE](https://github.com/casejs/CASE) - Typescript lightweight Backend-as-a-Service ✨  (1 month ago)
