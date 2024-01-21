@@ -4,7 +4,7 @@
 
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (3 weeks ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (3 months ago)
-- [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (3 months ago)
+- [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (4 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (7 months ago)
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (11 months ago)
 
@@ -22,12 +22,12 @@
 
 #### ⭐ Recent Stars
 
-- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (3 days ago)
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app (5 days ago)
+- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (4 days ago)
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app (6 days ago)
 - [BitBagCommerce/OpenMarketplace](https://github.com/BitBagCommerce/OpenMarketplace) - Open-source Multi-Vendor Marketplace platform based on Sylius and Symfony. (1 week ago)
 - [davesavic/clink](https://github.com/davesavic/clink) - A configurable HTTP client for Go (2 weeks ago)
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works (3 weeks ago)
-- [jetpack-io/typeid-go](https://github.com/jetpack-io/typeid-go) - Go implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs (3 weeks ago)
+- [jetpack-io/typeid-go](https://github.com/jetpack-io/typeid-go) - Go implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs (4 weeks ago)
 - [casejs/CASE](https://github.com/casejs/CASE) - Typescript lightweight Backend-as-a-Service ✨  (1 month ago)
 - [th0th/poeticmetric](https://github.com/th0th/poeticmetric) - PoeticMetric is a free as in freedom, open source, privacy-first, regulation-compliant, and blazingly fast Google Analytics alternative. (1 month ago)
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens. (1 month ago)
