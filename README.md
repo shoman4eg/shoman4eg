@@ -6,7 +6,7 @@
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (3 months ago)
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (4 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (8 months ago)
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (11 months ago)
+- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (2 days ago)
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (3 days ago)
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (1 week ago)
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app (1 week ago)
 - [BitBagCommerce/OpenMarketplace](https://github.com/BitBagCommerce/OpenMarketplace) - Open-source Multi-Vendor Marketplace platform based on Sylius and Symfony. (2 weeks ago)
