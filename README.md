@@ -22,8 +22,9 @@
 
 #### ⭐ Recent Stars
 
+- [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices! (1 day ago)
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (1 week ago)
-- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (1 week ago)
+- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (2 weeks ago)
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app (2 weeks ago)
 - [BitBagCommerce/OpenMarketplace](https://github.com/BitBagCommerce/OpenMarketplace) - Open-source Multi-Vendor Marketplace platform based on Sylius and Symfony. (3 weeks ago)
 - [davesavic/clink](https://github.com/davesavic/clink) - A configurable HTTP client for Go (3 weeks ago)
@@ -31,7 +32,6 @@
 - [jetpack-io/typeid-go](https://github.com/jetpack-io/typeid-go) - Go implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs (1 month ago)
 - [casejs/CASE](https://github.com/casejs/CASE) - Typescript lightweight Backend-as-a-Service ✨  (1 month ago)
 - [th0th/poeticmetric](https://github.com/th0th/poeticmetric) - PoeticMetric is a free as in freedom, open source, privacy-first, regulation-compliant, and blazingly fast Google Analytics alternative. (1 month ago)
-- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
