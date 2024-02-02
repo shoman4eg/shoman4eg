@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client (1 day ago)
-- [crypto-power/cryptopower](https://github.com/crypto-power/cryptopower) - A cross-platform SPV (DCR, BTC &amp; LTC) privacy wallet built with go. (1 day ago)
-- [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices! (2 days ago)
+- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client (2 days ago)
+- [crypto-power/cryptopower](https://github.com/crypto-power/cryptopower) - A cross-platform SPV (DCR, BTC &amp; LTC) privacy wallet built with go. (2 days ago)
+- [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices! (3 days ago)
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (1 week ago)
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (2 weeks ago)
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app (2 weeks ago)
