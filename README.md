@@ -6,7 +6,6 @@
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (3 months ago)
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (4 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (8 months ago)
-- [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -22,15 +21,15 @@
 
 #### ⭐ Recent Stars
 
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts. (2 days ago)
-- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client (4 days ago)
-- [crypto-power/cryptopower](https://github.com/crypto-power/cryptopower) - A cross-platform SPV (DCR, BTC &amp; LTC) privacy wallet built with go. (4 days ago)
-- [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices! (5 days ago)
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (1 week ago)
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts. (3 days ago)
+- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client (5 days ago)
+- [crypto-power/cryptopower](https://github.com/crypto-power/cryptopower) - A cross-platform SPV (DCR, BTC &amp; LTC) privacy wallet built with go. (5 days ago)
+- [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices! (6 days ago)
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (2 weeks ago)
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (2 weeks ago)
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (2 weeks ago)
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (3 weeks ago)
 - [BitBagCommerce/OpenMarketplace](https://github.com/BitBagCommerce/OpenMarketplace) - Open-source Multi-Vendor Marketplace platform based on Sylius and Symfony. (3 weeks ago)
-- [davesavic/clink](https://github.com/davesavic/clink) - A configurable HTTP client for Go (4 weeks ago)
+- [davesavic/clink](https://github.com/davesavic/clink) - A configurable HTTP client for Go (1 month ago)
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works (1 month ago)
 
 #### 👯 Check out some of my recent followers
