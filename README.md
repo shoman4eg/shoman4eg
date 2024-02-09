@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man&#39;s ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding (1 day ago)
-- [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux (2 days ago)
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts. (6 days ago)
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (1 day ago)
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (1 day ago)
+- [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man&#39;s ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding (2 days ago)
+- [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux (3 days ago)
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts. (1 week ago)
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client (1 week ago)
 - [crypto-power/cryptopower](https://github.com/crypto-power/cryptopower) - A cross-platform SPV (DCR, BTC &amp; LTC) privacy wallet built with go. (1 week ago)
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices! (1 week ago)
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (2 weeks ago)
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (3 weeks ago)
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (3 weeks ago)
-- [BitBagCommerce/OpenMarketplace](https://github.com/BitBagCommerce/OpenMarketplace) - Open-source Multi-Vendor Marketplace platform based on Sylius and Symfony. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
