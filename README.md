@@ -21,15 +21,15 @@
 
 #### ⭐ Recent Stars
 
-- [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI (1 day ago)
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (1 day ago)
-- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (5 days ago)
-- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (5 days ago)
-- [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man&#39;s ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding (6 days ago)
+- [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI (2 days ago)
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (2 days ago)
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (6 days ago)
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (6 days ago)
+- [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man&#39;s ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding (1 week ago)
 - [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux (1 week ago)
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts. (1 week ago)
-- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client (1 week ago)
-- [crypto-power/cryptopower](https://github.com/crypto-power/cryptopower) - A cross-platform SPV (DCR, BTC &amp; LTC) privacy wallet built with go. (1 week ago)
+- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client (2 weeks ago)
+- [crypto-power/cryptopower](https://github.com/crypto-power/cryptopower) - A cross-platform SPV (DCR, BTC &amp; LTC) privacy wallet built with go. (2 weeks ago)
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices! (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
