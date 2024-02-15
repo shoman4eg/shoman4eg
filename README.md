@@ -21,10 +21,10 @@
 
 #### ⭐ Recent Stars
 
-- [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI (2 days ago)
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (2 days ago)
-- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (6 days ago)
-- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (6 days ago)
+- [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI (3 days ago)
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (3 days ago)
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (1 week ago)
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (1 week ago)
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man&#39;s ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding (1 week ago)
 - [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux (1 week ago)
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts. (1 week ago)
@@ -34,11 +34,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [Kos-M](https://github.com/Kos-M)
 - [iidenty](https://github.com/iidenty)
 - [BILYAMINUAB](https://github.com/BILYAMINUAB)
 - [V1nni00](https://github.com/V1nni00)
 - [SPSEBASTIAAN](https://github.com/SPSEBASTIAAN)
+- [DisastrousBug](https://github.com/DisastrousBug)
 
 
 #### 📫 Where to find me
