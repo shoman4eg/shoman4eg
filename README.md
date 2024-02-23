@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (1 month ago)
+- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (2 months ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (4 months ago)
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (5 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (9 months ago)
@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [koorchik/js-validator-livr](https://github.com/koorchik/js-validator-livr) - Lightweight javascript validator supporting Language Independent Validation Rules Specification (LIVR) (today)
-- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang (2 days ago)
-- [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker &#43; Traefik with Authelia and Cloudflare Protection (6 days ago)
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file (6 days ago)
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (6 days ago)
-- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (6 days ago)
-- [Narsil/rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux) (6 days ago)
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. (6 days ago)
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (6 days ago)
-- [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI (1 week ago)
+- [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects. (1 day ago)
+- [koorchik/js-validator-livr](https://github.com/koorchik/js-validator-livr) - Lightweight javascript validator supporting Language Independent Validation Rules Specification (LIVR) (1 day ago)
+- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang (3 days ago)
+- [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker &#43; Traefik with Authelia and Cloudflare Protection (1 week ago)
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file (1 week ago)
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (1 week ago)
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (1 week ago)
+- [Narsil/rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux) (1 week ago)
+- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. (1 week ago)
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
