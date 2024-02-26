@@ -21,10 +21,10 @@
 
 #### ⭐ Recent Stars
 
-- [spiral/framework](https://github.com/spiral/framework) - High-Performance PHP Framework (2 days ago)
-- [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects. (3 days ago)
-- [koorchik/js-validator-livr](https://github.com/koorchik/js-validator-livr) - Lightweight javascript validator supporting Language Independent Validation Rules Specification (LIVR) (3 days ago)
-- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang (5 days ago)
+- [spiral/framework](https://github.com/spiral/framework) - High-Performance PHP Framework (3 days ago)
+- [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects. (4 days ago)
+- [koorchik/js-validator-livr](https://github.com/koorchik/js-validator-livr) - Lightweight javascript validator supporting Language Independent Validation Rules Specification (LIVR) (4 days ago)
+- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang (6 days ago)
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker &#43; Traefik with Authelia and Cloudflare Protection (1 week ago)
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file (1 week ago)
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (1 week ago)
