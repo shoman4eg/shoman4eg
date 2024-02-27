@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [spiral/framework](https://github.com/spiral/framework) - High-Performance PHP Framework (3 days ago)
-- [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects. (4 days ago)
-- [koorchik/js-validator-livr](https://github.com/koorchik/js-validator-livr) - Lightweight javascript validator supporting Language Independent Validation Rules Specification (LIVR) (4 days ago)
-- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang (6 days ago)
-- [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker &#43; Traefik with Authelia and Cloudflare Protection (1 week ago)
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file (1 week ago)
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (1 week ago)
-- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (1 week ago)
-- [Narsil/rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux) (1 week ago)
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. (1 week ago)
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (1 day ago)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page (1 day ago)
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. (1 day ago)
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day &amp; traffic &amp; ip limit (Vmess &amp; Vless &amp; Trojan &amp;  ShadowSocks &amp; Wireguard) (1 day ago)
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (1 day ago)
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (1 day ago)
+- [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A Screenshot Annotation Tool inspired by Swappy and Flameshot. (1 day ago)
+- [spiral/framework](https://github.com/spiral/framework) - High-Performance PHP Framework (4 days ago)
+- [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects. (5 days ago)
+- [koorchik/js-validator-livr](https://github.com/koorchik/js-validator-livr) - Lightweight javascript validator supporting Language Independent Validation Rules Specification (LIVR) (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
