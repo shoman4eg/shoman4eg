@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
+- [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps. (1 day ago)
+- [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go (1 day ago)
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. (1 week ago)
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (1 week ago)
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries &amp; household management solution for your home (1 week ago)
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (1 week ago)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 week ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 week ago)
-- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily (1 week ago)
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. (1 week ago)
-- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities (1 week ago)
-- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems (1 week ago)
+- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily (2 weeks ago)
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
