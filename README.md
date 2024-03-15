@@ -21,10 +21,10 @@
 
 #### ⭐ Recent Stars
 
-- [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (2 days ago)
-- [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) - Thumbhash implementation in PHP (2 days ago)
-- [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps. (3 days ago)
-- [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go (3 days ago)
+- [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (3 days ago)
+- [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) - Thumbhash implementation in PHP (3 days ago)
+- [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps. (4 days ago)
+- [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go (4 days ago)
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. (1 week ago)
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (1 week ago)
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries &amp; household management solution for your home (1 week ago)
