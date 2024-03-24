@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (2 months ago)
+- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (3 months ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (5 months ago)
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (6 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (10 months ago)
@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes (1 day ago)
-- [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients. (2 days ago)
-- [mazrean/formstream](https://github.com/mazrean/formstream) - A Fast Streaming Parser for multipart/form-data in Golang (6 days ago)
+- [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes (2 days ago)
+- [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients. (3 days ago)
+- [mazrean/formstream](https://github.com/mazrean/formstream) - A Fast Streaming Parser for multipart/form-data in Golang (1 week ago)
 - [OpenFactorioServerManager/factorio-server-manager](https://github.com/OpenFactorioServerManager/factorio-server-manager) - A tool to help manage Factorio multiplayer servers including mods and save games. (1 week ago)
 - [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (1 week ago)
 - [SRWieZ/thumbhash](https://github.com/SRWieZ/thumbhash) - Thumbhash implementation in PHP (1 week ago)
