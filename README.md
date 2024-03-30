@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用大模型，一键生成短视频 (1 day ago)
-- [goravel/goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel. (1 day ago)
-- [tuurep/windowlist](https://github.com/tuurep/windowlist) - Polybar custom module - List all open windows, click to switch focus or minimize (2 days ago)
-- [Axenide/Dotfiles](https://github.com/Axenide/Dotfiles) - .&#39;s (4 days ago)
-- [beyondcode/laravel-server-timing](https://github.com/beyondcode/laravel-server-timing) - Add Server-Timing header information from within your Laravel apps. (4 days ago)
-- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - Slevomat Coding Standard for PHP_CodeSniffer provides many useful sniffs (4 days ago)
-- [daptin/daptin](https://github.com/daptin/daptin) - Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS (4 days ago)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (1 day ago)
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (2 days ago)
+- [goravel/goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel. (2 days ago)
+- [tuurep/windowlist](https://github.com/tuurep/windowlist) - Polybar custom module - List all open windows, click to switch focus or minimize (3 days ago)
+- [Axenide/Dotfiles](https://github.com/Axenide/Dotfiles) - .&#39;s (5 days ago)
+- [beyondcode/laravel-server-timing](https://github.com/beyondcode/laravel-server-timing) - Add Server-Timing header information from within your Laravel apps. (5 days ago)
+- [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - Slevomat Coding Standard for PHP_CodeSniffer provides many useful sniffs (5 days ago)
+- [daptin/daptin](https://github.com/daptin/daptin) - Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS (5 days ago)
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes (1 week ago)
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients. (1 week ago)
-- [mazrean/formstream](https://github.com/mazrean/formstream) - A Fast Streaming Parser for multipart/form-data in Golang (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
