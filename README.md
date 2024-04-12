@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database (4 days ago)
-- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (6 days ago)
+- [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (1 day ago)
+- [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database (5 days ago)
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (1 week ago)
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (1 week ago)
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker! (1 week ago)
 - [taubyte/tau](https://github.com/taubyte/tau) - 🔥🔥🔥 Open-source Cloud Computing Platform On Autopilot. (1 week ago)
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (1 week ago)
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS. (1 week ago)
 - [heyform/heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required. (1 week ago)
-- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (1 week ago)
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (2 weeks ago)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
