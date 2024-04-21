@@ -5,7 +5,7 @@
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (3 months ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (6 months ago)
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (7 months ago)
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (10 months ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable! (1 day ago)
-- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding (3 days ago)
-- [brick/phonenumber](https://github.com/brick/phonenumber) - A phone number library for PHP (5 days ago)
+- [azimjohn/jprq](https://github.com/azimjohn/jprq) - join public router. quickly. (1 day ago)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable! (2 days ago)
+- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding (4 days ago)
+- [brick/phonenumber](https://github.com/brick/phonenumber) - A phone number library for PHP (6 days ago)
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (1 week ago)
-- [teableio/teable](https://github.com/teableio/teable) - ✨ A Super Fast Airtable alternative build on top of Postgres (1 week ago)
+- [teableio/teable](https://github.com/teableio/teable) - ✨ A Super Fast Airtable alternative build on top of Postgres (2 weeks ago)
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (2 weeks ago)
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (2 weeks ago)
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker! (2 weeks ago)
 - [taubyte/tau](https://github.com/taubyte/tau) - 🔥🔥🔥 Open-source Cloud Computing Platform On Autopilot. (2 weeks ago)
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
