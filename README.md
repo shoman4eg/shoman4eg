@@ -21,10 +21,10 @@
 
 #### ⭐ Recent Stars
 
-- [azimjohn/jprq](https://github.com/azimjohn/jprq) - join public router. quickly. (1 day ago)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable! (2 days ago)
-- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding (4 days ago)
-- [brick/phonenumber](https://github.com/brick/phonenumber) - A phone number library for PHP (6 days ago)
+- [azimjohn/jprq](https://github.com/azimjohn/jprq) - join public router. quickly. (2 days ago)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (3 days ago)
+- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding (5 days ago)
+- [brick/phonenumber](https://github.com/brick/phonenumber) - A phone number library for PHP (1 week ago)
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (1 week ago)
 - [teableio/teable](https://github.com/teableio/teable) - ✨ A Super Fast Airtable alternative build on top of Postgres (2 weeks ago)
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (2 weeks ago)
