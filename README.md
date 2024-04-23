@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (3 months ago)
+- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (4 months ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (6 months ago)
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (7 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (11 months ago)
@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [azimjohn/jprq](https://github.com/azimjohn/jprq) - join public router. quickly. (2 days ago)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (3 days ago)
-- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding (5 days ago)
+- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js and the most popular CSS frameworks on the frontend. (1 day ago)
+- [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines (1 day ago)
+- [azimjohn/jprq](https://github.com/azimjohn/jprq) - join public router. quickly. (3 days ago)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (4 days ago)
+- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding (6 days ago)
 - [brick/phonenumber](https://github.com/brick/phonenumber) - A phone number library for PHP (1 week ago)
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (1 week ago)
 - [teableio/teable](https://github.com/teableio/teable) - ✨ A Super Fast Airtable alternative build on top of Postgres (2 weeks ago)
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (2 weeks ago)
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (2 weeks ago)
-- [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker! (2 weeks ago)
-- [taubyte/tau](https://github.com/taubyte/tau) - 🔥🔥🔥 Open-source Cloud Computing Platform On Autopilot. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
