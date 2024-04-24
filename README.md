@@ -21,24 +21,24 @@
 
 #### ⭐ Recent Stars
 
-- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js and the most popular CSS frameworks on the frontend. (1 day ago)
-- [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines (1 day ago)
-- [azimjohn/jprq](https://github.com/azimjohn/jprq) - join public router. quickly. (3 days ago)
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (4 days ago)
-- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding (6 days ago)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (1 day ago)
+- [obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) - Rust library for creating global hotkeys, and simulating inputs (1 day ago)
+- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js and the most popular CSS frameworks on the frontend. (2 days ago)
+- [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines (2 days ago)
+- [azimjohn/jprq](https://github.com/azimjohn/jprq) - join public router. quickly. (4 days ago)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (5 days ago)
+- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding (1 week ago)
 - [brick/phonenumber](https://github.com/brick/phonenumber) - A phone number library for PHP (1 week ago)
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (1 week ago)
 - [teableio/teable](https://github.com/teableio/teable) - ✨ A Super Fast Airtable alternative build on top of Postgres (2 weeks ago)
-- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (2 weeks ago)
-- [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [Mokhdum709](https://github.com/Mokhdum709)
 - [iidenty](https://github.com/iidenty)
 - [BILYAMINUAB](https://github.com/BILYAMINUAB)
 - [V1nni00](https://github.com/V1nni00)
 - [SPSEBASTIAAN](https://github.com/SPSEBASTIAAN)
-- [DisastrousBug](https://github.com/DisastrousBug)
 
 
 #### 📫 Where to find me
