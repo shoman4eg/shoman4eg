@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (3 days ago)
-- [obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) - Rust library for creating global hotkeys, and simulating inputs (3 days ago)
-- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js and the most popular CSS frameworks on the frontend. (4 days ago)
-- [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines (4 days ago)
-- [azimjohn/jprq](https://github.com/azimjohn/jprq) - join public router. quickly. (6 days ago)
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex live web creation, free/libre no-code website builder, next gen Webflow for the static web (1 day ago)
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (4 days ago)
+- [obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) - Rust library for creating global hotkeys, and simulating inputs (4 days ago)
+- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js and the most popular CSS frameworks on the frontend. (5 days ago)
+- [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines (5 days ago)
+- [azimjohn/jprq](https://github.com/azimjohn/jprq) - join public router. quickly. (1 week ago)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. (1 week ago)
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding (1 week ago)
 - [brick/phonenumber](https://github.com/brick/phonenumber) - A phone number library for PHP (1 week ago)
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (2 weeks ago)
-- [teableio/teable](https://github.com/teableio/teable) - ✨ A Super Fast Airtable alternative build on top of Postgres (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
