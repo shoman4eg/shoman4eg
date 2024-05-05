@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (1 day ago)
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (2 days ago)
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex live web creation, free/libre no-code website builder, next gen Webflow for the static web (1 week ago)
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (1 week ago)
 - [obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) - Rust library for creating global hotkeys, and simulating inputs (1 week ago)
