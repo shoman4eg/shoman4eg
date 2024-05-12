@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform (1 day ago)
-- [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang). (5 days ago)
-- [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (6 days ago)
+- [hexdigest/gowrap](https://github.com/hexdigest/gowrap) - GoWrap is a command line tool for generating decorators for Go interfaces (1 day ago)
+- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform (2 days ago)
+- [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang). (6 days ago)
+- [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (1 week ago)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (1 week ago)
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex live web creation, free/libre no-code website builder, next gen Webflow for the static web (2 weeks ago)
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (2 weeks ago)
 - [obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) - Rust library for creating global hotkeys, and simulating inputs (2 weeks ago)
 - [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend. (2 weeks ago)
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines (2 weeks ago)
-- [azimjohn/jprq](https://github.com/azimjohn/jprq) - join public router. quickly. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
