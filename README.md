@@ -5,7 +5,6 @@
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (5 months ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (7 months ago)
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (8 months ago)
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -21,12 +20,12 @@
 
 #### ⭐ Recent Stars
 
-- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (5 days ago)
+- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (6 days ago)
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes) (1 week ago)
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (1 week ago)
 - [chadcat7/crystal](https://github.com/chadcat7/crystal) - nix dotfiles for chilly people (1 week ago)
 - [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles) - 💄 Yet another Aesthetic Hyprland Config (1 week ago)
-- [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora&#39;s Mask (and soon Ocarina of Time) for PC (Windows/Linux) (1 week ago)
+- [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora&#39;s Mask (and soon Ocarina of Time) for PC (Windows/Linux) (2 weeks ago)
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (2 weeks ago)
 - [go-foreman/foreman](https://github.com/go-foreman/foreman) - MessageBus, PubSub implementation for golang. Orchestrated saga. (2 weeks ago)
 - [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles (2 weeks ago)
