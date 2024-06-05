@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (1 week ago)
+- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (2 weeks ago)
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes) (2 weeks ago)
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (2 weeks ago)
 - [chadcat7/crystal](https://github.com/chadcat7/crystal) - nix dotfiles for chilly people (2 weeks ago)
