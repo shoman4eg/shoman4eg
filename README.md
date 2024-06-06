@@ -22,9 +22,9 @@
 
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (2 weeks ago)
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes) (2 weeks ago)
-- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (2 weeks ago)
-- [chadcat7/crystal](https://github.com/chadcat7/crystal) - nix dotfiles for chilly people (2 weeks ago)
-- [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles) - 💄 Yet another Aesthetic Hyprland Config (2 weeks ago)
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (3 weeks ago)
+- [chadcat7/crystal](https://github.com/chadcat7/crystal) - nix dotfiles for chilly people (3 weeks ago)
+- [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles) - 💄 Yet another Aesthetic Hyprland Config (3 weeks ago)
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora&#39;s Mask (and soon Ocarina of Time) for PC (Windows/Linux) (3 weeks ago)
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (3 weeks ago)
 - [go-foreman/foreman](https://github.com/go-foreman/foreman) - MessageBus, PubSub implementation for golang. Orchestrated saga. (3 weeks ago)
