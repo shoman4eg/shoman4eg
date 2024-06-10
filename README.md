@@ -26,18 +26,18 @@
 - [chadcat7/crystal](https://github.com/chadcat7/crystal) - nix dotfiles for chilly people (3 weeks ago)
 - [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles) - 💄 Yet another Aesthetic Hyprland Config (3 weeks ago)
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora&#39;s Mask (and soon Ocarina of Time) for PC (Windows/Linux) (3 weeks ago)
-- [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (3 weeks ago)
-- [go-foreman/foreman](https://github.com/go-foreman/foreman) - MessageBus, PubSub implementation for golang. Orchestrated saga. (3 weeks ago)
-- [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles (3 weeks ago)
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, Pi 5, any Ubuntu/Debian system, or a VPS. (3 weeks ago)
+- [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (4 weeks ago)
+- [go-foreman/foreman](https://github.com/go-foreman/foreman) - MessageBus, PubSub implementation for golang. Orchestrated saga. (4 weeks ago)
+- [lokesh-krishna/dotfiles](https://github.com/lokesh-krishna/dotfiles) - My dotfiles (4 weeks ago)
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, Pi 5, any Ubuntu/Debian system, or a VPS. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [fedihamdi](https://github.com/fedihamdi)
 - [Mokhdum709](https://github.com/Mokhdum709)
 - [iidenty](https://github.com/iidenty)
 - [BILYAMINUAB](https://github.com/BILYAMINUAB)
 - [V1nni00](https://github.com/V1nni00)
-- [SPSEBASTIAAN](https://github.com/SPSEBASTIAAN)
 
 
 #### 📫 Where to find me
