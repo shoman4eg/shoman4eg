@@ -4,7 +4,7 @@
 
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (5 months ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (8 months ago)
-- [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (8 months ago)
+- [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [kevincobain2000/gol](https://github.com/kevincobain2000/gol) - All in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed. (3 days ago)
-- [helsing-ai/buffrs](https://github.com/helsing-ai/buffrs) - Modern protobuf package management (4 days ago)
-- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (3 weeks ago)
+- [kevincobain2000/gol](https://github.com/kevincobain2000/gol) - All in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed. (4 days ago)
+- [helsing-ai/buffrs](https://github.com/helsing-ai/buffrs) - Modern protobuf package management (5 days ago)
+- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (4 weeks ago)
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes) (1 month ago)
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (1 month ago)
 - [chadcat7/crystal](https://github.com/chadcat7/crystal) - nix dotfiles for chilly people (1 month ago)
