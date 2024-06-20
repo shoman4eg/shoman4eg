@@ -20,8 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [kevincobain2000/gol](https://github.com/kevincobain2000/gol) - All in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed. (4 days ago)
-- [helsing-ai/buffrs](https://github.com/helsing-ai/buffrs) - Modern protobuf package management (5 days ago)
+- [kevincobain2000/gol](https://github.com/kevincobain2000/gol) - All in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed. (5 days ago)
+- [helsing-ai/buffrs](https://github.com/helsing-ai/buffrs) - Modern protobuf package management (6 days ago)
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (4 weeks ago)
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes) (1 month ago)
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (1 month ago)
