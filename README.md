@@ -20,16 +20,16 @@
 
 #### ⭐ Recent Stars
 
-- [kevincobain2000/gol](https://github.com/kevincobain2000/gol) - All in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed. (5 days ago)
-- [helsing-ai/buffrs](https://github.com/helsing-ai/buffrs) - Modern protobuf package management (6 days ago)
-- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (4 weeks ago)
+- [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux (1 day ago)
+- [kevincobain2000/gol](https://github.com/kevincobain2000/gol) - All in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed. (6 days ago)
+- [helsing-ai/buffrs](https://github.com/helsing-ai/buffrs) - Modern protobuf package management (1 week ago)
+- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (1 month ago)
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes) (1 month ago)
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (1 month ago)
 - [chadcat7/crystal](https://github.com/chadcat7/crystal) - nix dotfiles for chilly people (1 month ago)
 - [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles) - 💄 Yet another Aesthetic Hyprland Config (1 month ago)
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora&#39;s Mask (and soon Ocarina of Time) for PC (Windows/Linux) (1 month ago)
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (1 month ago)
-- [go-foreman/foreman](https://github.com/go-foreman/foreman) - MessageBus, PubSub implementation for golang. Orchestrated saga. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
