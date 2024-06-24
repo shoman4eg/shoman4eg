@@ -20,8 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [andreykaere/ixwindow](https://github.com/andreykaere/ixwindow) - Iconized xwindow module for Polybar (for bspwm and i3wm) (1 day ago)
-- [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux (3 days ago)
+- [andreykaere/ixwindow](https://github.com/andreykaere/ixwindow) - Iconized xwindow module for Polybar (for bspwm and i3wm) (2 days ago)
+- [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux (4 days ago)
 - [kevincobain2000/gol](https://github.com/kevincobain2000/gol) - All in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed. (1 week ago)
 - [helsing-ai/buffrs](https://github.com/helsing-ai/buffrs) - Modern protobuf package management (1 week ago)
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (1 month ago)
