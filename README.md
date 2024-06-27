@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (today)
+- [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (1 day ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (6 months ago)
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (9 months ago)
 
@@ -20,8 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [andreykaere/ixwindow](https://github.com/andreykaere/ixwindow) - Iconized xwindow module for Polybar (for bspwm and i3wm) (4 days ago)
-- [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux (6 days ago)
+- [andreykaere/ixwindow](https://github.com/andreykaere/ixwindow) - Iconized xwindow module for Polybar (for bspwm and i3wm) (5 days ago)
+- [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux (1 week ago)
 - [kevincobain2000/gol](https://github.com/kevincobain2000/gol) - All in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed. (1 week ago)
 - [helsing-ai/buffrs](https://github.com/helsing-ai/buffrs) - Modern protobuf package management (1 week ago)
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (1 month ago)
