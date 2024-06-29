@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (2 days ago)
+- [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (3 days ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (6 months ago)
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (9 months ago)
 
@@ -20,16 +20,16 @@
 
 #### ⭐ Recent Stars
 
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (1 day ago)
-- [andreykaere/ixwindow](https://github.com/andreykaere/ixwindow) - Iconized xwindow module for Polybar (for bspwm and i3wm) (6 days ago)
+- [emad-elsaid/xlog](https://github.com/emad-elsaid/xlog) - 📼 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and audio recording embedded in the note. and fast search through the KB (today)
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (2 days ago)
+- [andreykaere/ixwindow](https://github.com/andreykaere/ixwindow) - Iconized xwindow module for Polybar (for bspwm and i3wm) (1 week ago)
 - [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux (1 week ago)
-- [kevincobain2000/gol](https://github.com/kevincobain2000/gol) - All in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed. (1 week ago)
+- [kevincobain2000/gol](https://github.com/kevincobain2000/gol) - All in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed. (2 weeks ago)
 - [helsing-ai/buffrs](https://github.com/helsing-ai/buffrs) - Modern protobuf package management (2 weeks ago)
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go. (1 month ago)
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes) (1 month ago)
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (1 month ago)
 - [chadcat7/crystal](https://github.com/chadcat7/crystal) - nix dotfiles for chilly people (1 month ago)
-- [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles) - 💄 Yet another Aesthetic Hyprland Config (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
