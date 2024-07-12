@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 
-- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (6 days ago)
+- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (1 week ago)
 - [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, and elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the Web with a single pure Go codebase, allowing you to Code Once, Run Everywhere. (1 week ago)
 - [php-type-language/mapper](https://github.com/php-type-language/mapper) - The best PHP mapper (hydrator/serializer) you&#39;ve ever seen! (1 week ago)
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (1 week ago)
