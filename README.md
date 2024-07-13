@@ -27,11 +27,11 @@
 - [php-type-language/mapper](https://github.com/php-type-language/mapper) - The best PHP mapper (hydrator/serializer) you&#39;ve ever seen! (1 week ago)
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (1 week ago)
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (1 week ago)
-- [emad-elsaid/xlog](https://github.com/emad-elsaid/xlog) - 📼 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and audio recording embedded in the note. and fast search through the KB (1 week ago)
+- [emad-elsaid/xlog](https://github.com/emad-elsaid/xlog) - 📼 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and audio recording embedded in the note. and fast search through the KB (2 weeks ago)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (2 weeks ago)
-- [andreykaere/ixwindow](https://github.com/andreykaere/ixwindow) - Iconized xwindow module for Polybar (for bspwm and i3wm) (2 weeks ago)
+- [andreykaere/ixwindow](https://github.com/andreykaere/ixwindow) - Iconized xwindow module for Polybar (for bspwm and i3wm) (3 weeks ago)
 - [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux (3 weeks ago)
-- [kevincobain2000/gol](https://github.com/kevincobain2000/gol) - All in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed. (3 weeks ago)
+- [kevincobain2000/gol](https://github.com/kevincobain2000/gol) - All in One - Dependency free (docker, local, remote) Log Viewer in Browser. Written in GO with God Speed. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
