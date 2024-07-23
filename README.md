@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 day ago)
 - [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (2 weeks ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (3 weeks ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (7 months ago)
@@ -35,11 +36,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [zhouxinyu](https://github.com/zhouxinyu)
 - [Mokhdum709](https://github.com/Mokhdum709)
 - [iidenty](https://github.com/iidenty)
 - [BILYAMINUAB](https://github.com/BILYAMINUAB)
 - [V1nni00](https://github.com/V1nni00)
-- [SPSEBASTIAAN](https://github.com/SPSEBASTIAAN)
 
 
 #### 📫 Where to find me
