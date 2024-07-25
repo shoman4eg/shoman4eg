@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (today)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 day ago)
 - [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (3 weeks ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (4 weeks ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (7 months ago)
@@ -23,16 +23,16 @@
 
 #### ⭐ Recent Stars
 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (today)
+- [Shentxt/Hyprhype](https://github.com/Shentxt/Hyprhype) - It is an incomplete demo of a graphical environment (1 day ago)
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (1 day ago)
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (2 weeks ago)
 - [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, Run Everywhere. (3 weeks ago)
 - [php-type-language/mapper](https://github.com/php-type-language/mapper) - The best PHP mapper (hydrator/serializer) you&#39;ve ever seen! (3 weeks ago)
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (3 weeks ago)
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (3 weeks ago)
 - [emad-elsaid/xlog](https://github.com/emad-elsaid/xlog) - 📼 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and audio recording embedded in the note. and fast search through the KB (3 weeks ago)
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (3 weeks ago)
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (4 weeks ago)
 - [andreykaere/ixwindow](https://github.com/andreykaere/ixwindow) - Iconized xwindow module for Polybar (for bspwm and i3wm) (1 month ago)
-- [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
