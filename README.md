@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (3 days ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (4 days ago)
 - [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (3 weeks ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (1 month ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (7 months ago)
@@ -23,8 +23,8 @@
 
 #### ⭐ Recent Stars
 
-- [Shentxt/Hyprhype](https://github.com/Shentxt/Hyprhype) - It is an incomplete demo of a graphical environment (3 days ago)
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (3 days ago)
+- [Shentxt/Hyprhype](https://github.com/Shentxt/Hyprhype) - It is an incomplete demo of a graphical environment (4 days ago)
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (4 days ago)
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (3 weeks ago)
 - [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, Run Everywhere. (3 weeks ago)
 - [php-type-language/mapper](https://github.com/php-type-language/mapper) - The best PHP mapper (hydrator/serializer) you&#39;ve ever seen! (3 weeks ago)
@@ -36,11 +36,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [kazhuravlev](https://github.com/kazhuravlev)
 - [zhouxinyu](https://github.com/zhouxinyu)
 - [Mokhdum709](https://github.com/Mokhdum709)
 - [iidenty](https://github.com/iidenty)
 - [BILYAMINUAB](https://github.com/BILYAMINUAB)
-- [V1nni00](https://github.com/V1nni00)
 
 
 #### 📫 Where to find me
