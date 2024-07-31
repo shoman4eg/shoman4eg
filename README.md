@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (6 days ago)
-- [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (3 weeks ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 week ago)
+- [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (4 weeks ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (1 month ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (7 months ago)
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (10 months ago)
@@ -23,14 +23,14 @@
 
 #### ⭐ Recent Stars
 
-- [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku. (1 day ago)
-- [Shentxt/Hyprhype](https://github.com/Shentxt/Hyprhype) - It is an incomplete demo of a graphical environment (6 days ago)
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (6 days ago)
+- [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku. (2 days ago)
+- [Shentxt/Hyprhype](https://github.com/Shentxt/Hyprhype) - It is an incomplete demo of a graphical environment (1 week ago)
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (1 week ago)
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (3 weeks ago)
-- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, Run Everywhere. (3 weeks ago)
-- [php-type-language/mapper](https://github.com/php-type-language/mapper) - The best PHP mapper (hydrator/serializer) you&#39;ve ever seen! (3 weeks ago)
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (4 weeks ago)
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (4 weeks ago)
+- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, Run Everywhere. (4 weeks ago)
+- [php-type-language/mapper](https://github.com/php-type-language/mapper) - The best PHP mapper (hydrator/serializer) you&#39;ve ever seen! (4 weeks ago)
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (1 month ago)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (1 month ago)
 - [emad-elsaid/xlog](https://github.com/emad-elsaid/xlog) - 📼 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and audio recording embedded in the note. and fast search through the KB (1 month ago)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (1 month ago)
 
