@@ -23,7 +23,7 @@
 
 #### ⭐ Recent Stars
 
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (4 days ago)
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (5 days ago)
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku. (1 week ago)
 - [Shentxt/Hyprhype](https://github.com/Shentxt/Hyprhype) - It is an incomplete demo of a graphical environment (2 weeks ago)
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (2 weeks ago)
