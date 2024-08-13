@@ -23,16 +23,16 @@
 
 #### ⭐ Recent Stars
 
-- [sapegin/vscode-just-blame](https://github.com/sapegin/vscode-just-blame) - VS Code extension to show Git Blame annotations, inspired by JetBrains editors 🪲 (4 days ago)
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era. (1 day ago)
+- [authgear/authgear-server](https://github.com/authgear/authgear-server) - Open source alternative to Auth0 / Firebase Auth (1 day ago)
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative (1 day ago)
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 day ago)
+- [sapegin/vscode-just-blame](https://github.com/sapegin/vscode-just-blame) - VS Code extension to show Git Blame annotations, inspired by JetBrains editors 🪲 (5 days ago)
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (1 week ago)
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku. (2 weeks ago)
 - [Shentxt/Hyprhype](https://github.com/Shentxt/Hyprhype) - It is an incomplete demo of a graphical environment (2 weeks ago)
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (2 weeks ago)
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (1 month ago)
-- [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, Run Everywhere. (1 month ago)
-- [php-type-language/mapper](https://github.com/php-type-language/mapper) - The best PHP mapper (hydrator/serializer) you&#39;ve ever seen! (1 month ago)
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. (1 month ago)
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
