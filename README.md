@@ -23,10 +23,10 @@
 
 #### ⭐ Recent Stars
 
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era. (3 days ago)
-- [authgear/authgear-server](https://github.com/authgear/authgear-server) - Open source alternative to Auth0 / Firebase Auth (3 days ago)
-- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative (3 days ago)
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (3 days ago)
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era. (4 days ago)
+- [authgear/authgear-server](https://github.com/authgear/authgear-server) - Open source alternative to Auth0 / Firebase Auth (4 days ago)
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative (4 days ago)
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (4 days ago)
 - [sapegin/vscode-just-blame](https://github.com/sapegin/vscode-just-blame) - VS Code extension to show Git Blame annotations, inspired by JetBrains editors 🪲 (1 week ago)
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (1 week ago)
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku. (2 weeks ago)
