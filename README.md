@@ -6,7 +6,7 @@
 - [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (1 month ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (1 month ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (7 months ago)
-- [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (10 months ago)
+- [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -23,10 +23,10 @@
 
 #### ⭐ Recent Stars
 
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era. (5 days ago)
-- [authgear/authgear-server](https://github.com/authgear/authgear-server) - Open source alternative to Auth0 / Firebase Auth (5 days ago)
-- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative (5 days ago)
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (5 days ago)
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era. (6 days ago)
+- [authgear/authgear-server](https://github.com/authgear/authgear-server) - Open source alternative to Auth0 / Firebase Auth (6 days ago)
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative (6 days ago)
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (6 days ago)
 - [sapegin/vscode-just-blame](https://github.com/sapegin/vscode-just-blame) - VS Code extension to show Git Blame annotations, inspired by JetBrains editors 🪲 (1 week ago)
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (2 weeks ago)
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku. (2 weeks ago)
