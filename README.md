@@ -23,7 +23,8 @@
 
 #### ⭐ Recent Stars
 
-- [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (6 days ago)
+- [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua (1 day ago)
+- [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (1 week ago)
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era. (2 weeks ago)
 - [authgear/authgear-server](https://github.com/authgear/authgear-server) - Open source alternative to Auth0 / Firebase Auth (2 weeks ago)
 - [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative (2 weeks ago)
@@ -32,15 +33,14 @@
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (3 weeks ago)
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku. (4 weeks ago)
 - [Shentxt/Hyprhype](https://github.com/Shentxt/Hyprhype) - It is an incomplete demo of a graphical environment (1 month ago)
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [standardgalactic](https://github.com/standardgalactic)
 - [zhouxinyu](https://github.com/zhouxinyu)
 - [Mokhdum709](https://github.com/Mokhdum709)
 - [iidenty](https://github.com/iidenty)
 - [BILYAMINUAB](https://github.com/BILYAMINUAB)
-- [V1nni00](https://github.com/V1nni00)
 
 
 #### 📫 Where to find me
