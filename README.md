@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 month ago)
-- [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (1 month ago)
+- [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (2 months ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (2 months ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (8 months ago)
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (11 months ago)
@@ -23,7 +23,7 @@
 
 #### ⭐ Recent Stars
 
-- [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua (5 days ago)
+- [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua (6 days ago)
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (1 week ago)
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era. (2 weeks ago)
 - [authgear/authgear-server](https://github.com/authgear/authgear-server) - Open source alternative to Auth0 / Firebase Auth (2 weeks ago)
