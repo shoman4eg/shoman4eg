@@ -23,10 +23,10 @@
 
 #### ⭐ Recent Stars
 
-- [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go (1 day ago)
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative (2 days ago)
-- [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti. (3 days ago)
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers (4 days ago)
+- [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go (2 days ago)
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative (3 days ago)
+- [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti. (4 days ago)
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers (5 days ago)
 - [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua (1 week ago)
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (2 weeks ago)
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era. (3 weeks ago)
