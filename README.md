@@ -23,7 +23,8 @@
 
 #### ⭐ Recent Stars
 
-- [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go (6 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library (1 day ago)
+- [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go (1 week ago)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative (1 week ago)
 - [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti. (1 week ago)
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers (1 week ago)
@@ -32,7 +33,6 @@
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era. (1 month ago)
 - [authgear/authgear-server](https://github.com/authgear/authgear-server) - Open source alternative to Auth0 / Firebase Auth (1 month ago)
 - [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative (1 month ago)
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
