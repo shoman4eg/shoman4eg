@@ -6,7 +6,7 @@
 - [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (2 months ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (2 months ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (8 months ago)
-- [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (11 months ago)
+- [shoman4eg/go-common](https://github.com/shoman4eg/go-common) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -23,16 +23,16 @@
 
 #### ⭐ Recent Stars
 
-- [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland gtk bar written in Rust. (2 days ago)
-- [Elvyria/Mixxc](https://github.com/Elvyria/Mixxc) - Minimalistic volume mixer. (2 days ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library (4 days ago)
+- [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust (1 day ago)
+- [luiz734/swaync-widgets](https://github.com/luiz734/swaync-widgets) - A tool for dynamically updating swaync config files based on states (1 day ago)
+- [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland gtk bar written in Rust. (3 days ago)
+- [Elvyria/Mixxc](https://github.com/Elvyria/Mixxc) - Minimalistic volume mixer. (3 days ago)
+- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library (5 days ago)
 - [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go (1 week ago)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative (1 week ago)
 - [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti. (1 week ago)
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers (1 week ago)
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers (2 weeks ago)
 - [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) - A fast Neovim http client written in Lua (3 weeks ago)
-- [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (3 weeks ago)
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
