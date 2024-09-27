@@ -22,16 +22,16 @@
 
 #### ⭐ Recent Stars
 
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 day ago)
-- [turulix/obsidian-folder-index](https://github.com/turulix/obsidian-folder-index) -  (1 day ago)
-- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free &amp; Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management. (2 days ago)
-- [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang (3 days ago)
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (3 days ago)
+- [fieldryand/goflow](https://github.com/fieldryand/goflow) - Simple but powerful DAG scheduler and dashboard (1 day ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (2 days ago)
+- [turulix/obsidian-folder-index](https://github.com/turulix/obsidian-folder-index) -  (2 days ago)
+- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free &amp; Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management. (3 days ago)
+- [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang (4 days ago)
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (4 days ago)
 - [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust (1 week ago)
 - [luiz734/swaync-widgets](https://github.com/luiz734/swaync-widgets) - A tool for dynamically updating swaync config files based on states (1 week ago)
 - [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland gtk bar written in Rust. (1 week ago)
 - [Elvyria/Mixxc](https://github.com/Elvyria/Mixxc) - Minimalistic volume mixer. (1 week ago)
-- [jakubkulhan/bunny](https://github.com/jakubkulhan/bunny) - Performant pure-PHP AMQP (RabbitMQ) sync/async (ReactPHP) library (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
