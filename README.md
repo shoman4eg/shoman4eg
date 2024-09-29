@@ -22,16 +22,16 @@
 
 #### ⭐ Recent Stars
 
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (1 day ago)
-- [fieldryand/goflow](https://github.com/fieldryand/goflow) - Simple but powerful DAG scheduler and dashboard (2 days ago)
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (3 days ago)
-- [turulix/obsidian-folder-index](https://github.com/turulix/obsidian-folder-index) -  (3 days ago)
-- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free &amp; Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management. (4 days ago)
-- [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang (5 days ago)
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (5 days ago)
+- [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH. (1 day ago)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (2 days ago)
+- [fieldryand/goflow](https://github.com/fieldryand/goflow) - Simple but powerful DAG scheduler and dashboard (3 days ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (4 days ago)
+- [turulix/obsidian-folder-index](https://github.com/turulix/obsidian-folder-index) -  (4 days ago)
+- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free &amp; Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management. (5 days ago)
+- [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang (6 days ago)
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (6 days ago)
 - [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust (1 week ago)
 - [luiz734/swaync-widgets](https://github.com/luiz734/swaync-widgets) - A tool for dynamically updating swaync config files based on states (1 week ago)
-- [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland gtk bar written in Rust. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
