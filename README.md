@@ -22,16 +22,16 @@
 
 #### ⭐ Recent Stars
 
-- [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language. (2 days ago)
-- [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH. (4 days ago)
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (5 days ago)
-- [fieldryand/goflow](https://github.com/fieldryand/goflow) - Simple but powerful DAG scheduler and dashboard (6 days ago)
+- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (today)
+- [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language. (3 days ago)
+- [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH. (5 days ago)
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (6 days ago)
+- [fieldryand/goflow](https://github.com/fieldryand/goflow) - Simple but powerful DAG scheduler and dashboard (1 week ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 week ago)
 - [turulix/obsidian-folder-index](https://github.com/turulix/obsidian-folder-index) -  (1 week ago)
 - [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free &amp; Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management. (1 week ago)
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang (1 week ago)
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (1 week ago)
-- [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
