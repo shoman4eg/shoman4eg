@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (1 day ago)
-- [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language. (4 days ago)
-- [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH. (6 days ago)
+- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (2 days ago)
+- [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language. (5 days ago)
+- [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH. (1 week ago)
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (1 week ago)
 - [fieldryand/goflow](https://github.com/fieldryand/goflow) - Simple but powerful DAG scheduler and dashboard (1 week ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 week ago)
