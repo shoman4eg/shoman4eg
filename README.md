@@ -22,16 +22,16 @@
 
 #### ⭐ Recent Stars
 
-- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组 (today)
-- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (5 days ago)
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (1 day ago)
+- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组 (1 day ago)
+- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (6 days ago)
 - [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language. (1 week ago)
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH. (1 week ago)
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (1 week ago)
 - [fieldryand/goflow](https://github.com/fieldryand/goflow) - Simple but powerful DAG scheduler and dashboard (1 week ago)
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 week ago)
-- [turulix/obsidian-folder-index](https://github.com/turulix/obsidian-folder-index) -  (1 week ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (2 weeks ago)
+- [turulix/obsidian-folder-index](https://github.com/turulix/obsidian-folder-index) -  (2 weeks ago)
 - [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free &amp; Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management. (2 weeks ago)
-- [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
