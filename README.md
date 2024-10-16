@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [abenz1267/walker](https://github.com/abenz1267/walker) - Application launcher similar to Rofi etc. . Wayland native. (today)
-- [devtooligan/awesome-ascii-art](https://github.com/devtooligan/awesome-ascii-art) - A curated list of resources and examples of ASCII Art (today)
-- [System64fumo/syshud](https://github.com/System64fumo/syshud) - Simple heads up display written in gtkmm 4 (1 day ago)
+- [abenz1267/walker](https://github.com/abenz1267/walker) - Application launcher similar to Rofi etc. . Wayland native. (1 day ago)
+- [devtooligan/awesome-ascii-art](https://github.com/devtooligan/awesome-ascii-art) - A curated list of resources and examples of ASCII Art (1 day ago)
+- [System64fumo/syshud](https://github.com/System64fumo/syshud) - Simple heads up display written in gtkmm 4 (2 days ago)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (1 week ago)
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组 (1 week ago)
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (1 week ago)
