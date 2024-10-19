@@ -22,15 +22,15 @@
 
 #### ⭐ Recent Stars
 
-- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps. (today)
-- [abenz1267/walker](https://github.com/abenz1267/walker) - Application launcher similar to Rofi etc. . Wayland native. (3 days ago)
-- [devtooligan/awesome-ascii-art](https://github.com/devtooligan/awesome-ascii-art) - A curated list of resources and examples of ASCII Art (3 days ago)
-- [System64fumo/syshud](https://github.com/System64fumo/syshud) - Simple heads up display written in gtkmm 4 (4 days ago)
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps. (1 day ago)
+- [abenz1267/walker](https://github.com/abenz1267/walker) - Application launcher similar to Rofi etc. . Wayland native. (4 days ago)
+- [devtooligan/awesome-ascii-art](https://github.com/devtooligan/awesome-ascii-art) - A curated list of resources and examples of ASCII Art (4 days ago)
+- [System64fumo/syshud](https://github.com/System64fumo/syshud) - Simple heads up display written in gtkmm 4 (5 days ago)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (1 week ago)
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组 (1 week ago)
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (2 weeks ago)
 - [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language. (2 weeks ago)
-- [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH. (2 weeks ago)
+- [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH. (3 weeks ago)
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
