@@ -22,15 +22,15 @@
 
 #### ⭐ Recent Stars
 
-- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (1 day ago)
-- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps. (2 days ago)
-- [abenz1267/walker](https://github.com/abenz1267/walker) - Application launcher similar to Rofi etc. . Wayland native. (5 days ago)
-- [devtooligan/awesome-ascii-art](https://github.com/devtooligan/awesome-ascii-art) - A curated list of resources and examples of ASCII Art (5 days ago)
-- [System64fumo/syshud](https://github.com/System64fumo/syshud) - Simple heads up display written in gtkmm 4 (6 days ago)
+- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (2 days ago)
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps. (3 days ago)
+- [abenz1267/walker](https://github.com/abenz1267/walker) - Application launcher similar to Rofi etc. . Wayland native. (6 days ago)
+- [devtooligan/awesome-ascii-art](https://github.com/devtooligan/awesome-ascii-art) - A curated list of resources and examples of ASCII Art (6 days ago)
+- [System64fumo/syshud](https://github.com/System64fumo/syshud) - Simple heads up display written in gtkmm 4 (1 week ago)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (1 week ago)
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组 (1 week ago)
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (2 weeks ago)
-- [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language. (2 weeks ago)
+- [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language. (3 weeks ago)
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
