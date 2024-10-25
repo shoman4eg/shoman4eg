@@ -22,9 +22,9 @@
 
 #### ⭐ Recent Stars
 
-- [SenseUnit/dumbproxy](https://github.com/SenseUnit/dumbproxy) - Dumbest HTTP proxy ever (3 days ago)
-- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (5 days ago)
-- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps. (6 days ago)
+- [SenseUnit/dumbproxy](https://github.com/SenseUnit/dumbproxy) - Dumbest HTTP proxy ever (4 days ago)
+- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (6 days ago)
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps. (1 week ago)
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Application launcher similar to Rofi etc. . Wayland native. (1 week ago)
 - [devtooligan/awesome-ascii-art](https://github.com/devtooligan/awesome-ascii-art) - A curated list of resources and examples of ASCII Art (1 week ago)
 - [System64fumo/syshud](https://github.com/System64fumo/syshud) - Simple heads up display written in gtkmm 4 (1 week ago)
