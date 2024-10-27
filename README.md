@@ -22,16 +22,16 @@
 
 #### ⭐ Recent Stars
 
-- [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box. (1 day ago)
-- [SenseUnit/dumbproxy](https://github.com/SenseUnit/dumbproxy) - Dumbest HTTP proxy ever (5 days ago)
+- [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly. (today)
+- [niraj998/dotfiles](https://github.com/niraj998/dotfiles) - Collection of my dotfiles (today)
+- [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box. (2 days ago)
+- [SenseUnit/dumbproxy](https://github.com/SenseUnit/dumbproxy) - Dumbest HTTP proxy ever (6 days ago)
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (1 week ago)
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps. (1 week ago)
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Application launcher similar to Rofi etc. . Wayland native. (1 week ago)
 - [devtooligan/awesome-ascii-art](https://github.com/devtooligan/awesome-ascii-art) - A curated list of resources and examples of ASCII Art (1 week ago)
 - [System64fumo/syshud](https://github.com/System64fumo/syshud) - Simple heads up display written in gtkmm 4 (1 week ago)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (2 weeks ago)
-- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组 (2 weeks ago)
-- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
