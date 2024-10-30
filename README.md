@@ -22,16 +22,16 @@
 
 #### ⭐ Recent Stars
 
-- [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly. (2 days ago)
-- [niraj998/dotfiles](https://github.com/niraj998/dotfiles) - Collection of my dotfiles (2 days ago)
-- [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box. (4 days ago)
+- [itdoginfo/domain-routing-openwrt](https://github.com/itdoginfo/domain-routing-openwrt) - Automatic configuration of Openwrt router for routing by domains. Ansible role and shell script (1 day ago)
+- [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly. (3 days ago)
+- [niraj998/dotfiles](https://github.com/niraj998/dotfiles) - Collection of my dotfiles (3 days ago)
+- [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box. (5 days ago)
 - [SenseUnit/dumbproxy](https://github.com/SenseUnit/dumbproxy) - Dumbest HTTP proxy ever (1 week ago)
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (1 week ago)
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps. (1 week ago)
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Application launcher similar to Rofi etc. . Wayland native. (2 weeks ago)
 - [devtooligan/awesome-ascii-art](https://github.com/devtooligan/awesome-ascii-art) - A curated list of resources and examples of ASCII Art (2 weeks ago)
 - [System64fumo/syshud](https://github.com/System64fumo/syshud) - Simple heads up display written in gtkmm 4 (2 weeks ago)
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
