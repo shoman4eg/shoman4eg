@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 
-- [ryanbradynd05/go-tmdb](https://github.com/ryanbradynd05/go-tmdb) - Golang Wrapper for TheMovieDB API (6 days ago)
+- [ryanbradynd05/go-tmdb](https://github.com/ryanbradynd05/go-tmdb) - Golang Wrapper for TheMovieDB API (1 week ago)
 - [itdoginfo/domain-routing-openwrt](https://github.com/itdoginfo/domain-routing-openwrt) - Automatic configuration of Openwrt router for routing by domains. Ansible role and shell script (1 week ago)
 - [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly. (1 week ago)
 - [niraj998/dotfiles](https://github.com/niraj998/dotfiles) - Collection of my dotfiles (1 week ago)
