@@ -26,10 +26,10 @@
 - [itdoginfo/domain-routing-openwrt](https://github.com/itdoginfo/domain-routing-openwrt) - Automatic configuration of Openwrt router for routing by domains. Ansible role and shell script (1 week ago)
 - [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly. (1 week ago)
 - [niraj998/dotfiles](https://github.com/niraj998/dotfiles) - Collection of my dotfiles (1 week ago)
-- [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box. (1 week ago)
+- [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box. (2 weeks ago)
 - [SenseUnit/dumbproxy](https://github.com/SenseUnit/dumbproxy) - Dumbest HTTP proxy ever (2 weeks ago)
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (2 weeks ago)
-- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps. (2 weeks ago)
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps. (3 weeks ago)
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Application launcher similar to Rofi etc. . Wayland native. (3 weeks ago)
 - [devtooligan/awesome-ascii-art](https://github.com/devtooligan/awesome-ascii-art) - A curated list of resources and examples of ASCII Art (3 weeks ago)
 
