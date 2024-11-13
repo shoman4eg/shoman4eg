@@ -22,8 +22,8 @@
 
 #### ⭐ Recent Stars
 
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB &amp; Elastic Search with Chat interface (4 days ago)
-- [ryanbradynd05/go-tmdb](https://github.com/ryanbradynd05/go-tmdb) - Golang Wrapper for TheMovieDB API (1 week ago)
+- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB &amp; Elastic Search with Chat interface (5 days ago)
+- [ryanbradynd05/go-tmdb](https://github.com/ryanbradynd05/go-tmdb) - Golang Wrapper for TheMovieDB API (2 weeks ago)
 - [itdoginfo/domain-routing-openwrt](https://github.com/itdoginfo/domain-routing-openwrt) - Automatic configuration of Openwrt router for routing by domains. Ansible role and shell script (2 weeks ago)
 - [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly. (2 weeks ago)
 - [niraj998/dotfiles](https://github.com/niraj998/dotfiles) - Collection of my dotfiles (2 weeks ago)
