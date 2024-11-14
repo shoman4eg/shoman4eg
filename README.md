@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB &amp; Elastic Search with Chat interface (5 days ago)
+- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB &amp; Elastic Search with Chat interface (6 days ago)
 - [ryanbradynd05/go-tmdb](https://github.com/ryanbradynd05/go-tmdb) - Golang Wrapper for TheMovieDB API (2 weeks ago)
 - [itdoginfo/domain-routing-openwrt](https://github.com/itdoginfo/domain-routing-openwrt) - Automatic configuration of Openwrt router for routing by domains. Ansible role and shell script (2 weeks ago)
 - [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly. (2 weeks ago)
@@ -31,7 +31,7 @@
 - [SenseUnit/dumbproxy](https://github.com/SenseUnit/dumbproxy) - Dumbest HTTP proxy ever (3 weeks ago)
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback (3 weeks ago)
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps. (3 weeks ago)
-- [abenz1267/walker](https://github.com/abenz1267/walker) - Application launcher similar to Rofi etc. . Wayland native. (4 weeks ago)
+- [abenz1267/walker](https://github.com/abenz1267/walker) - Application launcher similar to Rofi etc. . Wayland native. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
