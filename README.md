@@ -22,12 +22,12 @@
 
 #### ⭐ Recent Stars
 
-- [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework (3 days ago)
-- [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (5 days ago)
+- [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework (4 days ago)
+- [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (6 days ago)
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (1 week ago)
-- [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal &amp; external docs, built with Go &#43; EmberJS (1 week ago)
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0. (1 week ago)
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (1 week ago)
+- [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal &amp; external docs, built with Go &#43; EmberJS (2 weeks ago)
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0. (2 weeks ago)
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (2 weeks ago)
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support (2 weeks ago)
 - [sobolevn/dotfiles](https://github.com/sobolevn/dotfiles) - dotfiles for the developer happiness: macos, zsh, brew, vscode, python, minimalism (2 weeks ago)
 - [heroiclabs/hiro](https://github.com/heroiclabs/hiro) - The server interface for the Hiro game framework. (2 weeks ago)
