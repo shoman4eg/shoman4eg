@@ -22,7 +22,7 @@
 
 #### ⭐ Recent Stars
 
-- [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework (6 days ago)
+- [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework (1 week ago)
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (1 week ago)
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (2 weeks ago)
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal &amp; external docs, built with Go &#43; EmberJS (2 weeks ago)
