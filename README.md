@@ -31,7 +31,7 @@
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support (2 weeks ago)
 - [sobolevn/dotfiles](https://github.com/sobolevn/dotfiles) - dotfiles for the developer happiness: macos, zsh, brew, vscode, python, minimalism (2 weeks ago)
 - [heroiclabs/hiro](https://github.com/heroiclabs/hiro) - The server interface for the Hiro game framework. (3 weeks ago)
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB &amp; Elastic Search with Chat interface (4 weeks ago)
+- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB &amp; Elastic Search with Chat interface (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
