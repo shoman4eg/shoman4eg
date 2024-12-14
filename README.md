@@ -22,8 +22,8 @@
 
 #### ⭐ Recent Stars
 
-- [InspectorDidi/Hacking-Books](https://github.com/InspectorDidi/Hacking-Books) - Hacking Books (today)
-- [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework (1 week ago)
+- [InspectorDidi/Hacking-Books](https://github.com/InspectorDidi/Hacking-Books) - Hacking Books (1 day ago)
+- [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework (2 weeks ago)
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (2 weeks ago)
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (3 weeks ago)
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal &amp; external docs, built with Go &#43; EmberJS (3 weeks ago)
@@ -35,11 +35,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [alirezajavadigit](https://github.com/alirezajavadigit)
 - [kiri4tanker](https://github.com/kiri4tanker)
 - [flaviopavim](https://github.com/flaviopavim)
 - [standardgalactic](https://github.com/standardgalactic)
 - [zhouxinyu](https://github.com/zhouxinyu)
-- [Mokhdum709](https://github.com/Mokhdum709)
 
 
 #### 📫 Where to find me
