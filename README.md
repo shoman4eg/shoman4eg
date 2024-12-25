@@ -35,11 +35,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [nholuongut](https://github.com/nholuongut)
 - [alirezajavadigit](https://github.com/alirezajavadigit)
 - [kiri4tanker](https://github.com/kiri4tanker)
 - [flaviopavim](https://github.com/flaviopavim)
 - [standardgalactic](https://github.com/standardgalactic)
-- [zhouxinyu](https://github.com/zhouxinyu)
 
 
 #### 📫 Where to find me
