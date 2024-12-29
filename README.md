@@ -22,6 +22,8 @@
 
 #### ⭐ Recent Stars
 
+- [zrougamed/dynamic-notification-system](https://github.com/zrougamed/dynamic-notification-system) - A Go-based dynamic notification scheduler. Supports multi-channel notifications (Slack, Email, SMS, Webhook), flexible intervals, and database-driven job scheduling with execution logging. (today)
+- [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React (1 day ago)
 - [umputun/tg-spam](https://github.com/umputun/tg-spam) - Anti-spam bot for Telegram and general-purpose anti-spam library and server (1 week ago)
 - [mymmrac/telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Go (1 week ago)
 - [InspectorDidi/Hacking-Books](https://github.com/InspectorDidi/Hacking-Books) - Hacking Books (2 weeks ago)
@@ -30,16 +32,14 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (1 month ago)
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal &amp; external docs, built with Go &#43; EmberJS (1 month ago)
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0. (1 month ago)
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (1 month ago)
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
 - [nholuongut](https://github.com/nholuongut)
-- [alirezajavadigit](https://github.com/alirezajavadigit)
 - [kiri4tanker](https://github.com/kiri4tanker)
 - [flaviopavim](https://github.com/flaviopavim)
 - [standardgalactic](https://github.com/standardgalactic)
+- [zhouxinyu](https://github.com/zhouxinyu)
 
 
 #### 📫 Where to find me
