@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (5 months ago)
-- [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (5 months ago)
+- [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (6 months ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (6 months ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (1 year ago)
 
@@ -22,16 +22,16 @@
 
 #### ⭐ Recent Stars
 
-- [zrougamed/dynamic-notification-system](https://github.com/zrougamed/dynamic-notification-system) - A Go-based dynamic notification scheduler. Supports multi-channel notifications (Slack, Email, SMS, Webhook), flexible intervals, and database-driven job scheduling with execution logging. (today)
-- [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React (1 day ago)
-- [umputun/tg-spam](https://github.com/umputun/tg-spam) - Anti-spam bot for Telegram and general-purpose anti-spam library and server (1 week ago)
-- [mymmrac/telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Go (1 week ago)
+- [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler (1 day ago)
+- [zrougamed/dynamic-notification-system](https://github.com/zrougamed/dynamic-notification-system) - A Go-based dynamic notification scheduler. Supports multi-channel notifications (Slack, Email, SMS, Webhook), flexible intervals, and database-driven job scheduling with execution logging. (1 day ago)
+- [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React (2 days ago)
+- [umputun/tg-spam](https://github.com/umputun/tg-spam) - Anti-spam bot for Telegram and general-purpose anti-spam library and server (2 weeks ago)
+- [mymmrac/telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Go (2 weeks ago)
 - [InspectorDidi/Hacking-Books](https://github.com/InspectorDidi/Hacking-Books) - Hacking Books (2 weeks ago)
-- [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework (4 weeks ago)
+- [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework (1 month ago)
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (1 month ago)
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (1 month ago)
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal &amp; external docs, built with Go &#43; EmberJS (1 month ago)
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
