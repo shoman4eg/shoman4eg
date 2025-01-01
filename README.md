@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler (2 days ago)
-- [zrougamed/dynamic-notification-system](https://github.com/zrougamed/dynamic-notification-system) - A Go-based dynamic notification scheduler. Supports multi-channel notifications (Slack, Email, SMS, Webhook), flexible intervals, and database-driven job scheduling with execution logging. (2 days ago)
-- [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React (3 days ago)
+- [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler (3 days ago)
+- [zrougamed/dynamic-notification-system](https://github.com/zrougamed/dynamic-notification-system) - A Go-based dynamic notification scheduler. Supports multi-channel notifications (Slack, Email, SMS, Webhook), flexible intervals, and database-driven job scheduling with execution logging. (3 days ago)
+- [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React (4 days ago)
 - [umputun/tg-spam](https://github.com/umputun/tg-spam) - Anti-spam bot for Telegram and general-purpose anti-spam library and server (2 weeks ago)
 - [mymmrac/telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Go (2 weeks ago)
 - [InspectorDidi/Hacking-Books](https://github.com/InspectorDidi/Hacking-Books) - Hacking Books (2 weeks ago)
@@ -34,11 +34,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [bludnic](https://github.com/bludnic)
 - [nholuongut](https://github.com/nholuongut)
 - [kiri4tanker](https://github.com/kiri4tanker)
 - [flaviopavim](https://github.com/flaviopavim)
 - [standardgalactic](https://github.com/standardgalactic)
-- [zhouxinyu](https://github.com/zhouxinyu)
 
 
 #### 📫 Where to find me
