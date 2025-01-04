@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler (5 days ago)
-- [zrougamed/dynamic-notification-system](https://github.com/zrougamed/dynamic-notification-system) - A Go-based dynamic notification scheduler. Supports multi-channel notifications (Slack, Email, SMS, Webhook), flexible intervals, and database-driven job scheduling with execution logging. (5 days ago)
-- [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React (6 days ago)
+- [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler (6 days ago)
+- [zrougamed/dynamic-notification-system](https://github.com/zrougamed/dynamic-notification-system) - A Go-based dynamic notification scheduler. Supports multi-channel notifications (Slack, Email, SMS, Webhook), flexible intervals, and database-driven job scheduling with execution logging. (6 days ago)
+- [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React (1 week ago)
 - [umputun/tg-spam](https://github.com/umputun/tg-spam) - Anti-spam bot for Telegram and general-purpose anti-spam library and server (2 weeks ago)
 - [mymmrac/telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Go (2 weeks ago)
 - [InspectorDidi/Hacking-Books](https://github.com/InspectorDidi/Hacking-Books) - Hacking Books (3 weeks ago)
