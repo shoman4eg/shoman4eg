@@ -26,7 +26,7 @@
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React (1 week ago)
 - [umputun/tg-spam](https://github.com/umputun/tg-spam) - Anti-spam bot for Telegram and general-purpose anti-spam library and server (3 weeks ago)
 - [mymmrac/telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Go (3 weeks ago)
-- [InspectorDidi/Hacking-Books](https://github.com/InspectorDidi/Hacking-Books) - Hacking Books (3 weeks ago)
+- [InspectorDidi/Hacking-Books](https://github.com/InspectorDidi/Hacking-Books) - Hacking Books (4 weeks ago)
 - [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework (1 month ago)
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (1 month ago)
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (1 month ago)
