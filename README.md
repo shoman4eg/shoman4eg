@@ -21,13 +21,13 @@
 
 #### ⭐ Recent Stars
 
-- [a2insights/filament-saas-template](https://github.com/a2insights/filament-saas-template) - The purpose of this project is provide a simple way to create web aplications. We use Laravel framework with Filament Admin. (1 day ago)
-- [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler (1 week ago)
-- [zrougamed/dynamic-notification-system](https://github.com/zrougamed/dynamic-notification-system) - A Go-based dynamic notification scheduler. Supports multi-channel notifications (Slack, Email, SMS, Webhook), flexible intervals, and database-driven job scheduling with execution logging. (1 week ago)
+- [a2insights/filament-saas-template](https://github.com/a2insights/filament-saas-template) - The purpose of this project is provide a simple way to create web aplications. We use Laravel framework with Filament Admin. (2 days ago)
+- [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler (2 weeks ago)
+- [zrougamed/dynamic-notification-system](https://github.com/zrougamed/dynamic-notification-system) - A Go-based dynamic notification scheduler. Supports multi-channel notifications (Slack, Email, SMS, Webhook), flexible intervals, and database-driven job scheduling with execution logging. (2 weeks ago)
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React (2 weeks ago)
 - [umputun/tg-spam](https://github.com/umputun/tg-spam) - Anti-spam bot for Telegram and general-purpose anti-spam library and server (3 weeks ago)
 - [mymmrac/telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Go (3 weeks ago)
-- [InspectorDidi/Hacking-Books](https://github.com/InspectorDidi/Hacking-Books) - Hacking Books (4 weeks ago)
+- [InspectorDidi/Hacking-Books](https://github.com/InspectorDidi/Hacking-Books) - Hacking Books (1 month ago)
 - [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework (1 month ago)
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (1 month ago)
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (1 month ago)
