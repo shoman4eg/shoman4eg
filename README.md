@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [a2insights/filament-saas-template](https://github.com/a2insights/filament-saas-template) - The purpose of this project is provide a simple way to create web aplications. We use Laravel framework with Filament Admin. (3 days ago)
+- [a2insights/filament-saas-template](https://github.com/a2insights/filament-saas-template) - The purpose of this project is provide a simple way to create web aplications. We use Laravel framework with Filament Admin. (4 days ago)
 - [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler (2 weeks ago)
 - [zrougamed/dynamic-notification-system](https://github.com/zrougamed/dynamic-notification-system) - A Go-based dynamic notification scheduler. Supports multi-channel notifications (Slack, Email, SMS, Webhook), flexible intervals, and database-driven job scheduling with execution logging. (2 weeks ago)
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React (2 weeks ago)
