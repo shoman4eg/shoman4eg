@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (5 months ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (6 months ago)
 - [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (6 months ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (6 months ago)
 
@@ -21,8 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to machine code. (2 days ago)
-- [jkaninda/goma-gateway](https://github.com/jkaninda/goma-gateway) - Goma Gateway - Lightweight High-Performance Declarative API Gateway Management with middlewares (2 days ago)
+- [Mdhesari/kian-quiz-golang-game](https://github.com/Mdhesari/kian-quiz-golang-game) - KianQuiz Game. (1 day ago)
+- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to statically linked binaries. (3 days ago)
+- [jkaninda/goma-gateway](https://github.com/jkaninda/goma-gateway) - Goma Gateway - Lightweight High-Performance Declarative API Gateway Management with middlewares (3 days ago)
 - [a2insights/filament-saas-template](https://github.com/a2insights/filament-saas-template) - The purpose of this project is provide a simple way to create web aplications. We use Laravel framework with Filament Admin. (1 week ago)
 - [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler (3 weeks ago)
 - [zrougamed/dynamic-notification-system](https://github.com/zrougamed/dynamic-notification-system) - A Go-based dynamic notification scheduler. Supports multi-channel notifications (Slack, Email, SMS, Webhook), flexible intervals, and database-driven job scheduling with execution logging. (3 weeks ago)
@@ -30,7 +31,6 @@
 - [umputun/tg-spam](https://github.com/umputun/tg-spam) - Anti-spam bot for Telegram and general-purpose anti-spam library and server (1 month ago)
 - [mymmrac/telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Go (1 month ago)
 - [InspectorDidi/Hacking-Books](https://github.com/InspectorDidi/Hacking-Books) - Hacking Books (1 month ago)
-- [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
