@@ -4,7 +4,7 @@
 
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (6 months ago)
 - [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (6 months ago)
-- [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (6 months ago)
+- [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -21,10 +21,10 @@
 
 #### ⭐ Recent Stars
 
-- [el-mike/restrict](https://github.com/el-mike/restrict) - RBAC/ABAC authorization library for Go. (1 day ago)
-- [Mdhesari/kian-quiz-golang-game](https://github.com/Mdhesari/kian-quiz-golang-game) - KianQuiz Game. (2 days ago)
-- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to statically linked binaries. (4 days ago)
-- [jkaninda/goma-gateway](https://github.com/jkaninda/goma-gateway) - Goma Gateway - Lightweight High-Performance Declarative API Gateway Management with middlewares (4 days ago)
+- [el-mike/restrict](https://github.com/el-mike/restrict) - RBAC/ABAC authorization library for Go. (2 days ago)
+- [Mdhesari/kian-quiz-golang-game](https://github.com/Mdhesari/kian-quiz-golang-game) - KianQuiz Game. (3 days ago)
+- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to statically linked binaries. (5 days ago)
+- [jkaninda/goma-gateway](https://github.com/jkaninda/goma-gateway) - Goma Gateway - Lightweight High-Performance Declarative API Gateway Management with middlewares (5 days ago)
 - [a2insights/filament-saas-template](https://github.com/a2insights/filament-saas-template) - The purpose of this project is provide a simple way to create web aplications. We use Laravel framework with Filament Admin. (1 week ago)
 - [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler (3 weeks ago)
 - [zrougamed/dynamic-notification-system](https://github.com/zrougamed/dynamic-notification-system) - A Go-based dynamic notification scheduler. Supports multi-channel notifications (Slack, Email, SMS, Webhook), flexible intervals, and database-driven job scheduling with execution logging. (3 weeks ago)
