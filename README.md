@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek wrapper written for Go supporting R-1, Chat V3, and Coder. (2 days ago)
-- [mfreeman451/serviceradar](https://github.com/mfreeman451/serviceradar) - simple golang-based home network monitoring and network recon tool (5 days ago)
+- [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek wrapper written for Go supporting R-1, Chat V3, and Coder. (3 days ago)
+- [mfreeman451/serviceradar](https://github.com/mfreeman451/serviceradar) - simple golang-based home network monitoring and network recon tool (6 days ago)
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (1 week ago)
 - [el-mike/restrict](https://github.com/el-mike/restrict) - RBAC/ABAC authorization library for Go. (1 week ago)
 - [Mdhesari/kian-quiz-golang-game](https://github.com/Mdhesari/kian-quiz-golang-game) - KianQuiz Game. (1 week ago)
