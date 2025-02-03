@@ -21,10 +21,10 @@
 
 #### ⭐ Recent Stars
 
-- [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek wrapper written for Go supporting R-1, Chat V3, and Coder. (4 days ago)
+- [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek wrapper written for Go supporting R-1, Chat V3, and Coder. (5 days ago)
 - [mfreeman451/serviceradar](https://github.com/mfreeman451/serviceradar) - simple golang-based home network monitoring and network recon tool (1 week ago)
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (1 week ago)
-- [el-mike/restrict](https://github.com/el-mike/restrict) - RBAC/ABAC authorization library for Go. (1 week ago)
+- [el-mike/restrict](https://github.com/el-mike/restrict) - RBAC/ABAC authorization library for Go. (2 weeks ago)
 - [Mdhesari/kian-quiz-golang-game](https://github.com/Mdhesari/kian-quiz-golang-game) - KianQuiz Game. (2 weeks ago)
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries. (2 weeks ago)
 - [jkaninda/goma-gateway](https://github.com/jkaninda/goma-gateway) - Goma Gateway - Lightweight High-Performance Declarative API Gateway Management with middlewares (2 weeks ago)
