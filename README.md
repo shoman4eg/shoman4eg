@@ -21,7 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek wrapper written for Go supporting R-1, Chat V3, and Coder. (5 days ago)
+- [lakasir/lakasir](https://github.com/lakasir/lakasir) - POS open-source, simple things just need simple solutions (1 day ago)
+- [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek wrapper written for Go supporting R-1, Chat V3, and Coder. (6 days ago)
 - [mfreeman451/serviceradar](https://github.com/mfreeman451/serviceradar) - simple golang-based home network monitoring and network recon tool (1 week ago)
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (1 week ago)
 - [el-mike/restrict](https://github.com/el-mike/restrict) - RBAC/ABAC authorization library for Go. (2 weeks ago)
@@ -30,15 +31,14 @@
 - [jkaninda/goma-gateway](https://github.com/jkaninda/goma-gateway) - Goma Gateway - Lightweight High-Performance Declarative API Gateway Management with middlewares (2 weeks ago)
 - [a2insights/filament-saas-template](https://github.com/a2insights/filament-saas-template) - The purpose of this project is provide a simple way to create web aplications. We use Laravel framework with Filament Admin. (3 weeks ago)
 - [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler (1 month ago)
-- [zrougamed/dynamic-notification-system](https://github.com/zrougamed/dynamic-notification-system) - A Go-based dynamic notification scheduler. Supports multi-channel notifications (Slack, Email, SMS, Webhook), flexible intervals, and database-driven job scheduling with execution logging. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [DevImproject](https://github.com/DevImproject)
 - [ipqwery](https://github.com/ipqwery)
 - [XiaomingX](https://github.com/XiaomingX)
 - [bludnic](https://github.com/bludnic)
 - [nholuongut](https://github.com/nholuongut)
-- [kiri4tanker](https://github.com/kiri4tanker)
 
 
 #### 📫 Where to find me
