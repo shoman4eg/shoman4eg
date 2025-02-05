@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [lakasir/lakasir](https://github.com/lakasir/lakasir) - POS open-source, simple things just need simple solutions (1 day ago)
-- [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek wrapper written for Go supporting R-1, Chat V3, and Coder. (6 days ago)
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 (1 day ago)
+- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (1 day ago)
+- [lakasir/lakasir](https://github.com/lakasir/lakasir) - POS open-source, simple things just need simple solutions (2 days ago)
+- [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek wrapper written for Go supporting R-1, Chat V3, and Coder. (1 week ago)
 - [mfreeman451/serviceradar](https://github.com/mfreeman451/serviceradar) - simple golang-based home network monitoring and network recon tool (1 week ago)
-- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (1 week ago)
+- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (2 weeks ago)
 - [el-mike/restrict](https://github.com/el-mike/restrict) - RBAC/ABAC authorization library for Go. (2 weeks ago)
 - [Mdhesari/kian-quiz-golang-game](https://github.com/Mdhesari/kian-quiz-golang-game) - KianQuiz Game. (2 weeks ago)
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries. (2 weeks ago)
 - [jkaninda/goma-gateway](https://github.com/jkaninda/goma-gateway) - Goma Gateway - Lightweight High-Performance Declarative API Gateway Management with middlewares (2 weeks ago)
-- [a2insights/filament-saas-template](https://github.com/a2insights/filament-saas-template) - The purpose of this project is provide a simple way to create web aplications. We use Laravel framework with Filament Admin. (3 weeks ago)
-- [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
