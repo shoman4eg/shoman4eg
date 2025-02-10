@@ -21,24 +21,24 @@
 
 #### ⭐ Recent Stars
 
-- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (3 days ago)
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 (5 days ago)
-- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (5 days ago)
-- [lakasir/lakasir](https://github.com/lakasir/lakasir) - POS open-source, simple things just need simple solutions (6 days ago)
+- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (4 days ago)
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 (6 days ago)
+- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (6 days ago)
+- [lakasir/lakasir](https://github.com/lakasir/lakasir) - POS open-source, simple things just need simple solutions (1 week ago)
 - [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek client written for Go supporting R-1, Chat V3, and Coder. Supporte providers like Azure, OpenRouter and others.  (1 week ago)
 - [mfreeman451/serviceradar](https://github.com/mfreeman451/serviceradar) - simple golang-based home network monitoring and network recon tool (2 weeks ago)
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (2 weeks ago)
-- [el-mike/restrict](https://github.com/el-mike/restrict) - RBAC/ABAC authorization library for Go. (2 weeks ago)
+- [el-mike/restrict](https://github.com/el-mike/restrict) - RBAC/ABAC authorization library for Go. (3 weeks ago)
 - [Mdhesari/kian-quiz-golang-game](https://github.com/Mdhesari/kian-quiz-golang-game) - KianQuiz Game. (3 weeks ago)
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
 - [DevImproject](https://github.com/DevImproject)
-- [ipqwery](https://github.com/ipqwery)
 - [XiaomingX](https://github.com/XiaomingX)
 - [bludnic](https://github.com/bludnic)
 - [nholuongut](https://github.com/nholuongut)
+- [kiri4tanker](https://github.com/kiri4tanker)
 
 
 #### 📫 Where to find me
