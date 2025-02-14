@@ -30,7 +30,7 @@
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (3 weeks ago)
 - [el-mike/restrict](https://github.com/el-mike/restrict) - RBAC/ABAC authorization library for Go. (3 weeks ago)
 - [Mdhesari/kian-quiz-golang-game](https://github.com/Mdhesari/kian-quiz-golang-game) - KianQuiz Game. (3 weeks ago)
-- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries. (3 weeks ago)
+- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
