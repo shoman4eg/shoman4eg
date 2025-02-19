@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (6 months ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (7 months ago)
 - [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (7 months ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (7 months ago)
 
@@ -25,10 +25,10 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 (2 weeks ago)
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (2 weeks ago)
 - [lakasir/lakasir](https://github.com/lakasir/lakasir) - POS open-source, simple things just need simple solutions (2 weeks ago)
-- [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek client written for Go supporting R-1, Chat V3, and Coder. Supporte providers like Azure, OpenRouter and others.  (2 weeks ago)
+- [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek client written for Go supporting R-1, Chat V3, and Coder. Supporte providers like Azure, OpenRouter and others.  (3 weeks ago)
 - [mfreeman451/serviceradar](https://github.com/mfreeman451/serviceradar) - simple golang-based home network monitoring and surveillance tool (3 weeks ago)
-- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (3 weeks ago)
-- [el-mike/restrict](https://github.com/el-mike/restrict) - RBAC/ABAC authorization library for Go. (4 weeks ago)
+- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (4 weeks ago)
+- [el-mike/restrict](https://github.com/el-mike/restrict) - RBAC/ABAC authorization library for Go. (1 month ago)
 - [Mdhesari/kian-quiz-golang-game](https://github.com/Mdhesari/kian-quiz-golang-game) - KianQuiz Game. (1 month ago)
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries. (1 month ago)
 
