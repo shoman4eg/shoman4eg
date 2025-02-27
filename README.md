@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and visualize your data with any MySQL-compatible BI tool. (2 days ago)
-- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (2 weeks ago)
+- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and visualize your data with any MySQL-compatible BI tool. (3 days ago)
+- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (3 weeks ago)
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 (3 weeks ago)
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (3 weeks ago)
 - [lakasir/lakasir](https://github.com/lakasir/lakasir) - POS open-source, simple things just need simple solutions (3 weeks ago)
