@@ -21,7 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and visualize your data with any MySQL-compatible BI tool. (4 days ago)
+- [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers  (1 day ago)
+- [rilldata/rill](https://github.com/rilldata/rill) - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code. (1 day ago)
+- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and visualize your data with any MySQL-compatible BI tool. (5 days ago)
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (3 weeks ago)
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 (3 weeks ago)
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (3 weeks ago)
@@ -29,8 +31,6 @@
 - [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek client written for Go supporting R-1, Chat V3, and Coder. Supports providers like Azure, OpenRouter and others.  (1 month ago)
 - [carverauto/serviceradar](https://github.com/carverauto/serviceradar) - simple golang-based home network monitoring and surveillance tool (1 month ago)
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! (1 month ago)
-- [el-mike/restrict](https://github.com/el-mike/restrict) - RBAC/ABAC authorization library for Go. (1 month ago)
-- [Mdhesari/kian-quiz-golang-game](https://github.com/Mdhesari/kian-quiz-golang-game) - KianQuiz Game. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
