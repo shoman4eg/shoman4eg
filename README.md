@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [BrownNPC/simple-ecs](https://github.com/BrownNPC/simple-ecs) - dead-simple library to write game systems in Go (1 day ago)
-- [pdf/hyprpanel](https://github.com/pdf/hyprpanel) - An opinionated panel/shell for the Hyprland compositor. (6 days ago)
+- [BrownNPC/simple-ecs](https://github.com/BrownNPC/simple-ecs) - dead-simple library to write game systems in Go (2 days ago)
+- [pdf/hyprpanel](https://github.com/pdf/hyprpanel) - An opinionated panel/shell for the Hyprland compositor. (1 week ago)
 - [Devpro-Software/licensify](https://github.com/Devpro-Software/licensify) - Digital License Signatures &amp; Verification (1 week ago)
 - [steaks/leo-query](https://github.com/steaks/leo-query) - A simple library to connect async queries to Zustand stores. (1 week ago)
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (1 week ago)
