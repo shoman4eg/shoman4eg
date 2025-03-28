@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [BrownNPC/simple-ecs](https://github.com/BrownNPC/simple-ecs) - dead-simple library to write game systems in Go (3 days ago)
+- [BrownNPC/simple-ecs](https://github.com/BrownNPC/simple-ecs) - dead-simple library to write game systems in Go (4 days ago)
 - [pdf/hyprpanel](https://github.com/pdf/hyprpanel) - An opinionated panel/shell for the Hyprland compositor. (1 week ago)
 - [Devpro-Software/licensify](https://github.com/Devpro-Software/licensify) - Digital License Signatures &amp; Verification (1 week ago)
 - [steaks/leo-query](https://github.com/steaks/leo-query) - A simple library to connect async queries to Zustand stores. (1 week ago)
@@ -30,7 +30,7 @@
 - [levnikmyskin/hyprland-virtual-desktops](https://github.com/levnikmyskin/hyprland-virtual-desktops) - A plugin for the Hyprland compositor, implementing virtual-desktop functionality. (2 weeks ago)
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (2 weeks ago)
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. (3 weeks ago)
-- [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers  (3 weeks ago)
+- [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers  (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
