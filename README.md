@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [byawitz/ggh](https://github.com/byawitz/ggh) - Recall your SSH sessions (also search your SSH config file) (2 days ago)
+- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services. (1 day ago)
+- [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150&#43; open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week. (1 day ago)
+- [byawitz/ggh](https://github.com/byawitz/ggh) - Recall your SSH sessions (also search your SSH config file) (3 days ago)
 - [BrownNPC/simple-ecs](https://github.com/BrownNPC/simple-ecs) - dead-simple library to write game systems in Go (1 week ago)
 - [pdf/hyprpanel](https://github.com/pdf/hyprpanel) - An opinionated panel/shell for the Hyprland compositor. (1 week ago)
 - [Devpro-Software/licensify](https://github.com/Devpro-Software/licensify) - Digital License Signatures &amp; Verification (2 weeks ago)
 - [steaks/leo-query](https://github.com/steaks/leo-query) - A simple library to connect async queries to Zustand stores. (2 weeks ago)
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (2 weeks ago)
-- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. (2 weeks ago)
-- [levnikmyskin/hyprland-virtual-desktops](https://github.com/levnikmyskin/hyprland-virtual-desktops) - A plugin for the Hyprland compositor, implementing virtual-desktop functionality. (2 weeks ago)
-- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (2 weeks ago)
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. (3 weeks ago)
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. (3 weeks ago)
+- [levnikmyskin/hyprland-virtual-desktops](https://github.com/levnikmyskin/hyprland-virtual-desktops) - A plugin for the Hyprland compositor, implementing virtual-desktop functionality. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
