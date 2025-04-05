@@ -21,10 +21,10 @@
 
 #### ⭐ Recent Stars
 
-- [TiagoSilvaPereira/vemto-template-engine](https://github.com/TiagoSilvaPereira/vemto-template-engine) - A template engine for code and text generation (2 days ago)
-- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services. (4 days ago)
-- [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150&#43; open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week. (4 days ago)
-- [byawitz/ggh](https://github.com/byawitz/ggh) - Recall your SSH sessions (also search your SSH config file) (6 days ago)
+- [TiagoSilvaPereira/vemto-template-engine](https://github.com/TiagoSilvaPereira/vemto-template-engine) - A template engine for code and text generation (3 days ago)
+- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services. (5 days ago)
+- [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150&#43; open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week. (5 days ago)
+- [byawitz/ggh](https://github.com/byawitz/ggh) - Recall your SSH sessions (also search your SSH config file) (1 week ago)
 - [BrownNPC/simple-ecs](https://github.com/BrownNPC/simple-ecs) - dead-simple library to write game systems in Go (1 week ago)
 - [pdf/hyprpanel](https://github.com/pdf/hyprpanel) - An opinionated panel/shell for the Hyprland compositor. (2 weeks ago)
 - [Devpro-Software/licensify](https://github.com/Devpro-Software/licensify) - Digital License Signatures &amp; Verification (2 weeks ago)
