@@ -21,14 +21,14 @@
 
 #### ⭐ Recent Stars
 
-- [TiagoSilvaPereira/vemto-template-engine](https://github.com/TiagoSilvaPereira/vemto-template-engine) - A template engine for code and text generation (4 days ago)
-- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services. (6 days ago)
-- [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150&#43; open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week. (6 days ago)
+- [TiagoSilvaPereira/vemto-template-engine](https://github.com/TiagoSilvaPereira/vemto-template-engine) - A template engine for code and text generation (5 days ago)
+- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services. (1 week ago)
+- [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150&#43; open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week. (1 week ago)
 - [byawitz/ggh](https://github.com/byawitz/ggh) - Recall your SSH sessions (also search your SSH config file) (1 week ago)
-- [BrownNPC/simple-ecs](https://github.com/BrownNPC/simple-ecs) - dead-simple library to write game systems in Go (1 week ago)
+- [BrownNPC/simple-ecs](https://github.com/BrownNPC/simple-ecs) - dead-simple library to write game systems in Go (2 weeks ago)
 - [pdf/hyprpanel](https://github.com/pdf/hyprpanel) - An opinionated panel/shell for the Hyprland compositor. (2 weeks ago)
-- [Devpro-Software/licensify](https://github.com/Devpro-Software/licensify) - Digital License Signatures &amp; Verification (2 weeks ago)
-- [steaks/leo-query](https://github.com/steaks/leo-query) - A simple library to connect async queries to Zustand stores. (2 weeks ago)
+- [Devpro-Software/licensify](https://github.com/Devpro-Software/licensify) - Digital License Signatures &amp; Verification (3 weeks ago)
+- [steaks/leo-query](https://github.com/steaks/leo-query) - A simple library to connect async queries to Zustand stores. (3 weeks ago)
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (3 weeks ago)
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. (3 weeks ago)
 
