@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (1 day ago)
-- [gleicon/browserhttp](https://github.com/gleicon/browserhttp) - A chrome backed drop in http client for Go (2 days ago)
+- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (2 days ago)
+- [gleicon/browserhttp](https://github.com/gleicon/browserhttp) - A chrome backed drop in http client for Go (3 days ago)
 - [TiagoSilvaPereira/vemto-template-engine](https://github.com/TiagoSilvaPereira/vemto-template-engine) - A template engine for code and text generation (1 week ago)
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services. (1 week ago)
 - [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150&#43; open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week. (1 week ago)
