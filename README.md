@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) -  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容 (2 days ago)
-- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (4 days ago)
-- [gleicon/browserhttp](https://github.com/gleicon/browserhttp) - A chrome backed drop in http client for Go (5 days ago)
+- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) -  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容 (3 days ago)
+- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (5 days ago)
+- [gleicon/browserhttp](https://github.com/gleicon/browserhttp) - A chrome backed drop in http client for Go (6 days ago)
 - [TiagoSilvaPereira/vemto-template-engine](https://github.com/TiagoSilvaPereira/vemto-template-engine) - A template engine for code and text generation (1 week ago)
 - [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services. (1 week ago)
 - [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150&#43; open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week. (1 week ago)
