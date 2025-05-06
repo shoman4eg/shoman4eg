@@ -21,14 +21,14 @@
 
 #### ⭐ Recent Stars
 
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (6 days ago)
-- [jahvon/flow](https://github.com/jahvon/flow) - Interactive CLI automation that flows with you. (6 days ago)
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (1 week ago)
+- [jahvon/flow](https://github.com/jahvon/flow) - Interactive CLI automation that flows with you. (1 week ago)
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse &amp; keyboard sharing via LAN (2 weeks ago)
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer. (2 weeks ago)
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11. (2 weeks ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (2 weeks ago)
 - [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) -  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容 (3 weeks ago)
-- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (3 weeks ago)
+- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics (4 weeks ago)
 - [gleicon/browserhttp](https://github.com/gleicon/browserhttp) - A chrome backed drop in http client for Go (4 weeks ago)
 - [TiagoSilvaPereira/vemto-template-engine](https://github.com/TiagoSilvaPereira/vemto-template-engine) - A template engine for code and text generation (1 month ago)
 
