@@ -21,10 +21,10 @@
 
 #### ⭐ Recent Stars
 
-- [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer &amp; debugger for local Go web development. (1 day ago)
-- [hookdeck/outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure (1 day ago)
-- [hashicorp/yamux](https://github.com/hashicorp/yamux) - Golang connection multiplexing library (6 days ago)
-- [aceld/zinx](https://github.com/aceld/zinx) - A lightweight concurrent server framework based on Golang. (6 days ago)
+- [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer &amp; debugger for local Go web development. (2 days ago)
+- [hookdeck/outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure (2 days ago)
+- [hashicorp/yamux](https://github.com/hashicorp/yamux) - Golang connection multiplexing library (1 week ago)
+- [aceld/zinx](https://github.com/aceld/zinx) - A lightweight concurrent server framework based on Golang. (1 week ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (2 weeks ago)
 - [jahvon/flow](https://github.com/jahvon/flow) - Interactive CLI automation that flows with you. (2 weeks ago)
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse &amp; keyboard sharing via LAN (3 weeks ago)
