@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer &amp; debugger for local Go web development. (3 days ago)
-- [hookdeck/outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure (3 days ago)
+- [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer &amp; debugger for local Go web development. (4 days ago)
+- [hookdeck/outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure (4 days ago)
 - [hashicorp/yamux](https://github.com/hashicorp/yamux) - Golang connection multiplexing library (1 week ago)
 - [aceld/zinx](https://github.com/aceld/zinx) - A lightweight concurrent server framework based on Golang. (1 week ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (2 weeks ago)
