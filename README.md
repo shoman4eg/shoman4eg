@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 week ago)
-- [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (10 months ago)
+- [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (11 months ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (11 months ago)
 
 #### 🌱 My latest projects
@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
+- [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS (1 day ago)
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux (1 week ago)
 - [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer &amp; debugger for local Go web development. (2 weeks ago)
 - [hookdeck/outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure (2 weeks ago)
 - [hashicorp/yamux](https://github.com/hashicorp/yamux) - Golang connection multiplexing library (3 weeks ago)
 - [aceld/zinx](https://github.com/aceld/zinx) - A lightweight concurrent server framework based on Golang. (3 weeks ago)
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (4 weeks ago)
-- [jahvon/flow](https://github.com/jahvon/flow) - Interactive CLI automation that flows with you. (4 weeks ago)
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (1 month ago)
+- [jahvon/flow](https://github.com/jahvon/flow) - Interactive CLI automation that flows with you. (1 month ago)
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse &amp; keyboard sharing via LAN (1 month ago)
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer. (1 month ago)
-- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
