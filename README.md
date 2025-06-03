@@ -21,8 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS (5 days ago)
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux (1 week ago)
+- [stephenh/ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript (today)
+- [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS (6 days ago)
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux (2 weeks ago)
 - [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer &amp; debugger for local Go web development. (3 weeks ago)
 - [hookdeck/outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure (3 weeks ago)
 - [hashicorp/yamux](https://github.com/hashicorp/yamux) - Golang connection multiplexing library (3 weeks ago)
@@ -30,7 +31,6 @@
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (1 month ago)
 - [jahvon/flow](https://github.com/jahvon/flow) - Interactive CLI automation that flows with you. (1 month ago)
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse &amp; keyboard sharing via LAN (1 month ago)
-- [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
