@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 week ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 weeks ago)
 - [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (11 months ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (11 months ago)
 
@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [stephenh/ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript (today)
-- [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS (6 days ago)
+- [dontsovcmc/waterius](https://github.com/dontsovcmc/waterius) - Передача показаний воды по Wi-Fi. Watermeter Wi-Fi transmitter. (1 day ago)
+- [DieMetRik/mercury_esphome](https://github.com/DieMetRik/mercury_esphome) -  (1 day ago)
+- [stephenh/ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript (1 day ago)
+- [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS (1 week ago)
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux (2 weeks ago)
 - [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer &amp; debugger for local Go web development. (3 weeks ago)
 - [hookdeck/outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure (3 weeks ago)
-- [hashicorp/yamux](https://github.com/hashicorp/yamux) - Golang connection multiplexing library (3 weeks ago)
-- [aceld/zinx](https://github.com/aceld/zinx) - A lightweight concurrent server framework based on Golang. (3 weeks ago)
+- [hashicorp/yamux](https://github.com/hashicorp/yamux) - Golang connection multiplexing library (4 weeks ago)
+- [aceld/zinx](https://github.com/aceld/zinx) - A lightweight concurrent server framework based on Golang. (4 weeks ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (1 month ago)
-- [jahvon/flow](https://github.com/jahvon/flow) - Interactive CLI automation that flows with you. (1 month ago)
-- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse &amp; keyboard sharing via LAN (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
