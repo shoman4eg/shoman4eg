@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 weeks ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (3 weeks ago)
 - [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (11 months ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (11 months ago)
 
@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [bitrix24/env-docker](https://github.com/bitrix24/env-docker) - Контейнеры для Битрикс (4 days ago)
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (6 days ago)
-- [itsManjeet/rlxos](https://github.com/itsManjeet/rlxos) - A truly modern implementation of GNU/Linux distribution (6 days ago)
+- [ludoguenet/laravel-zap](https://github.com/ludoguenet/laravel-zap) - Lightning-fast schedule management for Laravel (1 day ago)
+- [bitrix-tools/env-docker](https://github.com/bitrix-tools/env-docker) - Контейнеры для Битрикс (5 days ago)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 week ago)
+- [itsManjeet/rlxos](https://github.com/itsManjeet/rlxos) - A truly modern implementation of GNU/Linux distribution (1 week ago)
 - [dontsovcmc/waterius](https://github.com/dontsovcmc/waterius) - Передача показаний воды по Wi-Fi. Watermeter Wi-Fi transmitter. (1 week ago)
 - [DieMetRik/mercury_esphome](https://github.com/DieMetRik/mercury_esphome) -  (1 week ago)
 - [stephenh/ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript (1 week ago)
-- [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS (1 week ago)
+- [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS (2 weeks ago)
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux (3 weeks ago)
-- [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer &amp; debugger for local Go web development. (4 weeks ago)
-- [hookdeck/outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure (4 weeks ago)
+- [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer &amp; debugger for local Go web development. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
