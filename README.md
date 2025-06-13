@@ -21,8 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [ludoguenet/laravel-zap](https://github.com/ludoguenet/laravel-zap) - Lightning-fast schedule management for Laravel (2 days ago)
-- [bitrix-tools/env-docker](https://github.com/bitrix-tools/env-docker) - Контейнеры для Битрикс (6 days ago)
+- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (1 day ago)
+- [ludoguenet/laravel-zap](https://github.com/ludoguenet/laravel-zap) - Lightning-fast schedule management for Laravel (3 days ago)
+- [bitrix-tools/env-docker](https://github.com/bitrix-tools/env-docker) - Контейнеры для Битрикс (1 week ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 week ago)
 - [itsManjeet/rlxos](https://github.com/itsManjeet/rlxos) - A truly modern implementation of GNU/Linux distribution (1 week ago)
 - [dontsovcmc/waterius](https://github.com/dontsovcmc/waterius) - Передача показаний воды по Wi-Fi. Watermeter Wi-Fi transmitter. (1 week ago)
@@ -30,7 +31,6 @@
 - [stephenh/ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript (1 week ago)
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS (2 weeks ago)
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux (3 weeks ago)
-- [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer &amp; debugger for local Go web development. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
