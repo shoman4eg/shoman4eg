@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [chertik77/TaskPro-frontend](https://github.com/chertik77/TaskPro-frontend) - The ultimate task management tool for individuals. Organize your tasks, set deadlines, and track your progress. Get more done with TaskPro! (2 days ago)
-- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (3 days ago)
-- [ludoguenet/laravel-zap](https://github.com/ludoguenet/laravel-zap) - Lightning-fast schedule management for Laravel (5 days ago)
+- [chertik77/TaskPro-frontend](https://github.com/chertik77/TaskPro-frontend) - The ultimate task management tool for individuals. Organize your tasks, set deadlines, and track your progress. Get more done with TaskPro! (3 days ago)
+- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (4 days ago)
+- [ludoguenet/laravel-zap](https://github.com/ludoguenet/laravel-zap) - Lightning-fast schedule management for Laravel (6 days ago)
 - [bitrix-tools/env-docker](https://github.com/bitrix-tools/env-docker) - Контейнеры для Битрикс (1 week ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (1 week ago)
 - [itsManjeet/rlxos](https://github.com/itsManjeet/rlxos) - A truly modern implementation of GNU/Linux distribution (1 week ago)
