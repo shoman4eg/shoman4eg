@@ -21,8 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [chertik77/TaskPro-frontend](https://github.com/chertik77/TaskPro-frontend) - The ultimate task management tool for individuals. Organize your tasks, set deadlines, and track your progress. Get more done with TaskPro! (5 days ago)
-- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (6 days ago)
+- [JiveGroup/gFly](https://github.com/JiveGroup/gFly) - Laravel inspired web framework written in Go (1 day ago)
+- [chertik77/TaskPro-frontend](https://github.com/chertik77/TaskPro-frontend) - The ultimate task management tool for individuals. Organize your tasks, set deadlines, and track your progress. Get more done with TaskPro! (6 days ago)
+- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (1 week ago)
 - [ludoguenet/laravel-zap](https://github.com/ludoguenet/laravel-zap) - Lightning-fast schedule management for Laravel (1 week ago)
 - [bitrix-tools/env-docker](https://github.com/bitrix-tools/env-docker) - Контейнеры для Битрикс (1 week ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (2 weeks ago)
@@ -30,7 +31,6 @@
 - [dontsovcmc/waterius](https://github.com/dontsovcmc/waterius) - Передача показаний воды по Wi-Fi. Watermeter Wi-Fi transmitter. (2 weeks ago)
 - [DieMetRik/mercury_esphome](https://github.com/DieMetRik/mercury_esphome) -  (2 weeks ago)
 - [stephenh/ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript (2 weeks ago)
-- [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
