@@ -4,7 +4,7 @@
 
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 month ago)
 - [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (11 months ago)
-- [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (11 months ago)
+- [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [JiveGroup/gFly](https://github.com/JiveGroup/gFly) - Laravel inspired web framework written in Go (2 days ago)
+- [JiveGroup/gFly](https://github.com/JiveGroup/gFly) - Laravel inspired web framework written in Go (3 days ago)
 - [chertik77/TaskPro-frontend](https://github.com/chertik77/TaskPro-frontend) - The ultimate task management tool for individuals. Organize your tasks, set deadlines, and track your progress. Get more done with TaskPro! (1 week ago)
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (1 week ago)
 - [ludoguenet/laravel-zap](https://github.com/ludoguenet/laravel-zap) - Lightning-fast schedule management for Laravel (1 week ago)
