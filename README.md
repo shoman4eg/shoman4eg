@@ -21,11 +21,11 @@
 
 #### ⭐ Recent Stars
 
-- [slacky1965/watermeter_zed](https://github.com/slacky1965/watermeter_zed) - Watermeter ZigBee TLSR8258 (today)
-- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. (3 days ago)
+- [slacky1965/watermeter_zed](https://github.com/slacky1965/watermeter_zed) - Watermeter ZigBee TLSR8258 (1 day ago)
+- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. (4 days ago)
 - [JiveGroup/gFly](https://github.com/JiveGroup/gFly) - Laravel inspired web framework written in Go (1 week ago)
 - [chertik77/TaskPro-frontend](https://github.com/chertik77/TaskPro-frontend) - The ultimate task management tool for individuals. Organize your tasks, set deadlines, and track your progress. Get more done with TaskPro! (1 week ago)
-- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (1 week ago)
+- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (2 weeks ago)
 - [ludoguenet/laravel-zap](https://github.com/ludoguenet/laravel-zap) - Lightning-fast schedule management for Laravel (2 weeks ago)
 - [bitrix-tools/env-docker](https://github.com/bitrix-tools/env-docker) - Контейнеры для Битрикс (2 weeks ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (3 weeks ago)
