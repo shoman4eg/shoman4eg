@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 month ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (today)
 - [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors (11 months ago)
 - [teamdbnn/go-telegraph](https://github.com/teamdbnn/go-telegraph) -  (1 year ago)
 
@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [slacky1965/watermeter_zed](https://github.com/slacky1965/watermeter_zed) - Watermeter ZigBee TLSR8258 (1 day ago)
-- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. (4 days ago)
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ (1 day ago)
+- [tomatophp/filament-pos](https://github.com/tomatophp/filament-pos) - POS working with Ecommerce System for FilamentPHP (1 day ago)
+- [slacky1965/watermeter_zed](https://github.com/slacky1965/watermeter_zed) - Watermeter ZigBee TLSR8258 (2 days ago)
+- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. (5 days ago)
 - [JiveGroup/gFly](https://github.com/JiveGroup/gFly) - Laravel inspired web framework written in Go (1 week ago)
-- [chertik77/TaskPro-frontend](https://github.com/chertik77/TaskPro-frontend) - The ultimate task management tool for individuals. Organize your tasks, set deadlines, and track your progress. Get more done with TaskPro! (1 week ago)
+- [chertik77/TaskPro-frontend](https://github.com/chertik77/TaskPro-frontend) - The ultimate task management tool for individuals. Organize your tasks, set deadlines, and track your progress. Get more done with TaskPro! (2 weeks ago)
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (2 weeks ago)
 - [ludoguenet/laravel-zap](https://github.com/ludoguenet/laravel-zap) - Lightning-fast schedule management for Laravel (2 weeks ago)
-- [bitrix-tools/env-docker](https://github.com/bitrix-tools/env-docker) - Контейнеры для Битрикс (2 weeks ago)
+- [bitrix-tools/env-docker](https://github.com/bitrix-tools/env-docker) - Контейнеры для Битрикс (3 weeks ago)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (3 weeks ago)
-- [itsManjeet/rlxos](https://github.com/itsManjeet/rlxos) - A truly modern implementation of GNU/Linux distribution (3 weeks ago)
-- [dontsovcmc/waterius](https://github.com/dontsovcmc/waterius) - Передача показаний воды по Wi-Fi. Watermeter Wi-Fi transmitter. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
