@@ -20,6 +20,7 @@
 
 #### ⭐ Recent Stars
 
+- [thesis-php/amqp](https://github.com/thesis-php/amqp) - Async (fiber based) client for AMQP 0.9.1. (1 day ago)
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code (1 week ago)
 - [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. (1 week ago)
 - [ribice/gorsk](https://github.com/ribice/gorsk) - :fire: Idiomatic Golang Restful Starter Kit (2 weeks ago)
@@ -29,7 +30,6 @@
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. (2 weeks ago)
 - [JiveGroup/gFly](https://github.com/JiveGroup/gFly) - Laravel inspired web framework written in Go (3 weeks ago)
 - [chertik77/TaskPro-frontend](https://github.com/chertik77/TaskPro-frontend) - The ultimate task management tool for individuals. Organize your tasks, set deadlines, and track your progress. Get more done with TaskPro! (4 weeks ago)
-- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
