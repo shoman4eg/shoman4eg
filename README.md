@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [thesis-php/amqp](https://github.com/thesis-php/amqp) - Async (fiber based) client for AMQP 0.9.1. (2 days ago)
+- [thesis-php/amqp](https://github.com/thesis-php/amqp) - Async (fiber based) client for AMQP 0.9.1. (3 days ago)
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code (1 week ago)
-- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. (1 week ago)
+- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. (2 weeks ago)
 - [ribice/gorsk](https://github.com/ribice/gorsk) - :fire: Idiomatic Golang Restful Starter Kit (2 weeks ago)
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ (2 weeks ago)
 - [tomatophp/filament-pos](https://github.com/tomatophp/filament-pos) - POS working with Ecommerce System for FilamentPHP (2 weeks ago)
