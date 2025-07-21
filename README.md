@@ -20,16 +20,16 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (3 days ago)
-- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (4 days ago)
-- [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL monitoring and backups (with UI and self hosted) (6 days ago)
-- [ft-t/go-money](https://github.com/ft-t/go-money) - Go Money is a opensource personal finances manager (6 days ago)
+- [Oloruntobi1/pproftui](https://github.com/Oloruntobi1/pproftui) - A terminal-based diagnostic tool for Go pprof data (today)
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (4 days ago)
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (5 days ago)
+- [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL monitoring and backups (with UI and self hosted) (1 week ago)
+- [ft-t/go-money](https://github.com/ft-t/go-money) - Go Money is a opensource personal finances manager (1 week ago)
 - [thesis-php/amqp](https://github.com/thesis-php/amqp) - Async (fiber based) client for AMQP 0.9.1. (1 week ago)
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code (2 weeks ago)
-- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. (2 weeks ago)
+- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. (3 weeks ago)
 - [ribice/gorsk](https://github.com/ribice/gorsk) - :fire: Idiomatic Golang Restful Starter Kit (3 weeks ago)
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ (3 weeks ago)
-- [tomatophp/filament-pos](https://github.com/tomatophp/filament-pos) - POS working with Ecommerce System for FilamentPHP (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
