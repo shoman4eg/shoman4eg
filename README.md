@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [spiral/dumper](https://github.com/spiral/dumper) - Colorful variable dumper: HTML, logs and CLI support. Subtree split of the Spiral Dumper component (see spiral/framework) (3 weeks ago)
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (4 weeks ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -20,8 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (1 day ago)
-- [Oloruntobi1/pproftui](https://github.com/Oloruntobi1/pproftui) - A terminal-based diagnostic tool for Go pprof data (5 days ago)
+- [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (2 days ago)
+- [Oloruntobi1/pproftui](https://github.com/Oloruntobi1/pproftui) - A terminal-based diagnostic tool for Go pprof data (6 days ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (1 week ago)
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (1 week ago)
 - [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL monitoring and backups (with UI and self hosted) (1 week ago)
@@ -29,7 +29,7 @@
 - [thesis-php/amqp](https://github.com/thesis-php/amqp) - Non-blocking (fiber based) client for AMQP 0.9.1. (2 weeks ago)
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code (3 weeks ago)
 - [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. (3 weeks ago)
-- [ribice/gorsk](https://github.com/ribice/gorsk) - :fire: Idiomatic Golang Restful Starter Kit (4 weeks ago)
+- [ribice/gorsk](https://github.com/ribice/gorsk) - :fire: Idiomatic Golang Restful Starter Kit (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
