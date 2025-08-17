@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components. (4 days ago)
-- [victorbalssa/abacus](https://github.com/victorbalssa/abacus) - Abacus: Firefly III mobile application. (4 days ago)
-- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (5 days ago)
+- [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components. (5 days ago)
+- [victorbalssa/abacus](https://github.com/victorbalssa/abacus) - Abacus: Firefly III mobile application. (5 days ago)
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (6 days ago)
 - [mist941/basic-server-configuration](https://github.com/mist941/basic-server-configuration) - An Ansible playbook for automating secure server setup and configuration with sensible defaults for systems. (1 week ago)
 - [centraunit/cu-firecracker](https://github.com/centraunit/cu-firecracker) -  (1 week ago)
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (1 week ago)
