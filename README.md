@@ -33,11 +33,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [sins921](https://github.com/sins921)
 - [DevImproject](https://github.com/DevImproject)
 - [bludnic](https://github.com/bludnic)
 - [nholuongut](https://github.com/nholuongut)
+- [kiri4tanker](https://github.com/kiri4tanker)
 
 
 #### 📫 Where to find me
