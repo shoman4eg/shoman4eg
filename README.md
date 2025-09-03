@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [AnWeber/httpyac](https://github.com/AnWeber/httpyac) - Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT  (1 day ago)
+- [AnWeber/httpyac](https://github.com/AnWeber/httpyac) - Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT  (2 days ago)
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components. (3 weeks ago)
 - [victorbalssa/abacus](https://github.com/victorbalssa/abacus) - Abacus: Firefly III mobile application. (3 weeks ago)
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (3 weeks ago)
