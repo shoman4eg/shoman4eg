@@ -20,12 +20,12 @@
 
 #### ⭐ Recent Stars
 
-- [AnWeber/httpyac](https://github.com/AnWeber/httpyac) - Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT  (5 days ago)
+- [AnWeber/httpyac](https://github.com/AnWeber/httpyac) - Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT  (6 days ago)
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components. (3 weeks ago)
 - [victorbalssa/abacus](https://github.com/victorbalssa/abacus) - Abacus: Firefly III mobile application. (3 weeks ago)
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (3 weeks ago)
-- [mist941/basic-server-configuration](https://github.com/mist941/basic-server-configuration) - An Ansible playbook for automating secure server setup and configuration with sensible defaults for systems. (4 weeks ago)
-- [centraunit/cu-firecracker](https://github.com/centraunit/cu-firecracker) -  (4 weeks ago)
+- [mist941/basic-server-configuration](https://github.com/mist941/basic-server-configuration) - An Ansible playbook for automating secure server setup and configuration with sensible defaults for systems. (1 month ago)
+- [centraunit/cu-firecracker](https://github.com/centraunit/cu-firecracker) -  (1 month ago)
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (1 month ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (1 month ago)
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (1 month ago)
