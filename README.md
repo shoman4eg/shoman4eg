@@ -21,8 +21,8 @@
 #### ⭐ Recent Stars
 
 - [AnWeber/httpyac](https://github.com/AnWeber/httpyac) - Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT  (1 week ago)
-- [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components. (3 weeks ago)
-- [victorbalssa/abacus](https://github.com/victorbalssa/abacus) - Abacus: Firefly III mobile application. (3 weeks ago)
+- [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components. (4 weeks ago)
+- [victorbalssa/abacus](https://github.com/victorbalssa/abacus) - Abacus: Firefly III mobile application. (4 weeks ago)
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (4 weeks ago)
 - [mist941/basic-server-configuration](https://github.com/mist941/basic-server-configuration) - An Ansible playbook for automating secure server setup and configuration with sensible defaults for systems. (1 month ago)
 - [centraunit/cu-firecracker](https://github.com/centraunit/cu-firecracker) -  (1 month ago)
