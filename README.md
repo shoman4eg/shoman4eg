@@ -20,8 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [PRO-Robotech/openapi-ui](https://github.com/PRO-Robotech/openapi-ui) -  (1 day ago)
-- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! (2 days ago)
+- [PRO-Robotech/openapi-ui](https://github.com/PRO-Robotech/openapi-ui) -  (2 days ago)
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! (3 days ago)
 - [AnWeber/httpyac](https://github.com/AnWeber/httpyac) - Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT  (1 week ago)
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components. (1 month ago)
 - [victorbalssa/abacus](https://github.com/victorbalssa/abacus) - Abacus: Firefly III mobile application. (1 month ago)
