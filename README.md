@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [Spelljinxer/dotfiles](https://github.com/Spelljinxer/dotfiles) - Hyprland Config Files (2 days ago)
-- [yorunoken/dotfiles](https://github.com/yorunoken/dotfiles) - dotfiles for different systems I use (2 days ago)
-- [PRO-Robotech/openapi-ui](https://github.com/PRO-Robotech/openapi-ui) -  (6 days ago)
+- [Spelljinxer/dotfiles](https://github.com/Spelljinxer/dotfiles) - Hyprland Config Files (3 days ago)
+- [yorunoken/dotfiles](https://github.com/yorunoken/dotfiles) - dotfiles for different systems I use (3 days ago)
+- [PRO-Robotech/openapi-ui](https://github.com/PRO-Robotech/openapi-ui) -  (1 week ago)
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! (1 week ago)
 - [AnWeber/httpyac](https://github.com/AnWeber/httpyac) - Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT  (2 weeks ago)
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components. (1 month ago)
