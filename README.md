@@ -20,16 +20,16 @@
 
 #### ⭐ Recent Stars
 
-- [Spelljinxer/dotfiles](https://github.com/Spelljinxer/dotfiles) - Hyprland Config Files (3 days ago)
-- [yorunoken/dotfiles](https://github.com/yorunoken/dotfiles) - dotfiles for different systems I use (3 days ago)
+- [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases (1 day ago)
+- [kubenote/KubeForge](https://github.com/kubenote/KubeForge) - Visual Editor for Kubernetes Deployments (1 day ago)
+- [Spelljinxer/dotfiles](https://github.com/Spelljinxer/dotfiles) - Hyprland Config Files (4 days ago)
+- [yorunoken/dotfiles](https://github.com/yorunoken/dotfiles) - dotfiles for different systems I use (4 days ago)
 - [PRO-Robotech/openapi-ui](https://github.com/PRO-Robotech/openapi-ui) -  (1 week ago)
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! (1 week ago)
 - [AnWeber/httpyac](https://github.com/AnWeber/httpyac) - Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT  (2 weeks ago)
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components. (1 month ago)
 - [victorbalssa/abacus](https://github.com/victorbalssa/abacus) - Abacus: Firefly III mobile application. (1 month ago)
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite. (1 month ago)
-- [mist941/basic-server-configuration](https://github.com/mist941/basic-server-configuration) - An Ansible playbook for automating secure server setup and configuration with sensible defaults for systems. (1 month ago)
-- [centraunit/cu-firecracker](https://github.com/centraunit/cu-firecracker) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
