@@ -20,13 +20,13 @@
 
 #### ⭐ Recent Stars
 
-- [hayyaoe/zenities](https://github.com/hayyaoe/zenities) - A Hyprland custom configuration (1 day ago)
-- [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases (5 days ago)
-- [kubenote/KubeForge](https://github.com/kubenote/KubeForge) - Visual Editor for Kubernetes Deployments (5 days ago)
+- [hayyaoe/zenities](https://github.com/hayyaoe/zenities) - A Hyprland custom configuration (2 days ago)
+- [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases (6 days ago)
+- [kubenote/KubeForge](https://github.com/kubenote/KubeForge) - Visual Editor for Kubernetes Deployments (6 days ago)
 - [Spelljinxer/dotfiles](https://github.com/Spelljinxer/dotfiles) - Hyprland Config Files (1 week ago)
 - [yorunoken/dotfiles](https://github.com/yorunoken/dotfiles) - dotfiles for different systems I use (1 week ago)
 - [PRO-Robotech/openapi-ui](https://github.com/PRO-Robotech/openapi-ui) -  (1 week ago)
-- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! (1 week ago)
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! (2 weeks ago)
 - [AnWeber/httpyac](https://github.com/AnWeber/httpyac) - Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT  (3 weeks ago)
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components. (1 month ago)
 - [victorbalssa/abacus](https://github.com/victorbalssa/abacus) - Abacus: Firefly III mobile application. (1 month ago)
