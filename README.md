@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [spiral/dumper](https://github.com/spiral/dumper) - Colorful variable dumper: HTML, logs and CLI support. Subtree split of the Spiral Dumper component (see spiral/framework) (2 months ago)
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 months ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [hayyaoe/zenities](https://github.com/hayyaoe/zenities) - A Hyprland custom configuration (3 days ago)
+- [hayyaoe/zenities](https://github.com/hayyaoe/zenities) - A Hyprland custom configuration (4 days ago)
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases (1 week ago)
 - [kubenote/KubeForge](https://github.com/kubenote/KubeForge) - Visual Editor for Kubernetes Deployments (1 week ago)
 - [Spelljinxer/dotfiles](https://github.com/Spelljinxer/dotfiles) - Hyprland Config Files (1 week ago)
