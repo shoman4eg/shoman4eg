@@ -20,15 +20,15 @@
 
 #### ⭐ Recent Stars
 
-- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语 (1 day ago)
-- [yvesago/glauth-ui-light](https://github.com/yvesago/glauth-ui-light) - A small golang web app to manage users and groups from the db files of glauth ldap server (1 day ago)
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place. (2 days ago)
-- [strandnerd/tunn](https://github.com/strandnerd/tunn) - SSH tunnels made simple: Launch and monitor SSH tunnels from a single YAML config and your existing OpenSSH setup. (2 days ago)
-- [hayyaoe/zenities](https://github.com/hayyaoe/zenities) - A Hyprland custom configuration (6 days ago)
+- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语 (2 days ago)
+- [yvesago/glauth-ui-light](https://github.com/yvesago/glauth-ui-light) - A small golang web app to manage users and groups from the db files of glauth ldap server (2 days ago)
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place. (3 days ago)
+- [strandnerd/tunn](https://github.com/strandnerd/tunn) - SSH tunnels made simple: Launch and monitor SSH tunnels from a single YAML config and your existing OpenSSH setup. (3 days ago)
+- [hayyaoe/zenities](https://github.com/hayyaoe/zenities) - A Hyprland custom configuration (1 week ago)
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases (1 week ago)
 - [kubenote/KubeForge](https://github.com/kubenote/KubeForge) - Visual Editor for Kubernetes Deployments (1 week ago)
-- [Spelljinxer/dotfiles](https://github.com/Spelljinxer/dotfiles) - Hyprland Config Files (1 week ago)
-- [yorunoken/dotfiles](https://github.com/yorunoken/dotfiles) - dotfiles for different systems I use (1 week ago)
+- [Spelljinxer/dotfiles](https://github.com/Spelljinxer/dotfiles) - Hyprland Config Files (2 weeks ago)
+- [yorunoken/dotfiles](https://github.com/yorunoken/dotfiles) - dotfiles for different systems I use (2 weeks ago)
 - [PRO-Robotech/openapi-ui](https://github.com/PRO-Robotech/openapi-ui) -  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
