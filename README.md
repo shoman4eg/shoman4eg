@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [chinmay-sawant/gopdfsuit](https://github.com/chinmay-sawant/gopdfsuit) - GoPdfSuit is a comprehensive web application written in Go which can help you generate the pdf document without worrying about the PDF templating (6 days ago)
+- [chinmay-sawant/gopdfsuit](https://github.com/chinmay-sawant/gopdfsuit) - GoPdfSuit is a comprehensive web application written in Go which can help you generate the pdf document without worrying about the PDF templating (1 week ago)
 - [hidayry/dotfiles-bspwm](https://github.com/hidayry/dotfiles-bspwm) - Dotfiles, Bspwm, Eww, Polybar (1 week ago)
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly. (1 week ago)
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语 (1 week ago)
