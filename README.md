@@ -20,6 +20,7 @@
 
 #### ⭐ Recent Stars
 
+- [hasenj/go-shirei](https://github.com/hasenj/go-shirei) - Go based GUI framework: practical, immediate mode, flexbox model (1 day ago)
 - [chinmay-sawant/gopdfsuit](https://github.com/chinmay-sawant/gopdfsuit) - GoPdfSuit is a comprehensive web application written in Go which can help you generate the pdf document without worrying about the PDF templating (1 week ago)
 - [hidayry/dotfiles-bspwm](https://github.com/hidayry/dotfiles-bspwm) - Dotfiles, Bspwm, Eww, Polybar (1 week ago)
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly. (1 week ago)
@@ -29,7 +30,6 @@
 - [strandnerd/tunn](https://github.com/strandnerd/tunn) - SSH tunnels made simple: Launch and monitor SSH tunnels from a single YAML config and your existing OpenSSH setup. (1 week ago)
 - [hayyaoe/zenities](https://github.com/hayyaoe/zenities) - A Hyprland custom configuration (2 weeks ago)
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases (2 weeks ago)
-- [kubenote/KubeForge](https://github.com/kubenote/KubeForge) - Visual Editor for Kubernetes Deployments (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
