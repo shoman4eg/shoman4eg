@@ -20,8 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [xcpcio/xcpcio](https://github.com/xcpcio/xcpcio) - The ICPC Series Competition Leaderboard Visualization Engine (3 days ago)
-- [hasenj/go-shirei](https://github.com/hasenj/go-shirei) - Go based GUI framework: practical, immediate mode, flexbox model (4 days ago)
+- [xcpcio/xcpcio](https://github.com/xcpcio/xcpcio) - The ICPC Series Competition Leaderboard Visualization Engine (4 days ago)
+- [hasenj/go-shirei](https://github.com/hasenj/go-shirei) - Go based GUI framework: practical, immediate mode, flexbox model (5 days ago)
 - [chinmay-sawant/gopdfsuit](https://github.com/chinmay-sawant/gopdfsuit) - GoPdfSuit is a comprehensive web application written in Go which can help you generate the pdf document without worrying about the PDF templating (1 week ago)
 - [hidayry/dotfiles-bspwm](https://github.com/hidayry/dotfiles-bspwm) - Dotfiles, Bspwm, Eww, Polybar (1 week ago)
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly. (1 week ago)
