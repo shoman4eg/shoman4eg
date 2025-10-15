@@ -20,8 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (2 days ago)
-- [telman03/gocraft](https://github.com/telman03/gocraft) - Create Go projects faster → Auth, DB, gRPC, Docker, Swagger, and monitoring included. (3 days ago)
+- [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (3 days ago)
+- [telman03/gocraft](https://github.com/telman03/gocraft) - Create Go projects faster → Auth, DB, gRPC, Docker, Swagger, and monitoring included. (4 days ago)
 - [xcpcio/xcpcio](https://github.com/xcpcio/xcpcio) - The ICPC Series Competition Leaderboard Visualization Engine (1 week ago)
 - [hasenj/go-shirei](https://github.com/hasenj/go-shirei) - Go based GUI framework: practical, immediate mode, flexbox model (1 week ago)
 - [chinmay-sawant/gopdfsuit](https://github.com/chinmay-sawant/gopdfsuit) - GoPdfSuit is a comprehensive web application written in Go which can help you generate the pdf document without worrying about the PDF templating (2 weeks ago)
