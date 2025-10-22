@@ -20,8 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [Raezil/go-agent-development-kit](https://github.com/Raezil/go-agent-development-kit) - ​go-agent-development-kit is now a full hybrid RAG &#43; Graph agent framework. (3 days ago)
-- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows (5 days ago)
+- [Raezil/go-agent-development-kit](https://github.com/Raezil/go-agent-development-kit) - Go agent framework for hybrid RAG &#43; Graph systems: modular memory engine, pluggable models/tools, Qdrant/pgvector backends, multi-agent swarms, and UTCP tool calling (4 days ago)
+- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows (6 days ago)
 - [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (1 week ago)
 - [telman03/gocraft](https://github.com/telman03/gocraft) - Create Go projects faster → Auth, DB, gRPC, Docker, Swagger, and monitoring included. (1 week ago)
 - [xcpcio/xcpcio](https://github.com/xcpcio/xcpcio) - The ICPC Series Competition Leaderboard Visualization Engine (2 weeks ago)
