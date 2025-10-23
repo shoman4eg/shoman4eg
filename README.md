@@ -20,16 +20,16 @@
 
 #### ⭐ Recent Stars
 
-- [Raezil/go-agent-development-kit](https://github.com/Raezil/go-agent-development-kit) - Go agent framework for hybrid RAG &#43; Graph systems: modular memory engine, pluggable models/tools, Qdrant/pgvector backends, multi-agent swarms, and UTCP tool calling (4 days ago)
-- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows (6 days ago)
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (1 day ago)
+- [go-critic/go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit. (1 day ago)
+- [Raezil/go-agent-development-kit](https://github.com/Raezil/go-agent-development-kit) - Go agent framework for hybrid RAG &#43; Graph systems: modular memory engine, pluggable models/tools, Qdrant/pgvector backends, multi-agent swarms, and UTCP tool calling (5 days ago)
+- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows (1 week ago)
 - [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (1 week ago)
 - [telman03/gocraft](https://github.com/telman03/gocraft) - Create Go projects faster → Auth, DB, gRPC, Docker, Swagger, and monitoring included. (1 week ago)
 - [xcpcio/xcpcio](https://github.com/xcpcio/xcpcio) - The ICPC Series Competition Leaderboard Visualization Engine (2 weeks ago)
 - [hasenj/go-shirei](https://github.com/hasenj/go-shirei) - Go based GUI framework: practical, immediate mode, flexbox model (2 weeks ago)
 - [chinmay-sawant/gopdfsuit](https://github.com/chinmay-sawant/gopdfsuit) - GoPdfSuit is a comprehensive web application written in Go which can help you generate the pdf document without worrying about the PDF templating (3 weeks ago)
 - [hidayry/dotfiles-bspwm](https://github.com/hidayry/dotfiles-bspwm) - Dotfiles, Bspwm, Eww, Polybar (3 weeks ago)
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly. (3 weeks ago)
-- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语 (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
