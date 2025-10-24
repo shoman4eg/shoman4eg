@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (1 day ago)
-- [go-critic/go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit. (1 day ago)
-- [Raezil/go-agent-development-kit](https://github.com/Raezil/go-agent-development-kit) - Go agent framework for hybrid RAG &#43; Graph systems: modular memory engine, pluggable models/tools, Qdrant/pgvector backends, multi-agent swarms, and UTCP tool calling (5 days ago)
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (2 days ago)
+- [go-critic/go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit. (2 days ago)
+- [Raezil/go-agent-development-kit](https://github.com/Raezil/go-agent-development-kit) - Go Agent Development Kit is a production-grade framework for building intelligent systems in Go. (6 days ago)
 - [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows (1 week ago)
 - [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (1 week ago)
 - [telman03/gocraft](https://github.com/telman03/gocraft) - Create Go projects faster → Auth, DB, gRPC, Docker, Swagger, and monitoring included. (1 week ago)
