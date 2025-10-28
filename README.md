@@ -20,16 +20,16 @@
 
 #### ⭐ Recent Stars
 
-- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (5 days ago)
-- [go-critic/go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit. (5 days ago)
-- [Raezil/lattice-agent](https://github.com/Raezil/lattice-agent) - Agent framework (1 week ago)
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (6 days ago)
+- [go-critic/go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit. (6 days ago)
+- [Raezil/lattice-agent](https://github.com/Raezil/lattice-agent) - Agent framework in Golang (1 week ago)
 - [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows (1 week ago)
 - [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (2 weeks ago)
 - [telman03/gocraft](https://github.com/telman03/gocraft) - Create Go projects faster → Auth, DB, gRPC, Docker, Swagger, and monitoring included. (2 weeks ago)
-- [xcpcio/xcpcio](https://github.com/xcpcio/xcpcio) - The ICPC Series Competition Leaderboard Visualization Engine (2 weeks ago)
+- [xcpcio/xcpcio](https://github.com/xcpcio/xcpcio) - The ICPC Series Competition Leaderboard Visualization Engine (3 weeks ago)
 - [hasenj/go-shirei](https://github.com/hasenj/go-shirei) - Go based GUI framework: practical, immediate mode, flexbox model (3 weeks ago)
 - [chinmay-sawant/gopdfsuit](https://github.com/chinmay-sawant/gopdfsuit) - GoPdfSuit is a comprehensive web application written in Go which can help you generate the pdf document without worrying about the PDF templating (4 weeks ago)
-- [hidayry/dotfiles-bspwm](https://github.com/hidayry/dotfiles-bspwm) - Dotfiles, Bspwm, Eww, Polybar (4 weeks ago)
+- [hidayry/dotfiles-bspwm](https://github.com/hidayry/dotfiles-bspwm) - Dotfiles, Bspwm, Eww, Polybar (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
