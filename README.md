@@ -20,16 +20,16 @@
 
 #### ⭐ Recent Stars
 
-- [google/keep-sorted](https://github.com/google/keep-sorted) - keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file. (2 days ago)
-- [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Golang. (2 days ago)
-- [tinkle-community/nofx](https://github.com/tinkle-community/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard (2 days ago)
-- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. (2 days ago)
-- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer &#43; ANSI font library with gradient colors, shadows, and multi-format export (2 days ago)
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (4 days ago)
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping. (1 day ago)
+- [google/keep-sorted](https://github.com/google/keep-sorted) - keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file. (3 days ago)
+- [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Golang. (3 days ago)
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard (3 days ago)
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. (3 days ago)
+- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer &#43; ANSI font library with gradient colors, shadows, and multi-format export (3 days ago)
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. (5 days ago)
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (1 week ago)
 - [go-critic/go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit. (1 week ago)
 - [Protocol-Lattice/go-agent](https://github.com/Protocol-Lattice/go-agent) - An agent framework for Go with graph-aware memory, UTCP-native tools, and multi-agent orchestration. Built for production. (2 weeks ago)
-- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
