@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [phare/sloggo](https://github.com/phare/sloggo) -  Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.  (3 days ago)
+- [phare/sloggo](https://github.com/phare/sloggo) -  Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.  (4 days ago)
 - [irdkwmnsb/webrtc-grabber](https://github.com/irdkwmnsb/webrtc-grabber) - Grabber application for stealthily peeking at other computer&#39;s screens (1 week ago)
 - [Lailloken/Exile-UI](https://github.com/Lailloken/Exile-UI) - UI and QoL overlay for Path of Exile 1 and 2. Emphasizes ease of use, minimalist design, and seamless integration. Formerly Lailloken UI. (1 week ago)
 - [Nomadcxx/moonbit](https://github.com/Nomadcxx/moonbit) - A modern system cleaner built in Go with a TUI and CLI.  (1 week ago)
