@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [spiral/dumper](https://github.com/spiral/dumper) - Colorful variable dumper: HTML, logs and CLI support. Subtree split of the Spiral Dumper component (see spiral/framework) (4 months ago)
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (4 months ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### ⭐ Recent Stars
 
-- [uroybd/DotR](https://github.com/uroybd/DotR) - A dotfiles manager that is as dear as a daughter. (1 day ago)
-- [ivangsm/blugo](https://github.com/ivangsm/blugo) - TUI bluetooth manager for Linux (1 day ago)
-- [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating, hiding text, and capturing screenshots on Wayland. Can be used as whiteboard or blackboard. Highly customisable. (1 day ago)
-- [phare/sloggo](https://github.com/phare/sloggo) -  Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.  (5 days ago)
-- [irdkwmnsb/webrtc-grabber](https://github.com/irdkwmnsb/webrtc-grabber) - Grabber application for stealthily peeking at other computer&#39;s screens (1 week ago)
+- [uroybd/DotR](https://github.com/uroybd/DotR) - A dotfiles manager that is as dear as a daughter. (2 days ago)
+- [ivangsm/blugo](https://github.com/ivangsm/blugo) - TUI bluetooth manager for Linux (2 days ago)
+- [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. (2 days ago)
+- [phare/sloggo](https://github.com/phare/sloggo) -  Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.  (6 days ago)
+- [irdkwmnsb/webrtc-grabber](https://github.com/irdkwmnsb/webrtc-grabber) - Grabber application for stealthily peeking at other computer&#39;s screens (2 weeks ago)
 - [Lailloken/Exile-UI](https://github.com/Lailloken/Exile-UI) - UI and QoL overlay for Path of Exile 1 and 2. Emphasizes ease of use, minimalist design, and seamless integration. Formerly Lailloken UI. (2 weeks ago)
 - [Nomadcxx/moonbit](https://github.com/Nomadcxx/moonbit) - A modern system cleaner built in Go with a TUI and CLI.  (2 weeks ago)
 - [sandrolain/httpcache](https://github.com/sandrolain/httpcache) - A Transport for http.Client that will cache responses according to the HTTP RFC (2 weeks ago)
@@ -33,11 +33,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [S4IL21](https://github.com/S4IL21)
 - [ipqwery](https://github.com/ipqwery)
 - [DevImproject](https://github.com/DevImproject)
 - [bludnic](https://github.com/bludnic)
 - [nholuongut](https://github.com/nholuongut)
-- [kiri4tanker](https://github.com/kiri4tanker)
 
 
 #### 📫 Where to find me
