@@ -20,10 +20,10 @@
 
 #### ⭐ Recent Stars
 
-- [uroybd/DotR](https://github.com/uroybd/DotR) - A dotfiles manager that is as dear as a daughter. (2 days ago)
-- [ivangsm/blugo](https://github.com/ivangsm/blugo) - TUI bluetooth manager for Linux (2 days ago)
-- [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. (2 days ago)
-- [phare/sloggo](https://github.com/phare/sloggo) -  Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.  (6 days ago)
+- [uroybd/DotR](https://github.com/uroybd/DotR) - A dotfiles manager that is as dear as a daughter. (3 days ago)
+- [ivangsm/blugo](https://github.com/ivangsm/blugo) - TUI bluetooth manager for Linux (3 days ago)
+- [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. (3 days ago)
+- [phare/sloggo](https://github.com/phare/sloggo) -  Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.  (1 week ago)
 - [irdkwmnsb/webrtc-grabber](https://github.com/irdkwmnsb/webrtc-grabber) - Grabber application for stealthily peeking at other computer&#39;s screens (2 weeks ago)
 - [Lailloken/Exile-UI](https://github.com/Lailloken/Exile-UI) - UI and QoL overlay for Path of Exile 1 and 2. Emphasizes ease of use, minimalist design, and seamless integration. Formerly Lailloken UI. (2 weeks ago)
 - [Nomadcxx/moonbit](https://github.com/Nomadcxx/moonbit) - A modern system cleaner built in Go with a TUI and CLI.  (2 weeks ago)
