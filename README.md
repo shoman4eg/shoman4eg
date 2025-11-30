@@ -20,20 +20,20 @@
 
 #### ⭐ Recent Stars
 
-- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (2 days ago)
+- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (3 days ago)
 - [uroybd/DotR](https://github.com/uroybd/DotR) - A dotfiles manager that is as dear as a daughter. (1 week ago)
 - [ivangsm/blugo](https://github.com/ivangsm/blugo) - TUI bluetooth manager for Linux (1 week ago)
 - [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. (1 week ago)
 - [phare/sloggo](https://github.com/phare/sloggo) -  Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.  (1 week ago)
 - [irdkwmnsb/webrtc-grabber](https://github.com/irdkwmnsb/webrtc-grabber) - Grabber application for stealthily peeking at other computer&#39;s screens (2 weeks ago)
-- [Lailloken/Exile-UI](https://github.com/Lailloken/Exile-UI) - UI and QoL overlay for Path of Exile 1 and 2. Emphasizes ease of use, minimalist design, and seamless integration. Formerly Lailloken UI. (2 weeks ago)
-- [Nomadcxx/moonbit](https://github.com/Nomadcxx/moonbit) - A modern system cleaner built in Go with a TUI and CLI.  (2 weeks ago)
-- [sandrolain/httpcache](https://github.com/sandrolain/httpcache) - A Transport for http.Client that will cache responses according to the HTTP RFC (2 weeks ago)
+- [Lailloken/Exile-UI](https://github.com/Lailloken/Exile-UI) - UI and QoL overlay for Path of Exile 1 and 2. Emphasizes ease of use, minimalist design, and seamless integration. Formerly Lailloken UI. (3 weeks ago)
+- [Nomadcxx/moonbit](https://github.com/Nomadcxx/moonbit) - A modern system cleaner built in Go with a TUI and CLI.  (3 weeks ago)
+- [sandrolain/httpcache](https://github.com/sandrolain/httpcache) - A Transport for http.Client that will cache responses according to the HTTP RFC (3 weeks ago)
 - [Kamyil/work-tuimer](https://github.com/Kamyil/work-tuimer) - Simple, keyboard-driven TUI for time-tracking that allows you to quickly add time blocks and automatically group time if same task was done in different sessions (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
-- [XXXBCAXX](https://github.com/XXXBCAXX)
+- [BCAx123](https://github.com/BCAx123)
 - [S4IL21](https://github.com/S4IL21)
 - [ipqwery](https://github.com/ipqwery)
 - [DevImproject](https://github.com/DevImproject)
