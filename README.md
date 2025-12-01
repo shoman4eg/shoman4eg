@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [spiral/dumper](https://github.com/spiral/dumper) - Colorful variable dumper: HTML, logs and CLI support. Subtree split of the Spiral Dumper component (see spiral/framework) (4 months ago)
+- [spiral/dumper](https://github.com/spiral/dumper) - Colorful variable dumper: HTML, logs and CLI support. Subtree split of the Spiral Dumper component (see spiral/framework) (5 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (5 months ago)
 
 #### 🌱 My latest projects
@@ -20,12 +20,12 @@
 
 #### ⭐ Recent Stars
 
-- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (3 days ago)
+- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (4 days ago)
 - [uroybd/DotR](https://github.com/uroybd/DotR) - A dotfiles manager that is as dear as a daughter. (1 week ago)
 - [ivangsm/blugo](https://github.com/ivangsm/blugo) - TUI bluetooth manager for Linux (1 week ago)
 - [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. (1 week ago)
 - [phare/sloggo](https://github.com/phare/sloggo) -  Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.  (1 week ago)
-- [irdkwmnsb/webrtc-grabber](https://github.com/irdkwmnsb/webrtc-grabber) - Grabber application for stealthily peeking at other computer&#39;s screens (2 weeks ago)
+- [irdkwmnsb/webrtc-grabber](https://github.com/irdkwmnsb/webrtc-grabber) - Grabber application for stealthily peeking at other computer&#39;s screens (3 weeks ago)
 - [Lailloken/Exile-UI](https://github.com/Lailloken/Exile-UI) - UI and QoL overlay for Path of Exile 1 and 2. Emphasizes ease of use, minimalist design, and seamless integration. Formerly Lailloken UI. (3 weeks ago)
 - [Nomadcxx/moonbit](https://github.com/Nomadcxx/moonbit) - A modern system cleaner built in Go with a TUI and CLI.  (3 weeks ago)
 - [sandrolain/httpcache](https://github.com/sandrolain/httpcache) - A Transport for http.Client that will cache responses according to the HTTP RFC (3 weeks ago)
