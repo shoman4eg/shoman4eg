@@ -20,7 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (6 days ago)
+- [BinaryHarbinger/binarydots](https://github.com/BinaryHarbinger/binarydots) - Clearer version of my hyprland dotfiles (1 day ago)
+- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (1 week ago)
 - [uroybd/DotR](https://github.com/uroybd/DotR) - A dotfiles manager that is as dear as a daughter. (1 week ago)
 - [ivangsm/blugo](https://github.com/ivangsm/blugo) - TUI bluetooth manager for Linux (1 week ago)
 - [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. (1 week ago)
@@ -29,7 +30,6 @@
 - [Lailloken/Exile-UI](https://github.com/Lailloken/Exile-UI) - UI and QoL overlay for Path of Exile 1 and 2. Emphasizes ease of use, minimalist design, and seamless integration. Formerly Lailloken UI. (3 weeks ago)
 - [Nomadcxx/moonbit](https://github.com/Nomadcxx/moonbit) - A modern system cleaner built in Go with a TUI and CLI.  (3 weeks ago)
 - [sandrolain/httpcache](https://github.com/sandrolain/httpcache) - A Transport for http.Client that will cache responses according to the HTTP RFC (3 weeks ago)
-- [Kamyil/work-tuimer](https://github.com/Kamyil/work-tuimer) - Simple, keyboard-driven TUI for time-tracking that allows you to quickly add time blocks and automatically group time if same task was done in different sessions (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
