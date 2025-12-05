@@ -20,7 +20,8 @@
 
 #### ⭐ Recent Stars
 
-- [BinaryHarbinger/binarydots](https://github.com/BinaryHarbinger/binarydots) - Clearer version of my hyprland dotfiles (1 day ago)
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (1 day ago)
+- [BinaryHarbinger/binarydots](https://github.com/BinaryHarbinger/binarydots) - Clearer version of my hyprland dotfiles (2 days ago)
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (1 week ago)
 - [uroybd/DotR](https://github.com/uroybd/DotR) - A dotfiles manager that is as dear as a daughter. (1 week ago)
 - [ivangsm/blugo](https://github.com/ivangsm/blugo) - TUI bluetooth manager for Linux (1 week ago)
@@ -29,7 +30,6 @@
 - [irdkwmnsb/webrtc-grabber](https://github.com/irdkwmnsb/webrtc-grabber) - Grabber application for stealthily peeking at other computer&#39;s screens (3 weeks ago)
 - [Lailloken/Exile-UI](https://github.com/Lailloken/Exile-UI) - UI and QoL overlay for Path of Exile 1 and 2. Emphasizes ease of use, minimalist design, and seamless integration. Formerly Lailloken UI. (3 weeks ago)
 - [Nomadcxx/moonbit](https://github.com/Nomadcxx/moonbit) - A modern system cleaner built in Go with a TUI and CLI.  (3 weeks ago)
-- [sandrolain/httpcache](https://github.com/sandrolain/httpcache) - A Transport for http.Client that will cache responses according to the HTTP RFC (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
