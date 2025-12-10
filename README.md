@@ -20,24 +20,24 @@
 
 #### ⭐ Recent Stars
 
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (4 days ago)
-- [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go (4 days ago)
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (5 days ago)
-- [BinaryHarbinger/binarydots](https://github.com/BinaryHarbinger/binarydots) - Clearer version of my hyprland dotfiles (6 days ago)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (5 days ago)
+- [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go (5 days ago)
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (6 days ago)
+- [BinaryHarbinger/binarydots](https://github.com/BinaryHarbinger/binarydots) - Clearer version of my hyprland dotfiles (1 week ago)
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (1 week ago)
 - [uroybd/DotR](https://github.com/uroybd/DotR) - A dotfiles manager that is as dear as a daughter. (2 weeks ago)
 - [ivangsm/blugo](https://github.com/ivangsm/blugo) - TUI bluetooth manager for Linux (2 weeks ago)
 - [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. (2 weeks ago)
 - [phare/sloggo](https://github.com/phare/sloggo) -  Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.  (3 weeks ago)
-- [irdkwmnsb/webrtc-grabber](https://github.com/irdkwmnsb/webrtc-grabber) - Grabber application for stealthily peeking at other computer&#39;s screens (4 weeks ago)
+- [irdkwmnsb/webrtc-grabber](https://github.com/irdkwmnsb/webrtc-grabber) - Grabber application for stealthily peeking at other computer&#39;s screens (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [BCAx123](https://github.com/BCAx123)
 - [S4IL21](https://github.com/S4IL21)
 - [ipqwery](https://github.com/ipqwery)
-- [DevImproject](https://github.com/DevImproject)
 
 
 #### 📫 Where to find me
