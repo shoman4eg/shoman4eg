@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go (1 day ago)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (6 days ago)
-- [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go (6 days ago)
+- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go (2 days ago)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (1 week ago)
+- [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go (1 week ago)
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (1 week ago)
 - [BinaryHarbinger/binarydots](https://github.com/BinaryHarbinger/binarydots) - Clearer version of my hyprland dotfiles (1 week ago)
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (2 weeks ago)
