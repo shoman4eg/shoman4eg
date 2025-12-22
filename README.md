@@ -27,9 +27,9 @@
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (2 weeks ago)
 - [BinaryHarbinger/binarydots](https://github.com/BinaryHarbinger/binarydots) - Clearer version of my hyprland dotfiles (2 weeks ago)
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. (3 weeks ago)
-- [uroybd/DotR](https://github.com/uroybd/DotR) - A dotfiles manager that is as dear as a daughter. (4 weeks ago)
-- [ivangsm/blugo](https://github.com/ivangsm/blugo) - TUI bluetooth manager for Linux (4 weeks ago)
-- [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. (4 weeks ago)
+- [uroybd/DotR](https://github.com/uroybd/DotR) - A dotfiles manager that is as dear as a daughter. (1 month ago)
+- [ivangsm/blugo](https://github.com/ivangsm/blugo) - TUI bluetooth manager for Linux (1 month ago)
+- [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
