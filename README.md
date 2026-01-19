@@ -23,7 +23,7 @@
 - [the-dev-tools/dev-tools](https://github.com/the-dev-tools/dev-tools) - Local-first API workflows that go from HAR file to GitHub Actions in 60 seconds. (1 week ago)
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen. (1 week ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere. (1 week ago)
-- [Slava-Shchipunov/awg-openwrt](https://github.com/Slava-Shchipunov/awg-openwrt) - AmneziaWG for OpenWrt (2 weeks ago)
+- [Slava-Shchipunov/awg-openwrt](https://github.com/Slava-Shchipunov/awg-openwrt) - AmneziaWG for OpenWrt (3 weeks ago)
 - [erickskrauch/prometheus-php](https://github.com/erickskrauch/prometheus-php) - Prometheus metrics collector and exporter for PHP (1 month ago)
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go (1 month ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (1 month ago)
