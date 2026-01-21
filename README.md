@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 week ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (today)
 - [spiral/dumper](https://github.com/spiral/dumper) - Colorful variable dumper: HTML, logs and CLI support. Subtree split of the Spiral Dumper component (see spiral/framework) (6 months ago)
 
 #### 🌱 My latest projects
@@ -33,11 +33,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [emilycodestar](https://github.com/emilycodestar)
 - [helallao](https://github.com/helallao)
 - [BCAx123](https://github.com/BCAx123)
 - [S4IL21](https://github.com/S4IL21)
 - [ipqwery](https://github.com/ipqwery)
-- [DevImproject](https://github.com/DevImproject)
 
 
 #### 📫 Where to find me
