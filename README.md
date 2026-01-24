@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 days ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (3 days ago)
 - [spiral/dumper](https://github.com/spiral/dumper) - Colorful variable dumper: HTML, logs and CLI support. Subtree split of the Spiral Dumper component (see spiral/framework) (6 months ago)
 
 #### 🌱 My latest projects
@@ -20,24 +20,24 @@
 
 #### ⭐ Recent Stars
 
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (2 days ago)
-- [the-dev-tools/dev-tools](https://github.com/the-dev-tools/dev-tools) - Local-first API workflows that go from HAR file to GitHub Actions in 60 seconds. (1 week ago)
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (today)
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (today)
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (today)
+- [alyraffauf/switchyard](https://github.com/alyraffauf/switchyard) - Modern rules-based URL launcher ready to replace your default browser. (1 day ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (3 days ago)
+- [the-dev-tools/dev-tools](https://github.com/the-dev-tools/dev-tools) - Local-first API workflows that go from HAR file to GitHub Actions in 60 seconds. (2 weeks ago)
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen. (2 weeks ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere. (2 weeks ago)
 - [Slava-Shchipunov/awg-openwrt](https://github.com/Slava-Shchipunov/awg-openwrt) - AmneziaWG for OpenWrt (3 weeks ago)
 - [erickskrauch/prometheus-php](https://github.com/erickskrauch/prometheus-php) - Prometheus metrics collector and exporter for PHP (1 month ago)
-- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go (1 month ago)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (1 month ago)
-- [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go (1 month ago)
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
 - [emilycodestar](https://github.com/emilycodestar)
-- [helallao](https://github.com/helallao)
 - [BCAx123](https://github.com/BCAx123)
 - [S4IL21](https://github.com/S4IL21)
 - [ipqwery](https://github.com/ipqwery)
+- [DevImproject](https://github.com/DevImproject)
 
 
 #### 📫 Where to find me
