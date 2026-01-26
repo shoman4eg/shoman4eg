@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (4 days ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (5 days ago)
 - [spiral/dumper](https://github.com/spiral/dumper) - Colorful variable dumper: HTML, logs and CLI support. Subtree split of the Spiral Dumper component (see spiral/framework) (6 months ago)
 
 #### 🌱 My latest projects
@@ -20,16 +20,16 @@
 
 #### ⭐ Recent Stars
 
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 day ago)
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 day ago)
-- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (1 day ago)
-- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (1 day ago)
-- [alyraffauf/switchyard](https://github.com/alyraffauf/switchyard) - Modern rules-based URL launcher ready to replace your default browser. (2 days ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (4 days ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 days ago)
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (2 days ago)
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (2 days ago)
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (2 days ago)
+- [alyraffauf/switchyard](https://github.com/alyraffauf/switchyard) - Modern rules-based browser launcher and link redirector ready to replace your default browser. (3 days ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (5 days ago)
 - [the-dev-tools/dev-tools](https://github.com/the-dev-tools/dev-tools) - Local-first API workflows that go from HAR file to GitHub Actions in 60 seconds. (2 weeks ago)
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen. (2 weeks ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere. (2 weeks ago)
-- [Slava-Shchipunov/awg-openwrt](https://github.com/Slava-Shchipunov/awg-openwrt) - AmneziaWG for OpenWrt (3 weeks ago)
+- [Slava-Shchipunov/awg-openwrt](https://github.com/Slava-Shchipunov/awg-openwrt) - AmneziaWG for OpenWrt (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
