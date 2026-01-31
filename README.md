@@ -20,13 +20,13 @@
 
 #### ⭐ Recent Stars
 
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (6 days ago)
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (6 days ago)
-- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (6 days ago)
-- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (6 days ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 week ago)
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 week ago)
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (1 week ago)
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (1 week ago)
 - [alyraffauf/switchyard](https://github.com/alyraffauf/switchyard) - Modern rules-based browser launcher and link redirector ready to replace your default browser. (1 week ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 week ago)
-- [the-dev-tools/dev-tools](https://github.com/the-dev-tools/dev-tools) - Local-first API workflows that go from HAR file to GitHub Actions in 60 seconds. (2 weeks ago)
+- [the-dev-tools/dev-tools](https://github.com/the-dev-tools/dev-tools) - Local-first API workflows that go from HAR file to GitHub Actions in 60 seconds. (3 weeks ago)
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen. (3 weeks ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere. (3 weeks ago)
 - [Slava-Shchipunov/awg-openwrt](https://github.com/Slava-Shchipunov/awg-openwrt) - AmneziaWG for OpenWrt (1 month ago)
