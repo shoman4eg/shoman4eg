@@ -20,6 +20,7 @@
 
 #### ⭐ Recent Stars
 
+- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. (1 day ago)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 week ago)
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 week ago)
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers (1 week ago)
@@ -29,7 +30,6 @@
 - [the-dev-tools/dev-tools](https://github.com/the-dev-tools/dev-tools) - Local-first API workflows that go from HAR file to GitHub Actions in 60 seconds. (3 weeks ago)
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen. (3 weeks ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere. (3 weeks ago)
-- [Slava-Shchipunov/awg-openwrt](https://github.com/Slava-Shchipunov/awg-openwrt) - AmneziaWG for OpenWrt (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
