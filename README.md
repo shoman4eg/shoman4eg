@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (4 weeks ago)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 month ago)
 - [spiral/dumper](https://github.com/spiral/dumper) - Colorful variable dumper: HTML, logs and CLI support. Subtree split of the Spiral Dumper component (see spiral/framework) (7 months ago)
 
 #### 🌱 My latest projects
@@ -20,10 +20,10 @@
 
 #### ⭐ Recent Stars
 
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (2 days ago)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (4 days ago)
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (3 days ago)
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (5 days ago)
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs. (1 week ago)
-- [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists (1 week ago)
+- [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists (2 weeks ago)
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash (2 weeks ago)
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. (2 weeks ago)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (3 weeks ago)
