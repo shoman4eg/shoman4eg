@@ -4,7 +4,7 @@
 
 - [bitrix-tools/framework-docs](https://github.com/bitrix-tools/framework-docs) - Официальная документация по фреймворку Bitrix Framework, основной для продуктов &#34;1С-Битрикс: Управление сайтом&#34; и &#34;Битрик24&#34; (1 week ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 month ago)
-- [spiral/dumper](https://github.com/spiral/dumper) - Colorful variable dumper: HTML, logs and CLI support. Subtree split of the Spiral Dumper component (see spiral/framework) (7 months ago)
+- [spiral/dumper](https://github.com/spiral/dumper) - Colorful variable dumper: HTML, logs and CLI support. Subtree split of the Spiral Dumper component (see spiral/framework) (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -21,12 +21,12 @@
 
 #### ⭐ Recent Stars
 
-- [sivchari/awsim](https://github.com/sivchari/awsim) - A lightweight AWS service emulator written in Go for CI/CD environments (2 days ago)
-- [Vrun-design/openflowkit](https://github.com/Vrun-design/openflowkit) - The open-source, white-label diagramming canvas. Built with React Flow &#43; Mermaid.js. (3 days ago)
-- [faucetdb/faucet](https://github.com/faucetdb/faucet) - Faucet is an open-source, single-binary server that turns any SQL database into a secure, governed REST API with role-based access control and native MCP support for applications and AI agents. (4 days ago)
-- [Control-D-Inc/ctrld](https://github.com/Control-D-Inc/ctrld) - A highly configurable, multi-protocol DNS forwarding proxy (6 days ago)
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (1 week ago)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (1 week ago)
+- [sivchari/awsim](https://github.com/sivchari/awsim) - A lightweight AWS service emulator written in Go for CI/CD environments (3 days ago)
+- [Vrun-design/openflowkit](https://github.com/Vrun-design/openflowkit) - The open-source, white-label diagramming canvas. Built with React Flow &#43; Mermaid.js. (4 days ago)
+- [faucetdb/faucet](https://github.com/faucetdb/faucet) - Faucet is an open-source, single-binary server that turns any SQL database into a secure, governed REST API with role-based access control and native MCP support for applications and AI agents. (5 days ago)
+- [Control-D-Inc/ctrld](https://github.com/Control-D-Inc/ctrld) - A highly configurable, multi-protocol DNS forwarding proxy (1 week ago)
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant framework — deploy anywhere, swap anything 🦀 (1 week ago)
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (2 weeks ago)
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs. (2 weeks ago)
 - [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists (3 weeks ago)
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash (3 weeks ago)
