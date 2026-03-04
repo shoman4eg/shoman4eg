@@ -21,10 +21,10 @@
 
 #### ⭐ Recent Stars
 
-- [jirutka/ssh-getkey-gitlab](https://github.com/jirutka/ssh-getkey-gitlab) - A simple script to be used as AuthorizedKeysCommand in OpenSSH server to look up user’s public keys in GitLab or GitHub. (1 day ago)
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (1 day ago)
-- [sivchari/awsim](https://github.com/sivchari/awsim) - A lightweight AWS service emulator written in Go for CI/CD environments (5 days ago)
-- [Vrun-design/openflowkit](https://github.com/Vrun-design/openflowkit) - The open-source, white-label diagramming canvas. Built with React Flow &#43; Mermaid.js. (6 days ago)
+- [jirutka/ssh-getkey-gitlab](https://github.com/jirutka/ssh-getkey-gitlab) - A simple script to be used as AuthorizedKeysCommand in OpenSSH server to look up user’s public keys in GitLab or GitHub. (2 days ago)
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (2 days ago)
+- [sivchari/awsim](https://github.com/sivchari/awsim) - A lightweight AWS service emulator written in Go for CI/CD environments (6 days ago)
+- [Vrun-design/openflowkit](https://github.com/Vrun-design/openflowkit) - The open-source, white-label diagramming canvas. Built with React Flow &#43; Mermaid.js. (1 week ago)
 - [faucetdb/faucet](https://github.com/faucetdb/faucet) - Faucet is an open-source, single-binary server that turns any SQL database into a secure, governed REST API with role-based access control and native MCP support for applications and AI agents. (1 week ago)
 - [Control-D-Inc/ctrld](https://github.com/Control-D-Inc/ctrld) - A highly configurable, multi-protocol DNS forwarding proxy (1 week ago)
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (2 weeks ago)
