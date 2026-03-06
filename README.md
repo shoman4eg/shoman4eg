@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [jirutka/ssh-getkey-gitlab](https://github.com/jirutka/ssh-getkey-gitlab) - A simple script to be used as AuthorizedKeysCommand in OpenSSH server to look up user’s public keys in GitLab or GitHub. (3 days ago)
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (3 days ago)
+- [jirutka/ssh-getkey-gitlab](https://github.com/jirutka/ssh-getkey-gitlab) - A simple script to be used as AuthorizedKeysCommand in OpenSSH server to look up user’s public keys in GitLab or GitHub. (4 days ago)
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (4 days ago)
 - [sivchari/awsim](https://github.com/sivchari/awsim) - A lightweight AWS service emulator written in Go for CI/CD environments (1 week ago)
 - [Vrun-design/openflowkit](https://github.com/Vrun-design/openflowkit) - The open-source, white-label diagramming canvas. Built with React Flow &#43; Mermaid.js. (1 week ago)
 - [faucetdb/faucet](https://github.com/faucetdb/faucet) - Faucet is an open-source, single-binary server that turns any SQL database into a secure, governed REST API with role-based access control and native MCP support for applications and AI agents. (1 week ago)
@@ -30,7 +30,7 @@
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (2 weeks ago)
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics. (2 weeks ago)
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs. (3 weeks ago)
-- [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists (3 weeks ago)
+- [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for Electronic Engineers and hobbyists (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
