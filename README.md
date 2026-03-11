@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 (2 days ago)
-- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) -  (3 days ago)
-- [grindlemire/go-tui](https://github.com/grindlemire/go-tui) - A declarative terminal UI framework for Go. (4 days ago)
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications. (1 day ago)
+- [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 (3 days ago)
+- [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) -  (4 days ago)
+- [grindlemire/go-tui](https://github.com/grindlemire/go-tui) - A declarative terminal UI framework for Go. (5 days ago)
 - [jirutka/ssh-getkey-gitlab](https://github.com/jirutka/ssh-getkey-gitlab) - A simple script to be used as AuthorizedKeysCommand in OpenSSH server to look up user’s public keys in GitLab or GitHub. (1 week ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (1 week ago)
 - [sivchari/awsim](https://github.com/sivchari/awsim) - A lightweight AWS service emulator written in Go for CI/CD environments (1 week ago)
-- [Vrun-design/openflowkit](https://github.com/Vrun-design/openflowkit) - The open-source, white-label diagramming canvas. Built with React Flow &#43; Mermaid.js. (1 week ago)
+- [Vrun-design/openflowkit](https://github.com/Vrun-design/openflowkit) - The open-source, white-label diagramming canvas. Built with React Flow &#43; Mermaid.js. (2 weeks ago)
 - [faucetdb/faucet](https://github.com/faucetdb/faucet) - Faucet is an open-source, single-binary server that turns any SQL database into a secure, governed REST API with role-based access control and native MCP support for applications and AI agents. (2 weeks ago)
 - [Control-D-Inc/ctrld](https://github.com/Control-D-Inc/ctrld) - A highly configurable, multi-protocol DNS forwarding proxy (2 weeks ago)
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀 (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
