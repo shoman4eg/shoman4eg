@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [templui/templui](https://github.com/templui/templui) - A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Customize everything. Own your code. (3 days ago)
-- [nedois/mantine-dashboard](https://github.com/nedois/mantine-dashboard) -  (5 days ago)
-- [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs (5 days ago)
+- [templui/templui](https://github.com/templui/templui) - A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Customize everything. Own your code. (4 days ago)
+- [nedois/mantine-dashboard](https://github.com/nedois/mantine-dashboard) -  (6 days ago)
+- [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs (6 days ago)
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications. (1 week ago)
 - [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 (1 week ago)
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) -  (1 week ago)
