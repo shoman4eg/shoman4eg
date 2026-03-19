@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bitrix-tools/framework-docs](https://github.com/bitrix-tools/framework-docs) - Официальная документация по фреймворку Bitrix Framework, основной для продуктов &#34;1С-Битрикс: Управление сайтом&#34; и &#34;Битрик24&#34; (3 weeks ago)
+- [bitrix-tools/framework-docs](https://github.com/bitrix-tools/framework-docs) - Официальная документация по фреймворку Bitrix Framework, основной для продуктов &#34;1С-Битрикс: Управление сайтом&#34; и &#34;Битрик24&#34; (4 weeks ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 month ago)
 - [spiral/dumper](https://github.com/spiral/dumper) - Colorful variable dumper: HTML, logs and CLI support. Subtree split of the Spiral Dumper component (see spiral/framework) (8 months ago)
 
@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [templui/templui](https://github.com/templui/templui) - A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Customize everything. Own your code. (4 days ago)
-- [nedois/mantine-dashboard](https://github.com/nedois/mantine-dashboard) -  (6 days ago)
-- [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs (6 days ago)
+- [templui/templui](https://github.com/templui/templui) - A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Customize everything. Own your code. (5 days ago)
+- [nedois/mantine-dashboard](https://github.com/nedois/mantine-dashboard) -  (1 week ago)
+- [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs (1 week ago)
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications. (1 week ago)
 - [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 (1 week ago)
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) -  (1 week ago)
 - [grindlemire/go-tui](https://github.com/grindlemire/go-tui) - A declarative terminal UI framework for Go. (1 week ago)
 - [jirutka/ssh-getkey-gitlab](https://github.com/jirutka/ssh-getkey-gitlab) - A simple script to be used as AuthorizedKeysCommand in OpenSSH server to look up user’s public keys in GitLab or GitHub. (2 weeks ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (2 weeks ago)
-- [sivchari/awsim](https://github.com/sivchari/awsim) - A lightweight AWS service emulator written in Go for CI/CD environments (2 weeks ago)
+- [sivchari/awsim](https://github.com/sivchari/awsim) - A lightweight AWS service emulator written in Go for CI/CD environments (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
