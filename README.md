@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [templui/templui](https://github.com/templui/templui) - A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Customize everything. Own your code. (5 days ago)
+- [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) - A pragmatic event sourcing library for PHP with a focus on developer experience. (1 day ago)
+- [templui/templui](https://github.com/templui/templui) - A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Customize everything. Own your code. (6 days ago)
 - [nedois/mantine-dashboard](https://github.com/nedois/mantine-dashboard) -  (1 week ago)
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs (1 week ago)
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications. (1 week ago)
 - [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 (1 week ago)
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) -  (1 week ago)
-- [grindlemire/go-tui](https://github.com/grindlemire/go-tui) - A declarative terminal UI framework for Go. (1 week ago)
+- [grindlemire/go-tui](https://github.com/grindlemire/go-tui) - A declarative terminal UI framework for Go. (2 weeks ago)
 - [jirutka/ssh-getkey-gitlab](https://github.com/jirutka/ssh-getkey-gitlab) - A simple script to be used as AuthorizedKeysCommand in OpenSSH server to look up user’s public keys in GitLab or GitHub. (2 weeks ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (2 weeks ago)
-- [sivchari/awsim](https://github.com/sivchari/awsim) - A lightweight AWS service emulator written in Go for CI/CD environments (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
