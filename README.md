@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [Matthew-petroff/diablo-mapgen](https://github.com/Matthew-petroff/diablo-mapgen) - Diablo - Map Generation (today)
-- [textfuel/lazyjira](https://github.com/textfuel/lazyjira) - Lazygit but for Jira (today)
-- [guerinoni/sieve](https://github.com/guerinoni/sieve) - In memory cache with sieve eviction algorithm in pure Go. (6 days ago)
+- [Matthew-petroff/diablo-mapgen](https://github.com/Matthew-petroff/diablo-mapgen) - Diablo - Map Generation (1 day ago)
+- [textfuel/lazyjira](https://github.com/textfuel/lazyjira) - Lazygit but for Jira (1 day ago)
+- [guerinoni/sieve](https://github.com/guerinoni/sieve) - In memory cache with sieve eviction algorithm in pure Go. (1 week ago)
 - [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) - A pragmatic event sourcing library for PHP with a focus on developer experience. (1 week ago)
 - [templui/templui](https://github.com/templui/templui) - A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Customize everything. Own your code. (1 week ago)
 - [nedois/mantine-dashboard](https://github.com/nedois/mantine-dashboard) -  (2 weeks ago)
