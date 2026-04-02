@@ -21,14 +21,14 @@
 
 #### ⭐ Recent Stars
 
-- [dhanush777x/dotfiles](https://github.com/dhanush777x/dotfiles) - A minimal, keyboard-driven bspwm setup with Catppuccin Mocha aesthetics. (4 days ago)
-- [Matthew-petroff/diablo-mapgen](https://github.com/Matthew-petroff/diablo-mapgen) - Diablo - Map Generation (6 days ago)
-- [textfuel/lazyjira](https://github.com/textfuel/lazyjira) - Lazygit but for Jira (6 days ago)
+- [dhanush777x/dotfiles](https://github.com/dhanush777x/dotfiles) - A minimal, keyboard-driven bspwm setup with Catppuccin Mocha aesthetics. (5 days ago)
+- [Matthew-petroff/diablo-mapgen](https://github.com/Matthew-petroff/diablo-mapgen) - Diablo - Map Generation (1 week ago)
+- [textfuel/lazyjira](https://github.com/textfuel/lazyjira) - Lazygit but for Jira (1 week ago)
 - [guerinoni/sieve](https://github.com/guerinoni/sieve) - In memory cache with sieve eviction algorithm in pure Go. (1 week ago)
-- [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) - A pragmatic event sourcing library for PHP with a focus on developer experience. (1 week ago)
+- [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) - A pragmatic event sourcing library for PHP with a focus on developer experience. (2 weeks ago)
 - [templui/templui](https://github.com/templui/templui) - A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Customize everything. Own your code. (2 weeks ago)
-- [nedois/mantine-dashboard](https://github.com/nedois/mantine-dashboard) -  (2 weeks ago)
-- [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs (2 weeks ago)
+- [nedois/mantine-dashboard](https://github.com/nedois/mantine-dashboard) -  (3 weeks ago)
+- [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs (3 weeks ago)
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications. (3 weeks ago)
 - [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 (3 weeks ago)
 
