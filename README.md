@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress (2 days ago)
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress (3 days ago)
 - [dhanush777x/dotfiles](https://github.com/dhanush777x/dotfiles) - A minimal, keyboard-driven bspwm setup with Catppuccin Mocha aesthetics. (1 week ago)
 - [Matthew-petroff/diablo-mapgen](https://github.com/Matthew-petroff/diablo-mapgen) - Diablo - Map Generation (1 week ago)
 - [textfuel/lazyjira](https://github.com/textfuel/lazyjira) - Lazygit but for Jira (1 week ago)
