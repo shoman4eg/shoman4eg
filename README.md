@@ -21,7 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress (3 days ago)
+- [DanielLavrushin/b4](https://github.com/DanielLavrushin/b4) - Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems. (1 day ago)
+- [app-dev-panel/app-dev-panel](https://github.com/app-dev-panel/app-dev-panel) - The best framework and language (soon) agnostic Application Development Panel (1 day ago)
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress (4 days ago)
 - [dhanush777x/dotfiles](https://github.com/dhanush777x/dotfiles) - A minimal, keyboard-driven bspwm setup with Catppuccin Mocha aesthetics. (1 week ago)
 - [Matthew-petroff/diablo-mapgen](https://github.com/Matthew-petroff/diablo-mapgen) - Diablo - Map Generation (1 week ago)
 - [textfuel/lazyjira](https://github.com/textfuel/lazyjira) - Lazygit but for Jira (1 week ago)
@@ -29,8 +31,6 @@
 - [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) - A pragmatic event sourcing library for PHP with a focus on developer experience. (2 weeks ago)
 - [templui/templui](https://github.com/templui/templui) - A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Customize everything. Own your code. (3 weeks ago)
 - [nedois/mantine-dashboard](https://github.com/nedois/mantine-dashboard) -  (3 weeks ago)
-- [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs (3 weeks ago)
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
