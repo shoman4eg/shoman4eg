@@ -21,9 +21,9 @@
 
 #### ⭐ Recent Stars
 
-- [czl9707/build-your-own-openclaw](https://github.com/czl9707/build-your-own-openclaw) - A step-by-step guide to build your own AI agent. (3 days ago)
-- [DanielLavrushin/b4](https://github.com/DanielLavrushin/b4) - Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems. (6 days ago)
-- [app-dev-panel/app-dev-panel](https://github.com/app-dev-panel/app-dev-panel) - The best framework and language (soon) agnostic Application Development Panel (6 days ago)
+- [czl9707/build-your-own-openclaw](https://github.com/czl9707/build-your-own-openclaw) - A step-by-step guide to build your own AI agent. (4 days ago)
+- [DanielLavrushin/b4](https://github.com/DanielLavrushin/b4) - Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems. (1 week ago)
+- [app-dev-panel/app-dev-panel](https://github.com/app-dev-panel/app-dev-panel) - The best framework and language (soon) agnostic Application Development Panel (1 week ago)
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress (1 week ago)
 - [dhanush777x/dotfiles](https://github.com/dhanush777x/dotfiles) - A minimal, keyboard-driven bspwm setup with Catppuccin Mocha aesthetics. (2 weeks ago)
 - [Matthew-petroff/diablo-mapgen](https://github.com/Matthew-petroff/diablo-mapgen) - Diablo - Map Generation (2 weeks ago)
