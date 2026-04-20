@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bitrix-tools/framework-docs](https://github.com/bitrix-tools/framework-docs) - Официальная документация по фреймворку Bitrix Framework, основной для продуктов &#34;1С-Битрикс: Управление сайтом&#34; и &#34;Битрик24&#34; (1 month ago)
+- [bitrix-tools/framework-docs](https://github.com/bitrix-tools/framework-docs) - Официальная документация по фреймворку Bitrix Framework, основной для продуктов &#34;1С-Битрикс: Управление сайтом&#34; и &#34;Битрик24&#34; (2 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 months ago)
 - [spiral/dumper](https://github.com/spiral/dumper) - Colorful variable dumper: HTML, logs and CLI support. Subtree split of the Spiral Dumper component (see spiral/framework) (9 months ago)
 
@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [Cloud-City-Computing/c2](https://github.com/Cloud-City-Computing/c2) - Cloud Codex is a self-hosted documentation platform that lets teams write, organize, and collaborate on documents in real time.  (4 days ago)
+- [Cloud-City-Computing/c2](https://github.com/Cloud-City-Computing/c2) - Cloud Codex is a self-hosted documentation platform that lets teams write, organize, and collaborate on documents in real time.  (5 days ago)
 - [czl9707/build-your-own-openclaw](https://github.com/czl9707/build-your-own-openclaw) - A step-by-step guide to build your own AI agent. (1 week ago)
 - [DanielLavrushin/b4](https://github.com/DanielLavrushin/b4) - Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems. (2 weeks ago)
 - [app-dev-panel/app-dev-panel](https://github.com/app-dev-panel/app-dev-panel) - The best framework and language (soon) agnostic Application Development Panel (2 weeks ago)
