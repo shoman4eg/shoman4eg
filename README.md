@@ -21,6 +21,7 @@
 
 #### ⭐ Recent Stars
 
+- [0xa3k5/web3icons](https://github.com/0xa3k5/web3icons) - 2000&#43; crypto svg icons for react (today)
 - [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a Full-Stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic. (1 week ago)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (1 week ago)
 - [geodro/lerd](https://github.com/geodro/lerd) - Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless. (1 week ago)
@@ -30,7 +31,6 @@
 - [app-dev-panel/app-dev-panel](https://github.com/app-dev-panel/app-dev-panel) - The best framework and language (soon) agnostic Application Development Panel (3 weeks ago)
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress (4 weeks ago)
 - [dhanush777x/dotfiles](https://github.com/dhanush777x/dotfiles) - A minimal, keyboard-driven bspwm setup with Catppuccin Mocha aesthetics. (1 month ago)
-- [Matthew-petroff/diablo-mapgen](https://github.com/Matthew-petroff/diablo-mapgen) - Diablo - Map Generation (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
