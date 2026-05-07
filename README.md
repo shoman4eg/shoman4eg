@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [0xa3k5/web3icons](https://github.com/0xa3k5/web3icons) - 2000&#43; crypto svg icons for react (5 days ago)
+- [0xa3k5/web3icons](https://github.com/0xa3k5/web3icons) - 2000&#43; crypto svg icons for react (6 days ago)
 - [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnostic. (2 weeks ago)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (2 weeks ago)
 - [geodro/lerd](https://github.com/geodro/lerd) - Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless. (2 weeks ago)
