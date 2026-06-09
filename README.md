@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [nagidev/DialogueNodes](https://github.com/nagidev/DialogueNodes) - A plugin for creating, editing and using branching dialogues in Godot (1 day ago)
+- [nagidev/DialogueNodes](https://github.com/nagidev/DialogueNodes) - A plugin for creating, editing and using branching dialogues in Godot (2 days ago)
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (2 weeks ago)
 - [unidoc/unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents (3 weeks ago)
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259&#43; Skills · ✨ 142&#43; Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi &amp; 17&#43; CLIs. (1 month ago)
@@ -35,10 +35,10 @@
 #### 👯 Check out some of my recent followers
 
 - [meha10195-del](https://github.com/meha10195-del)
-- [dewhush](https://github.com/dewhush)
 - [emilycodestar](https://github.com/emilycodestar)
 - [BCAx123](https://github.com/BCAx123)
 - [S4IL21](https://github.com/S4IL21)
+- [ipqwery](https://github.com/ipqwery)
 
 
 #### 📫 Where to find me
