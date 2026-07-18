@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [dougmaitelli/DockDash](https://github.com/dougmaitelli/DockDash) -  (2 days ago)
-- [nelthaarion/breeze](https://github.com/nelthaarion/breeze) - Breeze — High-Performance Golang Network Framework (3 days ago)
-- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (3 days ago)
+- [dougmaitelli/DockDash](https://github.com/dougmaitelli/DockDash) -  (3 days ago)
+- [nelthaarion/breeze](https://github.com/nelthaarion/breeze) - Breeze — High-Performance Golang Network Framework (4 days ago)
+- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (4 days ago)
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. (1 week ago)
 - [thecodearcher/limen](https://github.com/thecodearcher/limen) - Modern, composable authentication for Go (1 week ago)
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (2 weeks ago)
