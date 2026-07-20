@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 day ago)
 - [bitrix-tools/framework-docs](https://github.com/bitrix-tools/framework-docs) - Официальная документация по фреймворку Bitrix Framework, основной для продуктов &#34;1С-Битрикс: Управление сайтом&#34; и &#34;Битрик24&#34; (5 months ago)
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,10 +20,10 @@
 
 #### ⭐ Recent Stars
 
-- [coveninja/cove](https://github.com/coveninja/cove) - A media streaming app for Linux, Windows, Android &amp; Android TV. Discover, track, and stream movies and TV shows — powered by TMDB metadata, Stremio &amp; Nuvio compatible addons &amp; plugins, and a built-in mpv player. (1 day ago)
-- [dougmaitelli/DockDash](https://github.com/dougmaitelli/DockDash) -  (4 days ago)
-- [nelthaarion/breeze](https://github.com/nelthaarion/breeze) - Breeze — High-Performance Golang Network Framework (5 days ago)
-- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (5 days ago)
+- [coveninja/cove](https://github.com/coveninja/cove) - A media streaming app for Linux, Windows, Android &amp; Android TV. Discover, track, and stream movies and TV shows — powered by TMDB metadata, Stremio &amp; Nuvio compatible addons &amp; plugins, and a built-in mpv player. (2 days ago)
+- [dougmaitelli/DockDash](https://github.com/dougmaitelli/DockDash) -  (5 days ago)
+- [nelthaarion/breeze](https://github.com/nelthaarion/breeze) - Breeze — High-Performance Golang Network Framework (6 days ago)
+- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (6 days ago)
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. (1 week ago)
 - [thecodearcher/limen](https://github.com/thecodearcher/limen) - Modern, composable authentication for Go (1 week ago)
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (2 weeks ago)
