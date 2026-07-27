@@ -2,7 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (6 days ago)
+- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (today)
+- [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 week ago)
 - [bitrix-tools/framework-docs](https://github.com/bitrix-tools/framework-docs) - Официальная документация по фреймворку Bitrix Framework, основной для продуктов &#34;1С-Битрикс: Управление сайтом&#34; и &#34;Битрик24&#34; (5 months ago)
 
 #### 🌱 My latest projects
@@ -20,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [unisic/unisic](https://github.com/unisic/unisic) - Screenshot &amp; screen-recorder for Linux. (2 days ago)
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (4 days ago)
+- [unisic/unisic](https://github.com/unisic/unisic) - Screenshot &amp; screen-recorder for Linux. (3 days ago)
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (5 days ago)
 - [coveninja/cove](https://github.com/coveninja/cove) - A media streaming app for Linux, Windows, Android &amp; Android TV. Discover, track, and stream movies and TV shows — powered by TMDB metadata, Stremio &amp; Nuvio compatible addons &amp; plugins, and a built-in mpv player. (1 week ago)
 - [dougmaitelli/DockDash](https://github.com/dougmaitelli/DockDash) -  (1 week ago)
 - [nelthaarion/breeze](https://github.com/nelthaarion/breeze) - Breeze — High-Performance Golang Network Framework (1 week ago)
