@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API  (today)
+- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - Неофициальный Go API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (today)
+- [bitrix-tools/framework-docs](https://github.com/bitrix-tools/framework-docs) - Официальная документация по фреймворку Bitrix Framework, основной для продуктов &#34;1С-Битрикс: Управление сайтом&#34; и &#34;Битрик24&#34; (4 days ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 week ago)
-- [bitrix-tools/framework-docs](https://github.com/bitrix-tools/framework-docs) - Официальная документация по фреймворку Bitrix Framework, основной для продуктов &#34;1С-Битрикс: Управление сайтом&#34; и &#34;Битрик24&#34; (5 months ago)
 
 #### 🌱 My latest projects
 
 - [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) - 
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori
-- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - [WIP] An unofficial GO wrapper client for lknpd.nalog.ru API 
+- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - Неофициальный Go API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;) 
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;) 
 - [shoman4eg/dotfiles](https://github.com/shoman4eg/dotfiles) - 
 - [shoman4eg/g5-test](https://github.com/shoman4eg/g5-test) - 
@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [unisic/unisic](https://github.com/unisic/unisic) - Screenshot &amp; screen-recorder for Linux. (3 days ago)
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (5 days ago)
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source &amp; free — Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (1 day ago)
+- [unisic/unisic](https://github.com/unisic/unisic) - Screenshot &amp; screen-recorder for Linux. (4 days ago)
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (6 days ago)
 - [coveninja/cove](https://github.com/coveninja/cove) - A media streaming app for Linux, Windows, Android &amp; Android TV. Discover, track, and stream movies and TV shows — powered by TMDB metadata, Stremio &amp; Nuvio compatible addons &amp; plugins, and a built-in mpv player. (1 week ago)
 - [dougmaitelli/DockDash](https://github.com/dougmaitelli/DockDash) -  (1 week ago)
-- [nelthaarion/breeze](https://github.com/nelthaarion/breeze) - Breeze — High-Performance Golang Network Framework (1 week ago)
-- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (1 week ago)
+- [nelthaarion/breeze](https://github.com/nelthaarion/breeze) - Breeze — High-Performance Golang Network Framework (2 weeks ago)
+- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (2 weeks ago)
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. (2 weeks ago)
 - [thecodearcher/limen](https://github.com/thecodearcher/limen) - Modern, composable authentication for Go (2 weeks ago)
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (3 weeks ago)
-- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
