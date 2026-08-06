@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bitrix-tools/framework-docs](https://github.com/bitrix-tools/framework-docs) - Официальная документация по фреймворку Bitrix Framework, основной для продуктов &#34;1С-Битрикс: Управление сайтом&#34; и &#34;Битрик24&#34; (5 days ago)
+- [bitrix-tools/framework-docs](https://github.com/bitrix-tools/framework-docs) - Официальная документация по фреймворку Bitrix Framework, основной для продуктов &#34;1С-Битрикс: Управление сайтом&#34; и &#34;Битрик24&#34; (6 days ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - Неофициальный Go API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 week ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 weeks ago)
 
@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [sitepins/sitepins](https://github.com/sitepins/sitepins) - The open-source Git-based headless CMS you&#39;ve been looking for. Connect your Git repo and start editing. No manual config or schema setup. (3 days ago)
+- [sitepins/sitepins](https://github.com/sitepins/sitepins) - The open-source Git-based headless CMS you&#39;ve been looking for. Connect your Git repo and start editing. No manual config or schema setup. (4 days ago)
 - [versenilvis/IRIS](https://github.com/versenilvis/IRIS) - A shell auto-completion tool for your terminal (1 week ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. (1 week ago)
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (1 week ago)
