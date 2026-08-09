@@ -21,7 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [sitepins/sitepins](https://github.com/sitepins/sitepins) - The open-source Git-based headless CMS you&#39;ve been looking for. Connect your Git repo and start editing. No manual config or schema setup. (6 days ago)
+- [spiritedman4/Obsynk](https://github.com/spiritedman4/Obsynk) - Sync plugin for your Obsidian (1 day ago)
+- [sitepins/sitepins](https://github.com/sitepins/sitepins) - The open-source Git-based headless CMS you&#39;ve been looking for. Connect your Git repo and start editing. No manual config or schema setup. (1 week ago)
 - [versenilvis/IRIS](https://github.com/versenilvis/IRIS) - A shell auto-completion tool for your terminal (1 week ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. (1 week ago)
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (1 week ago)
@@ -30,7 +31,6 @@
 - [coveninja/cove](https://github.com/coveninja/cove) - A media streaming app for Linux, Windows, Android &amp; Android TV. Discover, track, and stream movies and TV shows — powered by TMDB metadata, Stremio &amp; Nuvio compatible addons &amp; plugins, and a built-in mpv player. (3 weeks ago)
 - [dougmaitelli/DockDash](https://github.com/dougmaitelli/DockDash) - A self-hosted dashboard for visualizing Docker containers and network services. DockDash discovers services automatically, tracks their health, monitors container image updates, and lets you map connections between them on an interactive canvas. (3 weeks ago)
 - [nelthaarion/breeze](https://github.com/nelthaarion/breeze) - Breeze — High-Performance Golang Network Framework (3 weeks ago)
-- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
