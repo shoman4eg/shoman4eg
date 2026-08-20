@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [pixlcore/xyops](https://github.com/pixlcore/xyops) - A complete workflow automation and server monitoring system. (1 day ago)
+- [pixlcore/xyops](https://github.com/pixlcore/xyops) - A complete workflow automation and server monitoring system. (2 days ago)
 - [spiritedman4/Obsynk](https://github.com/spiritedman4/Obsynk) - Sync plugin for your Obsidian (1 week ago)
 - [sitepins/sitepins](https://github.com/sitepins/sitepins) - The open-source Git-based headless CMS you&#39;ve been looking for. Connect your Git repo and start editing. No manual config or schema setup. (2 weeks ago)
 - [versenilvis/IRIS](https://github.com/versenilvis/IRIS) - A shell auto-completion tool for your terminal (3 weeks ago)
@@ -29,7 +29,7 @@
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (3 weeks ago)
 - [unisic/unisic](https://github.com/unisic/unisic) - Screenshot &amp; screen-recorder for Linux. (3 weeks ago)
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (4 weeks ago)
-- [coveninja/cove](https://github.com/coveninja/cove) - A media streaming app for Linux, Windows, Android &amp; Android TV. Discover, track, and stream movies and TV shows — powered by TMDB metadata, Stremio &amp; Nuvio compatible addons &amp; plugins, and a built-in mpv player. (1 month ago)
+- [coveninja/cove](https://github.com/coveninja/cove) - A media streaming app for Linux, Windows, macOS, Android &amp; Android TV. Discover, track, and stream movies and TV shows - powered by TMDB metadata, Stremio &amp; Nuvio compatible addons &amp; plugins, and a built-in mpv player. (1 month ago)
 - [dougmaitelli/DockDash](https://github.com/dougmaitelli/DockDash) - A self-hosted dashboard for visualizing Docker containers and network services. DockDash discovers services automatically, tracks their health, monitors container image updates, and lets you map connections between them on an interactive canvas. (1 month ago)
 
 #### 👯 Check out some of my recent followers
