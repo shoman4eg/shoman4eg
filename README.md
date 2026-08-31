@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (5 days ago)
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (6 days ago)
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (1 week ago)
 - [pixlcore/xyops](https://github.com/pixlcore/xyops) - The next generation of Cronicle: open-source job scheduling, visual workflows, server monitoring, alerting, and incident response. (1 week ago)
 - [spiritedman4/Obsynk](https://github.com/spiritedman4/Obsynk) - Sync plugin for your Obsidian (3 weeks ago)
