@@ -21,16 +21,16 @@
 
 #### ⭐ Recent Stars
 
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (6 days ago)
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (1 day ago)
+- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. (1 day ago)
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (1 day ago)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (1 day ago)
+- [swoole/typephp](https://github.com/swoole/typephp) - Compile PHP to Native Binaries (1 day ago)
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 week ago)
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (1 week ago)
-- [pixlcore/xyops](https://github.com/pixlcore/xyops) - The next generation of Cronicle: open-source job scheduling, visual workflows, server monitoring, alerting, and incident response. (1 week ago)
+- [pixlcore/xyops](https://github.com/pixlcore/xyops) - The next generation of Cronicle: open-source job scheduling, visual workflows, server monitoring, alerting, and incident response. (2 weeks ago)
 - [spiritedman4/Obsynk](https://github.com/spiritedman4/Obsynk) - Sync plugin for your Obsidian (3 weeks ago)
-- [sitepins/sitepins](https://github.com/sitepins/sitepins) - The open-source Git-based headless CMS you&#39;ve been looking for. Connect your Git repo and start editing. No manual config or schema setup. (4 weeks ago)
-- [versenilvis/IRIS](https://github.com/versenilvis/IRIS) - A shell auto-completion tool for your terminal (1 month ago)
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. (1 month ago)
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (1 month ago)
-- [unisic/unisic](https://github.com/unisic/unisic) - Screenshot &amp; screen-recorder for Linux. (1 month ago)
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (1 month ago)
+- [sitepins/sitepins](https://github.com/sitepins/sitepins) - The open-source Git-based headless CMS you&#39;ve been looking for. Connect your Git repo and start editing. No manual config or schema setup. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
