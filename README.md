@@ -21,11 +21,11 @@
 
 #### ⭐ Recent Stars
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (1 day ago)
-- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. (1 day ago)
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (1 day ago)
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (1 day ago)
-- [swoole/typephp](https://github.com/swoole/typephp) - Compile PHP to Native Binaries (1 day ago)
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (2 days ago)
+- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. (2 days ago)
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (2 days ago)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (2 days ago)
+- [swoole/typephp](https://github.com/swoole/typephp) - Compile PHP to Native Binaries (2 days ago)
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 week ago)
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (1 week ago)
 - [pixlcore/xyops](https://github.com/pixlcore/xyops) - The next generation of Cronicle: open-source job scheduling, visual workflows, server monitoring, alerting, and incident response. (2 weeks ago)
@@ -34,11 +34,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [hexarch](https://github.com/hexarch)
 - [meha10195-del](https://github.com/meha10195-del)
 - [BCAx123](https://github.com/BCAx123)
 - [S4IL21](https://github.com/S4IL21)
 - [ipqwery](https://github.com/ipqwery)
-- [DevImproject](https://github.com/DevImproject)
 
 
 #### 📫 Where to find me
