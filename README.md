@@ -10,6 +10,7 @@
 
 - [shoman4eg/bspwm-windows](https://github.com/shoman4eg/bspwm-windows) - Polybar module for bspwm windows list with support separate monitors
 - [shoman4eg/go-common](https://github.com/shoman4eg/go-common) - 
+- [shoman4eg/dom-apist](https://github.com/shoman4eg/dom-apist) - Package to provide api-like access to foreign sites based on html parsing
 - [shoman4eg/shikimori-player-extension](https://github.com/shoman4eg/shikimori-player-extension) - Video player for shikimori
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - Неофициальный Go API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;) 
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;) 
@@ -17,18 +18,17 @@
 - [shoman4eg/g5-test](https://github.com/shoman4eg/g5-test) - 
 - [shoman4eg/shoman4eg.github.io](https://github.com/shoman4eg/shoman4eg.github.io) - 
 - [shoman4eg/regrutest](https://github.com/shoman4eg/regrutest) - 
-- [shoman4eg/bitrix-typograf](https://github.com/shoman4eg/bitrix-typograf) - Модуль типографирования для нового визуального редактора битрикса, с использованием API сайта typograf.ru
 
 #### ⭐ Recent Stars
 
-- [goosen-x/pixeltool](https://github.com/goosen-x/pixeltool) -  (today)
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (3 days ago)
-- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. (3 days ago)
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (3 days ago)
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (3 days ago)
-- [swoole/typephp](https://github.com/swoole/typephp) - Compile PHP to Native Binaries (3 days ago)
+- [goosen-x/pixeltool](https://github.com/goosen-x/pixeltool) -  (1 day ago)
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (4 days ago)
+- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. (4 days ago)
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (4 days ago)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (4 days ago)
+- [swoole/typephp](https://github.com/swoole/typephp) - Compile PHP to Native Binaries (4 days ago)
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 week ago)
-- [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (1 week ago)
+- [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (2 weeks ago)
 - [pixlcore/xyops](https://github.com/pixlcore/xyops) - The next generation of Cronicle: open-source job scheduling, visual workflows, server monitoring, alerting, and incident response. (2 weeks ago)
 - [spiritedman4/Obsynk](https://github.com/spiritedman4/Obsynk) - Sync plugin for your Obsidian (3 weeks ago)
 
