@@ -21,7 +21,7 @@
 
 #### ⭐ Recent Stars
 
-- [goosen-x/pixeltool](https://github.com/goosen-x/pixeltool) -  (5 days ago)
+- [goosen-x/pixeltool](https://github.com/goosen-x/pixeltool) -  (6 days ago)
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (1 week ago)
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. (1 week ago)
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (1 week ago)
