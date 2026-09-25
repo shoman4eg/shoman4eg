@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [MunMunMiao/headscale-ui](https://github.com/MunMunMiao/headscale-ui) - A Bun-powered Headscale web UI with profile management, multilingual support, and a friendly Vue control panel. (4 days ago)
-- [Mekotofeuka/MTPROTO_FIX_By_MEKO](https://github.com/Mekotofeuka/MTPROTO_FIX_By_MEKO) - Universal VPN and MTProto/WEB proxy installer &amp; fix - one‑click setup of Telemt, MTG, MTProtoZig etc MTProxy. Solves iOS/Android/Desktop connection issues, includes SNI checker, Panels installer and config editor. Настраиваем MTProto/WEB прокси за 1 минуту. 通用 VPN 和 MTProto 代理一键安装与修复工具，内置 SNI 检测、 (1 week ago)
+- [MunMunMiao/headscale-ui](https://github.com/MunMunMiao/headscale-ui) - A Bun-powered Headscale web UI with profile management, multilingual support, and a friendly Vue control panel. (5 days ago)
+- [Mekotofeuka/MTPROTO_FIX_By_MEKO](https://github.com/Mekotofeuka/MTPROTO_FIX_By_MEKO) - Universal VPN and MTProto/WEB proxy installer &amp; fix - one‑click setup of Telemt, MTG, MTProtoZig etc MTProxy. Solves iOS/Android/Desktop connection issues, includes SNI checker, Panels installer and config editor. Настраиваем MTProto/WEB прокси за 1 минуту. 通用 VPN 和 MTProto 代理一键安装与修复工具，内置 SNI 检测、 (2 weeks ago)
 - [goosen-x/pixeltool](https://github.com/goosen-x/pixeltool) -  (3 weeks ago)
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (3 weeks ago)
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. (3 weeks ago)
