@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [bitrix-tools/framework-docs](https://github.com/bitrix-tools/framework-docs) - Официальная документация по фреймворку Bitrix Framework, основной для продуктов &#34;1С-Битрикс: Управление сайтом&#34; и &#34;Битрик24&#34; (1 month ago)
-- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - Неофициальный Go API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 month ago)
+- [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - Неофициальный Go API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 months ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 months ago)
 
 #### 🌱 My latest projects
@@ -21,7 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [MunMunMiao/headscale-ui](https://github.com/MunMunMiao/headscale-ui) - A Bun-powered Headscale web UI with profile management, multilingual support, and a friendly Vue control panel. (5 days ago)
+- [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform (1 day ago)
+- [MunMunMiao/headscale-ui](https://github.com/MunMunMiao/headscale-ui) - A Bun-powered Headscale web UI with profile management, multilingual support, and a friendly Vue control panel. (6 days ago)
 - [Mekotofeuka/MTPROTO_FIX_By_MEKO](https://github.com/Mekotofeuka/MTPROTO_FIX_By_MEKO) - Universal VPN and MTProto/WEB proxy installer &amp; fix - one‑click setup of Telemt, MTG, MTProtoZig etc MTProxy. Solves iOS/Android/Desktop connection issues, includes SNI checker, Panels installer and config editor. Настраиваем MTProto/WEB прокси за 1 минуту. 通用 VPN 和 MTProto 代理一键安装与修复工具，内置 SNI 检测、 (2 weeks ago)
 - [goosen-x/pixeltool](https://github.com/goosen-x/pixeltool) -  (3 weeks ago)
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (3 weeks ago)
@@ -30,7 +31,6 @@
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (3 weeks ago)
 - [swoole/typephp](https://github.com/swoole/typephp) - Compile PHP to Native Binaries (3 weeks ago)
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 month ago)
-- [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
