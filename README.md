@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform (1 day ago)
-- [MunMunMiao/headscale-ui](https://github.com/MunMunMiao/headscale-ui) - A Bun-powered Headscale web UI with profile management, multilingual support, and a friendly Vue control panel. (6 days ago)
+- [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform (2 days ago)
+- [MunMunMiao/headscale-ui](https://github.com/MunMunMiao/headscale-ui) - A Bun-powered Headscale web UI with profile management, multilingual support, and a friendly Vue control panel. (1 week ago)
 - [Mekotofeuka/MTPROTO_FIX_By_MEKO](https://github.com/Mekotofeuka/MTPROTO_FIX_By_MEKO) - Universal VPN and MTProto/WEB proxy installer &amp; fix - one‑click setup of Telemt, MTG, MTProtoZig etc MTProxy. Solves iOS/Android/Desktop connection issues, includes SNI checker, Panels installer and config editor. Настраиваем MTProto/WEB прокси за 1 минуту. 通用 VPN 和 MTProto 代理一键安装与修复工具，内置 SNI 检测、 (2 weeks ago)
 - [goosen-x/pixeltool](https://github.com/goosen-x/pixeltool) -  (3 weeks ago)
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (3 weeks ago)
