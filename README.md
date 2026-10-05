@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Open-source, AI-native knowledge base &amp; Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker. (3 days ago)
-- [avansaber/seo-monster](https://github.com/avansaber/seo-monster) - SEOMonster: a local, user-credential-driven MCP server for SEO workflows over Google Search Console, GA4, PageSpeed Insights, and Cloudflare. Read-first, open source. (6 days ago)
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - Open-source, AI-native knowledge base &amp; Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker. (4 days ago)
+- [avansaber/seo-monster](https://github.com/avansaber/seo-monster) - SEOMonster: a local, user-credential-driven MCP server for SEO workflows over Google Search Console, GA4, PageSpeed Insights, and Cloudflare. Read-first, open source. (1 week ago)
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform (1 week ago)
 - [MunMunMiao/headscale-ui](https://github.com/MunMunMiao/headscale-ui) - A Bun-powered Headscale web UI with profile management, multilingual support, and a friendly Vue control panel. (2 weeks ago)
 - [Mekotofeuka/MTPROTO_FIX_By_MEKO](https://github.com/Mekotofeuka/MTPROTO_FIX_By_MEKO) - Universal VPN and MTProto/WEB proxy installer &amp; fix - one‑click setup of Telemt, MTG, MTProtoZig etc MTProxy. Solves iOS/Android/Desktop connection issues, includes SNI checker, Panels installer and config editor. Настраиваем MTProto/WEB прокси за 1 минуту. 通用 VPN 和 MTProto 代理一键安装与修复工具，内置 SNI 检测、 (3 weeks ago)
@@ -30,7 +30,7 @@
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (1 month ago)
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. (1 month ago)
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (1 month ago)
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (1 month ago)
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
