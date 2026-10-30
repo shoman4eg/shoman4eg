@@ -24,8 +24,9 @@
 
 #### ⭐ Recent Stars
 
-- [infosave2007/aivpn](https://github.com/infosave2007/aivpn) -  AI-VPN that makes your traffic invisible to deep packet inspection (today)
-- [OutThisLife/azeroth-survivors-re](https://github.com/OutThisLife/azeroth-survivors-re) - A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust &#43; Bevy). (1 day ago)
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (today)
+- [infosave2007/aivpn](https://github.com/infosave2007/aivpn) -  AI-VPN that makes your traffic invisible to deep packet inspection (1 day ago)
+- [OutThisLife/azeroth-survivors-re](https://github.com/OutThisLife/azeroth-survivors-re) - A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust &#43; Bevy). (2 days ago)
 - [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian &amp; Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command. (1 week ago)
 - [justxor/awesome-decomp-games-ru](https://github.com/justxor/awesome-decomp-games-ru) - 🎮 Каталог и гайд на русском: декомпиляции, рекомпиляции и нативные порты игр — Zelda, Mario 64, Sonic, Diablo, GTA на ПК, Mac, Linux, Android и в браузере без эмулятора. 2100&#43; проектов, топ, FAQ, как декомпилировать самому (1 week ago)
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs (2 weeks ago)
@@ -33,7 +34,6 @@
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym &amp; body-weight tracker, now in the App Store (iPhone &#43; Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone. (3 weeks ago)
 - [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native knowledge base &amp; Evernote/Obsidian alternative with instant sync &amp; native MCP. Free on Cloudflare or self-hosted via Docker. (4 weeks ago)
 - [avansaber/seo-monster](https://github.com/avansaber/seo-monster) - SEOMonster: a local, user-credential-driven MCP server for SEO workflows over Google Search Console, GA4, PageSpeed Insights, and Cloudflare. Read-first, open source. (1 month ago)
-- [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
