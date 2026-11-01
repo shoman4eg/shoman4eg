@@ -24,10 +24,10 @@
 
 #### ⭐ Recent Stars
 
-- [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺 (today)
-- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (1 day ago)
-- [infosave2007/aivpn](https://github.com/infosave2007/aivpn) -  AI-VPN that makes your traffic invisible to deep packet inspection (2 days ago)
-- [OutThisLife/azeroth-survivors-re](https://github.com/OutThisLife/azeroth-survivors-re) - A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust &#43; Bevy). (3 days ago)
+- [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺 (1 day ago)
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (2 days ago)
+- [infosave2007/aivpn](https://github.com/infosave2007/aivpn) -  AI-VPN that makes your traffic invisible to deep packet inspection (3 days ago)
+- [OutThisLife/azeroth-survivors-re](https://github.com/OutThisLife/azeroth-survivors-re) - A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust &#43; Bevy). (4 days ago)
 - [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian &amp; Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command. (1 week ago)
 - [justxor/awesome-decomp-games-ru](https://github.com/justxor/awesome-decomp-games-ru) - 🎮 Каталог и гайд на русском: декомпиляции, рекомпиляции и нативные порты игр — Zelda, Mario 64, Sonic, Diablo, GTA на ПК, Mac, Linux, Android и в браузере без эмулятора. 2100&#43; проектов, топ, FAQ, как декомпилировать самому (1 week ago)
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs (2 weeks ago)
