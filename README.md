@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [shoman4eg/dowelcraft](https://github.com/shoman4eg/dowelcraft) - Cabinet furniture design: parts, sheet cutting, drilling, drawings. Opens and exports Bazis-Mebelshchik models. Desktop app, CLI and MCP server for AI. Early alpha. (1 week ago)
-- [shoman4eg/homebrew-tap](https://github.com/shoman4eg/homebrew-tap) - Homebrew tap for shoman4eg&#39;s tools (1 week ago)
+- [shoman4eg/homebrew-tap](https://github.com/shoman4eg/homebrew-tap) - Homebrew tap for shoman4eg&#39;s tools (2 weeks ago)
 - [shoman4eg/go-regru](https://github.com/shoman4eg/go-regru) - Go client for REG.API 2 (reg.ru): domains, DNS zones, DNSSEC, services, billing (2 weeks ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (2 weeks ago)
 - [bitrix-tools/framework-docs](https://github.com/bitrix-tools/framework-docs) - Официальная документация по фреймворку Bitrix Framework, основной для продуктов &#34;1С-Битрикс: Управление сайтом&#34; и &#34;Битрик24&#34; (3 months ago)
@@ -24,15 +24,15 @@
 
 #### ⭐ Recent Stars
 
-- [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺 (1 day ago)
-- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (2 days ago)
-- [infosave2007/aivpn](https://github.com/infosave2007/aivpn) -  AI-VPN that makes your traffic invisible to deep packet inspection (3 days ago)
-- [OutThisLife/azeroth-survivors-re](https://github.com/OutThisLife/azeroth-survivors-re) - A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust &#43; Bevy). (4 days ago)
+- [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺 (2 days ago)
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (3 days ago)
+- [infosave2007/aivpn](https://github.com/infosave2007/aivpn) -  AI-VPN that makes your traffic invisible to deep packet inspection (4 days ago)
+- [OutThisLife/azeroth-survivors-re](https://github.com/OutThisLife/azeroth-survivors-re) - A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust &#43; Bevy). (5 days ago)
 - [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian &amp; Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command. (1 week ago)
-- [justxor/awesome-decomp-games-ru](https://github.com/justxor/awesome-decomp-games-ru) - 🎮 Каталог и гайд на русском: декомпиляции, рекомпиляции и нативные порты игр — Zelda, Mario 64, Sonic, Diablo, GTA на ПК, Mac, Linux, Android и в браузере без эмулятора. 2100&#43; проектов, топ, FAQ, как декомпилировать самому (1 week ago)
+- [justxor/awesome-decomp-games-ru](https://github.com/justxor/awesome-decomp-games-ru) - 🎮 Каталог и гайд на русском: декомпиляции, рекомпиляции и нативные порты игр — Zelda, Mario 64, Sonic, Diablo, GTA на ПК, Mac, Linux, Android и в браузере без эмулятора. 2100&#43; проектов, топ, FAQ, как декомпилировать самому (2 weeks ago)
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs (2 weeks ago)
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player. (2 weeks ago)
-- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym &amp; body-weight tracker, now in the App Store (iPhone &#43; Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone. (3 weeks ago)
+- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym &amp; body-weight tracker, now in the App Store (iPhone &#43; Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone. (4 weeks ago)
 - [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native knowledge base &amp; Evernote/Obsidian alternative with instant sync &amp; native MCP. Free on Cloudflare or self-hosted via Docker. (1 month ago)
 
 #### 👯 Check out some of my recent followers
