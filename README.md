@@ -24,16 +24,16 @@
 
 #### ⭐ Recent Stars
 
-- [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺 (2 days ago)
-- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (3 days ago)
-- [infosave2007/aivpn](https://github.com/infosave2007/aivpn) -  AI-VPN that makes your traffic invisible to deep packet inspection (4 days ago)
-- [OutThisLife/azeroth-survivors-re](https://github.com/OutThisLife/azeroth-survivors-re) - A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust &#43; Bevy). (5 days ago)
-- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian &amp; Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command. (1 week ago)
+- [Squarebow/Orfeo](https://github.com/Squarebow/Orfeo) - A modern piano-learning and MIDI visualization desktop app for Windows — falling notes, interactive chord &amp; scale explorers, real-time chord detection. From MIDI to mastery. (1 day ago)
+- [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺 (3 days ago)
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (4 days ago)
+- [infosave2007/aivpn](https://github.com/infosave2007/aivpn) -  AI-VPN that makes your traffic invisible to deep packet inspection (5 days ago)
+- [OutThisLife/azeroth-survivors-re](https://github.com/OutThisLife/azeroth-survivors-re) - A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust &#43; Bevy). (6 days ago)
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian &amp; Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command. (2 weeks ago)
 - [justxor/awesome-decomp-games-ru](https://github.com/justxor/awesome-decomp-games-ru) - 🎮 Каталог и гайд на русском: декомпиляции, рекомпиляции и нативные порты игр — Zelda, Mario 64, Sonic, Diablo, GTA на ПК, Mac, Linux, Android и в браузере без эмулятора. 2100&#43; проектов, топ, FAQ, как декомпилировать самому (2 weeks ago)
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs (2 weeks ago)
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player. (2 weeks ago)
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym &amp; body-weight tracker, now in the App Store (iPhone &#43; Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone. (4 weeks ago)
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native knowledge base &amp; Evernote/Obsidian alternative with instant sync &amp; native MCP. Free on Cloudflare or self-hosted via Docker. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
