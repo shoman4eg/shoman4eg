@@ -24,9 +24,9 @@
 
 #### ⭐ Recent Stars
 
-- [janvarev/Irene-Voice-Assistant](https://github.com/janvarev/Irene-Voice-Assistant) - Ирина - русский голосовой ассистент для работы оффлайн. Поддерживает скиллы через плагины. (3 days ago)
-- [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) - Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language. (4 days ago)
-- [Squarebow/Orfeo](https://github.com/Squarebow/Orfeo) - A modern piano-learning and MIDI visualization cross-platform app — falling notes, interactive chord &amp; scale explorers, real-time chord detection. From MIDI to mastery. (5 days ago)
+- [janvarev/Irene-Voice-Assistant](https://github.com/janvarev/Irene-Voice-Assistant) - Ирина - русский голосовой ассистент для работы оффлайн. Поддерживает скиллы через плагины. (4 days ago)
+- [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) - Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language. (5 days ago)
+- [Squarebow/Orfeo](https://github.com/Squarebow/Orfeo) - A modern piano-learning and MIDI visualization cross-platform app — falling notes, interactive chord &amp; scale explorers, real-time chord detection. From MIDI to mastery. (6 days ago)
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺 (1 week ago)
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (1 week ago)
 - [infosave2007/aivpn](https://github.com/infosave2007/aivpn) -  AI-VPN that makes your traffic invisible to deep packet inspection (1 week ago)
