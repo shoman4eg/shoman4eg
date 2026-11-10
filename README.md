@@ -24,15 +24,15 @@
 
 #### ⭐ Recent Stars
 
-- [isair/jarvis](https://github.com/isair/jarvis) - Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux. (1 day ago)
-- [janvarev/Irene-Voice-Assistant](https://github.com/janvarev/Irene-Voice-Assistant) - Ирина - русский голосовой ассистент для работы оффлайн. Поддерживает скиллы через плагины. (5 days ago)
-- [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) - Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language. (6 days ago)
+- [isair/jarvis](https://github.com/isair/jarvis) - Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux. (2 days ago)
+- [janvarev/Irene-Voice-Assistant](https://github.com/janvarev/Irene-Voice-Assistant) - Ирина - русский голосовой ассистент для работы оффлайн. Поддерживает скиллы через плагины. (6 days ago)
+- [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) - Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language. (1 week ago)
 - [Squarebow/Orfeo](https://github.com/Squarebow/Orfeo) - A modern piano-learning and MIDI visualization cross-platform app — falling notes, interactive chord &amp; scale explorers, real-time chord detection. From MIDI to mastery. (1 week ago)
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺 (1 week ago)
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases (1 week ago)
 - [infosave2007/aivpn](https://github.com/infosave2007/aivpn) -  AI-VPN that makes your traffic invisible to deep packet inspection (1 week ago)
 - [OutThisLife/azeroth-survivors-re](https://github.com/OutThisLife/azeroth-survivors-re) - A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust &#43; Bevy). (1 week ago)
-- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian &amp; Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command. (2 weeks ago)
+- [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - 📚 The open-source, offline-first Notion, Obsidian &amp; Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command. (3 weeks ago)
 - [justxor/awesome-decomp-games-ru](https://github.com/justxor/awesome-decomp-games-ru) - 🎮 Каталог и гайд на русском: декомпиляции, рекомпиляции и нативные порты игр — Zelda, Mario 64, Sonic, Diablo, GTA на ПК, Mac, Linux, Android и в браузере без эмулятора. 2100&#43; проектов, топ, FAQ, как декомпилировать самому (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
