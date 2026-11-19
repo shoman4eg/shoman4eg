@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/dowelcraft](https://github.com/shoman4eg/dowelcraft) - Cabinet furniture design: parts, sheet cutting, drilling, drawings. Opens and exports Bazis-Mebelshchik models. Desktop app, CLI and MCP server for AI. Early alpha. (5 days ago)
+- [shoman4eg/dowelcraft](https://github.com/shoman4eg/dowelcraft) - Cabinet furniture design: parts, sheet cutting, drilling, drawings. Opens and exports Bazis-Mebelshchik models. Desktop app, CLI and MCP server for AI. Early alpha. (6 days ago)
 - [shoman4eg/homebrew-tap](https://github.com/shoman4eg/homebrew-tap) - Homebrew tap for shoman4eg&#39;s tools (1 month ago)
 - [shoman4eg/go-regru](https://github.com/shoman4eg/go-regru) - Go client for REG.API 2 (reg.ru): domains, DNS zones, DNSSEC, services, billing (1 month ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 month ago)
@@ -24,16 +24,16 @@
 
 #### ⭐ Recent Stars
 
-- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Selfhosted Netflix (2 days ago)
-- [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper. (2 days ago)
-- [degenview/degenview](https://github.com/degenview/degenview) - Open-source TradingView alternative with Pine script support (6 days ago)
-- [0xCodez/DuoDesk](https://github.com/0xCodez/DuoDesk) - All your computers and your phone, working as one desk. Aurora redesign of TwinDesk. GPL-3.0 (6 days ago)
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (today)
+- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Selfhosted Netflix (3 days ago)
+- [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper. (3 days ago)
+- [degenview/degenview](https://github.com/degenview/degenview) - Open-source TradingView alternative with Pine script support (1 week ago)
+- [0xCodez/DuoDesk](https://github.com/0xCodez/DuoDesk) - All your computers and your phone, working as one desk. Aurora redesign of TwinDesk. GPL-3.0 (1 week ago)
 - [justman-1/HomeMusic-public](https://github.com/justman-1/HomeMusic-public) - HomeMusic — личный музыкальный сервис: Navidrome &#43; Хаб (FastAPI, React PWA) &#43; Android-приложение (1 week ago)
 - [isair/jarvis](https://github.com/isair/jarvis) - A 100% private and local AI assistant for your desktop. Always present, able to jump into conversations. Supports unlimited MCP tools and unlimited memory with self-learning. Free WisprFlow alternative with its dictation support. Runs on macOS, Windows and Linux. (1 week ago)
 - [janvarev/Irene-Voice-Assistant](https://github.com/janvarev/Irene-Voice-Assistant) - Ирина - русский голосовой ассистент для работы оффлайн. Поддерживает скиллы через плагины. (2 weeks ago)
 - [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) - Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language. (2 weeks ago)
 - [Squarebow/Orfeo](https://github.com/Squarebow/Orfeo) - A modern piano-learning and MIDI visualization cross-platform app — falling notes, interactive chord &amp; scale explorers, real-time chord detection. From MIDI to mastery. (2 weeks ago)
-- [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺 (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
