@@ -24,11 +24,11 @@
 
 #### ⭐ Recent Stars
 
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. (2 days ago)
-- [VinceGHER/openwren](https://github.com/VinceGHER/openwren) - A modern, fast, privacy-first mail app that keeps your mail on your computer. Free and open source, for Linux, macOS and Windows. Built with Rust and React. (3 days ago)
-- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (3 days ago)
-- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Selfhosted Netflix (6 days ago)
-- [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper. (6 days ago)
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. (3 days ago)
+- [VinceGHER/openwren](https://github.com/VinceGHER/openwren) - A modern, fast, privacy-first email client that keeps your mail on your computer. Free and open source, for Linux, macOS and Windows. Built with Rust and React. (4 days ago)
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (4 days ago)
+- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Selfhosted Netflix (1 week ago)
+- [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper. (1 week ago)
 - [degenview/degenview](https://github.com/degenview/degenview) - Open-source TradingView alternative with Pine script support (1 week ago)
 - [0xCodez/DuoDesk](https://github.com/0xCodez/DuoDesk) - All your computers and your phone, working as one desk. Aurora redesign of TwinDesk. GPL-3.0 (1 week ago)
 - [justman-1/HomeMusic-public](https://github.com/justman-1/HomeMusic-public) - HomeMusic — личный музыкальный сервис: Navidrome &#43; Хаб (FastAPI, React PWA) &#43; Android-приложение (1 week ago)
