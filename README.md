@@ -2,7 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shoman4eg/dowelcraft](https://github.com/shoman4eg/dowelcraft) - Cabinet furniture design: parts, sheet cutting, drilling, drawings. Opens and exports Bazis-Mebelshchik models. Desktop app, CLI and MCP server for AI. Early alpha. (1 week ago)
+- [samehelhawary/phoxite](https://github.com/samehelhawary/phoxite) - PHP and Laravel code intelligence in Rust: an engine, a language server and a VS Code extension. (1 day ago)
+- [shoman4eg/dowelcraft](https://github.com/shoman4eg/dowelcraft) - Cabinet furniture design: parts, sheet cutting, drilling, drawings. Opens and exports Bazis-Mebelshchik models. Desktop app, CLI and MCP server for AI. Early alpha. (2 weeks ago)
 - [shoman4eg/homebrew-tap](https://github.com/shoman4eg/homebrew-tap) - Homebrew tap for shoman4eg&#39;s tools (1 month ago)
 - [shoman4eg/go-regru](https://github.com/shoman4eg/go-regru) - Go client for REG.API 2 (reg.ru): domains, DNS zones, DNSSEC, services, billing (1 month ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 month ago)
@@ -24,22 +25,22 @@
 
 #### ⭐ Recent Stars
 
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (3 days ago)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (3 days ago)
-- [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) - Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA. (3 days ago)
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. (6 days ago)
+- [samehelhawary/phoxite](https://github.com/samehelhawary/phoxite) - PHP and Laravel code intelligence in Rust: an engine, a language server and a VS Code extension. (1 day ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (4 days ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (4 days ago)
+- [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) - Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA. (4 days ago)
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. (1 week ago)
 - [VinceGHER/openwren](https://github.com/VinceGHER/openwren) - A modern, fast, privacy-first email client that keeps your mail on your computer. Free and open source, for Linux, macOS and Windows. Built with Rust and React. (1 week ago)
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (1 week ago)
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Selfhosted Netflix (1 week ago)
 - [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper. (1 week ago)
 - [degenview/degenview](https://github.com/degenview/degenview) - Open-source TradingView alternative with Pine script support (2 weeks ago)
-- [0xCodez/DuoDesk](https://github.com/0xCodez/DuoDesk) - All your computers and your phone, working as one desk. Aurora redesign of TwinDesk. GPL-3.0 (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
 - [2serenity](https://github.com/2serenity)
 - [Stubbs943](https://github.com/Stubbs943)
-- [dehashednotavailable](https://github.com/dehashednotavailable)
+- [prysmourne](https://github.com/prysmourne)
 - [kpopdev](https://github.com/kpopdev)
 - [hexarch](https://github.com/hexarch)
 
