@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [samehelhawary/phoxite](https://github.com/samehelhawary/phoxite) - PHP and Laravel code intelligence in Rust: an engine, a language server and a VS Code extension. (1 day ago)
+- [samehelhawary/phoxite](https://github.com/samehelhawary/phoxite) - PHP and Laravel code intelligence in Rust: an engine, a language server and a VS Code extension. (2 days ago)
 - [shoman4eg/dowelcraft](https://github.com/shoman4eg/dowelcraft) - Cabinet furniture design: parts, sheet cutting, drilling, drawings. Opens and exports Bazis-Mebelshchik models. Desktop app, CLI and MCP server for AI. Early alpha. (2 weeks ago)
 - [shoman4eg/homebrew-tap](https://github.com/shoman4eg/homebrew-tap) - Homebrew tap for shoman4eg&#39;s tools (1 month ago)
 - [shoman4eg/go-regru](https://github.com/shoman4eg/go-regru) - Go client for REG.API 2 (reg.ru): domains, DNS zones, DNSSEC, services, billing (1 month ago)
 - [shoman4eg/moy-nalog](https://github.com/shoman4eg/moy-nalog) - Неофициальный php API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (1 month ago)
-- [bitrix-tools/framework-docs](https://github.com/bitrix-tools/framework-docs) - Официальная документация по фреймворку Bitrix Framework, основной для продуктов &#34;1С-Битрикс: Управление сайтом&#34; и &#34;Битрик24&#34; (3 months ago)
+- [bitrix-tools/framework-docs](https://github.com/bitrix-tools/framework-docs) - Официальная документация по фреймворку Bitrix Framework, основной для продуктов &#34;1С-Битрикс: Управление сайтом&#34; и &#34;Битрик24&#34; (4 months ago)
 - [shoman4eg/go-moy-nalog](https://github.com/shoman4eg/go-moy-nalog) - Неофициальный Go API клиент lknpd.nalog.ru (&#34;Мой Налог&#34;)  (4 months ago)
 
 #### 🌱 My latest projects
@@ -25,10 +25,10 @@
 
 #### ⭐ Recent Stars
 
-- [samehelhawary/phoxite](https://github.com/samehelhawary/phoxite) - PHP and Laravel code intelligence in Rust: an engine, a language server and a VS Code extension. (1 day ago)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (4 days ago)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (4 days ago)
-- [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) - Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA. (4 days ago)
+- [samehelhawary/phoxite](https://github.com/samehelhawary/phoxite) - PHP and Laravel code intelligence in Rust: an engine, a language server and a VS Code extension. (2 days ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (5 days ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (5 days ago)
+- [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) - Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA. (5 days ago)
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. (1 week ago)
 - [VinceGHER/openwren](https://github.com/VinceGHER/openwren) - A modern, fast, privacy-first email client that keeps your mail on your computer. Free and open source, for Linux, macOS and Windows. Built with Rust and React. (1 week ago)
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (1 week ago)
@@ -40,9 +40,9 @@
 
 - [2serenity](https://github.com/2serenity)
 - [Stubbs943](https://github.com/Stubbs943)
-- [prysmourne](https://github.com/prysmourne)
 - [kpopdev](https://github.com/kpopdev)
 - [hexarch](https://github.com/hexarch)
+- [meha10195-del](https://github.com/meha10195-del)
 
 
 #### 📫 Where to find me
